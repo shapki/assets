@@ -2,6 +2,22 @@
 
 ### Разное
 ##### Иконки
+<table>
+  <tr>
+    <td width="25%" style="padding: 5px;">Столбец 1</td>
+    <td width="25%" style="padding: 5px;">Столбец 2</td>
+    <td width="25%" style="padding: 5px;">Столбец 3</td>
+    <td width="25%" style="padding: 5px;">Столбец 4</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Данные 1</td>
+    <td style="padding: 5px;">Данные 2</td>
+    <td style="padding: 5px;">Данные 3</td>
+    <td style="padding: 5px;">Данные 4</td>
+  </tr>
+</table>
+
+
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | [![Discord x255](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Discord_x255.png "Discord x255")](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Discord_x255.png "Discord x255") | [![Roblox x255](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Roblox_x255.png "Roblox x255")](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Roblox_x255.png "Roblox x255") |  |  |  |  |
