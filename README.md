@@ -4,7 +4,7 @@
 ##### Иконки
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| [![Discord x255](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Discord_x255.png "Discord x255")](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Discord_x255.png "Discord x255") | [![Roblox x255](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Roblox_x255.png "Roblox x255")](https://cdn.jsdelivr.net/gh/shapki/img-assets@main/Ic_Roblox_x255.png "Roblox x255") |  |  |  |  |
+| [![Discord x255](https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/Ic_Discord_x255.png "Discord x255")](https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/Ic_Discord_x255.png "Discord x255") | [![Roblox x255](https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/Ic_Roblox_x255.png "Roblox x255")](https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/Ic_Roblox_x255.png "Roblox x255") |  |  |  |  |
 ##### Шрифты
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
