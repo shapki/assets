@@ -6,5 +6,25 @@
     "TRADE": "ОБМЕН",
     "QUESTS": "ЗАДАНИЯ",
     "EVENTS": "СОБЫТИЯ"
+  },
+  "Skins": {
+    "All": "Все",
+    "Halloween 2025": "Хэллоуин 2025",
+    "Arcade Frenzy": "Аркадное Безумие",
+    "Summer 2025": "Лето 2025",
+    "Exclusive": "Эксклюзивный",
+    "Sacred": "Священный",
+    "Legendary": "Легендарный",
+    "Epic": "Эпический",
+    "Rare": "Редкий",
+    "Uncommon": "Необычный",
+    "Common": "Обычный",
+    "Search...": "Поиск...",
+    "Extended": "Расширенный",
+    "Compact": "Компактный",
+    "Added:": "Добавлено:",
+    "Funtime Foxy": "Фантайм Фокси",
+    "Ringmaster Foxy": "Циркач Фокси",
+    "Community Contest #1\\nSACRED winner [1st]\\n@checkersntoast": "Конкурс #1\\nПобедитель СВЯЩЕННЫЙ [1 место]\\n@checkersntoast"
   }
 }
