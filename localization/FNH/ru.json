@@ -8,12 +8,14 @@
     "EVENTS": "СОБЫТИЯ"
   },
   "Skins": {
+    "__comment01__": "||| MISC",
     "All": "Все",
     "Search...": "Поиск...",
     "Extended": "Расширенный",
     "Compact": "Компактный",
     "Added:": "Доб.:",
 
+    "__comment02__": "||| EVENTS / RARITIES",
     "Halloween 2025": "Хэллоуин 2025",
     "Arcade Frenzy": "Аркадное Безумие",
     "Summer 2025": "Лето 2025",
@@ -25,6 +27,7 @@
     "Uncommon": "Необычные",
     "Common": "Обычные",
     
+    "__comment03__": "||| SKINS / EXCLUSIVE",
     "Ringmaster Foxy": "Циркач Фокси",
     "Bling Bonnie": "Блеск Бонни",
     "Twisted Bonnie": "Искажённый Бонни",
@@ -37,6 +40,7 @@
     "Samurai Foxy": "Самурай Фокси",
     "Bling Freddy": "Блекс Фредди",
     
+    "__comment04__": "||| SKINS / SACRED",
     "Midnight Motorist": "Полуночный Гонщик",
     "Community Contest #1\nSACRED category winner [1st]\n@checkersntoast": "Конкурс Сообщества #1\nПобедитель МИФИЧЕСКОЙ категории\n[1 место]\n@checkersntoast",
     "MXES": "ЭХМФ.X",
@@ -44,14 +48,15 @@
     "Ennard": "Эннард",
     "Nightmare Tidal King": "Кошмарный Король Морей",
     "Nightmare": "Кошмар",
-    "Nightmare Fredebar": "Кошмарный Фредбер",
+    "Nightmare Fredbear": "Кошмарный Фредбер",
     "BurnTrap": "БёрнТрап",
     "Purple Guy": "Фиолетовый Парень",
     
+    "__comment05__": "||| SKINS / LEGENDARY",
     "ClownTrap": "КлоунТрап",
     "It was given to the TOP 50 \"Most Candy\" collectors": "Был выдан ТОП 50 сборщикам \"Больше всего конфет\"",
     "Grim Chica": "Мрачная Чика",
-    "Chrome Reaper Ballora": "Хромированная Жнец Баллора",
+    "Chrome Reaper Ballora": "Хром-Жнец Баллора",
     "Community Contest #1\nLEGENDARY category winner [2nd]\n@z3ntyy--": "Конкурс Сообщества #1\nПобедитель ЛЕГЕНДАРНОЙ категории\n[2 место]\n@z3ntyy--",
     "Neo Funtime Freddy": "Нео Фантайм Фредди",
     "Community Contest #1\nLEGENDARY category winner [1st]\n@purediana": "Конкурс Сообщества #1\nПобедитель ЛЕГЕНДАРНОЙ категории\n[1 место]\n@purediana",
@@ -80,6 +85,7 @@
     "Shadow Chica": "Теневая Чика",
     "Shadow Freddy": "Теневой Фредди",
     
+    "__comment06__": "||| SKINS / EPIC",
     "Werewolf Foxy": "Оборотень Фокси",
     "Pumpkin Freddy": "Тыквенный Фредди",
     "Vampire Bonnie": "Вампир Бонни",
@@ -99,6 +105,7 @@
     "Withered Chica": "Сломанная Чика",
     "Withered Freddy": "Сломанный Фредди",
 
+    "__comment07__": "||| SKINS / RARE",
     "Invader Bonnie": "Захватчик Бонни",
     "Community Contest #1\nRARE category winner [1st]\n@itsthatoddity": "Конкурс Сообщества #1\nПобедитель РЕДКОЙ категории\n[1 место]\n@itsthatoddity",
     "Cyberbot Toy Bonnie": "Кибербот Игрушечный Бонни",
@@ -116,6 +123,7 @@
     "Golden Chica": "Золотая Чика",
     "Golden Freddy": "Золотой Фредди",
 
+    "__comment08__": "||| SKINS / UNCOMMON",
     "Tamogachi Bonnie": "Тамогачи Бонни",
     "Community Contest #1\nUNCOMMON category winner [1st]\n@checkersntoast": "Конкурс Сообщества #1\nПобедитель НЕОБЫЧНОЙ\nкатегории [1 место]\n@checkersntoast",
     "Holo Freddy": "Голо-Фредди",
@@ -123,7 +131,7 @@
     "Synthwave Chica": "Синтезаторная Чика",
     "Community Contest #1\nUNCOMMON category winner [2nd]\n@kittenmist": "Конкурс Сообщества #1\nПобедитель НЕОБЫЧНОЙ категории\n[2 место]\n@kittenmist",
     "Sunburnt Endo 02": "Обгоревший Эндо 02",
-    "Sand Castle Foxy": "Фокси - замок из песка",
+    "Sand Castle Foxy": "Фокси - песчаный замок",
     "Soul Foxy": "Душа Фокси",
     "Soul Bonnie": "Душа Бонни",
     "Soul Chica": "Душа Чики",
@@ -131,9 +139,10 @@
     "Foxy": "Фокси",
     "Bonnie": "Бонни",
 
-    "Pop-up Chica": "Оконная Чика",
+    "__comment09__": "||| SKINS / COMMON",
+    "Pop-up Chica": "Всплывающая Чика",
     "Community Contest #1\nCOMMON category winner [3rd]\n@nicolepl22": "Конкурс Сообщества #1\nПобедитель ОБЫЧНОЙ категории\n[3 место]\n@nicolepl22",
-    "Astronaut Chica": "Чика-астронавт",
+    "Astronaut Chica": "Чика-Астронавт",
     "Community Contest #1\nCOMMON category winner [1st]\n@romboloide": "Конкурс Сообщества #1\nПобедитель ОБЫЧНОЙ категории\n[1 место]\n@romboloide",
     "Microwave Freddy": "Микроволновный Фредди",
     "Community Contest #1\nCOMMONcategory  winner [2nd]\n@checkersntoast": "Конкурс Сообщества #1\nПобедитель ОБЫЧНОЙ категории\n[2 место]\n@checkersntoast",
