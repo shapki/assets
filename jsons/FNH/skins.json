@@ -1,0 +1,779 @@
+{
+    "skinsData": {
+        "exclusive": [
+            {
+                "name": "Catrina Chica",
+                "addDate": "17/10/2025",
+                "abilityId": "sugarCrash",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_CatrinaChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ringmaster Foxy",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "Exists": "1,262",
+                "abilityId": "circuitBreaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_RingmasterFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Bling Bonnie",
+                "addDate": "19/09/2025",
+                "lockDate": "03/10/2025",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BlingBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Twisted Bonnie",
+                "addDate": "29/08/2025",
+                "lockDate": "19/09/2025",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_TwistedBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Captain Foxy",
+                "addDate": "17/08/2025",
+                "lockDate": "29/08/2025",
+                "Exists": "2,893",
+                "abilityId": "circuitBreaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_CaptainFoxy.png",
+                "imageClass": "exclusive_captainFoxy_image"
+            },
+            {
+                "name": "Bullfighter Endo",
+                "addDate": "03/08/2025",
+                "lockDate": "17/08/2025",
+                "abilityId": "shortCircuit",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BullfighterEndo.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Vocalist Bonnie",
+                "addDate": "19/07/2025",
+                "lockDate": "03/08/2025",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_VocalistBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Freedom Freddy",
+                "addDate": "04/07/2025",
+                "lockDate": "19/07/2025",
+                "Exists": "2,786",
+                "abilityId": "markedOne",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_FreedomFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Lady Chica",
+                "addDate": "20/06/2025",
+                "lockDate": "04/07/2025",
+                "abilityId": "sugarCrash",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LadyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Cardmaster Bonnie",
+                "addDate": "06/06/2025",
+                "lockDate": "20/06/2025",
+                "Exists": "7,342",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_CardmasterBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Samurai Foxy",
+                "addDate": "17/05/2025",
+                "lockDate": "06/06/2025",
+                "abilityId": "circuitBreaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_SamuraiFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Bling Freddy",
+                "addDate": "25/04/2025",
+                "lockDate": "17/05/2025",
+                "abilityId": "markedOne",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BlingFreddy.png",
+                "imageClass": "exclusive_blingFreddy_image"
+            }
+        ],
+        "Sacred": [
+            {
+                "name": "ClownTrap",
+                "addDate": "19/09/2025",
+                "limited": "halloween2025",
+                "comment": "ClownTrap COMMENT",
+                "abilityId": "springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_CandyCollectors_Sacred_ClownTrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Midnight Motorist",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Midnight Motorist COMMENT",
+                "abilityId": "vengeance",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Sacred_MidnightMotorist.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "MXES",
+                "addDate": "29/08/2025",
+                "abilityId": "digitalReality",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_MXES.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Lolbit",
+                "addDate": "03/08/2025",
+                "abilityId": "pleaseStandBy",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Lolbit.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ennard",
+                "addDate": "19/07/2025",
+                "abilityId": "limbReaper",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Ennard.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Nightmare Tidal King",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "companionBear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Sacred_NightmareTidalKing.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Nightmare",
+                "addDate": "06/06/2025",
+                "abilityId": "companionBear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Nightmare.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Nightmare Fredbear",
+                "addDate": "06/06/2025",
+                "abilityId": "companionBear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_NightmareFredbear.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "BurnTrap",
+                "addDate": "24/05/2025",
+                "abilityId": "scorchpath",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_BurnTrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Purple Guy",
+                "addDate": "17/05/2025",
+                "abilityId": "vengeance",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_PurpleGuy.png",
+                "imageClass": "idk_temp_image"
+            }
+        ],
+        "Legendary": [
+            {
+                "name": "Grim Chica",
+                "addDate": "03/10/2025",
+                "limited": "halloween2025",
+                "comment": "only_from_case",
+                "abilityId": "sugarCrash",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_Legendary_GrimChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Chrome Reaper Ballora",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Chrome Reaper Ballora COMMENT",
+                "abilityId": "deadlyGrace",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Legendary_ChromeReaperBallora.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Neo Funtime Freddy",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Neo Funtime Freddy COMMENT",
+                "abilityId": ["markedOne", "bonBonBite"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Legendary_NeoFuntimeFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Spaceglow RWQ",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Spaceglow RWQ COMMENT",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Legendary_SpaceglowRWQ.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Retro Chica",
+                "addDate": "07/08/2025",
+                "lockDate": "19/09/2025",
+                "limited": "arcadeFrenzy",
+                "abilityId": "sugarCrash",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ArcadeFrenzy_Legendary_RetroChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Cyber Foxy",
+                "addDate": "07/08/2025",
+                "lockDate": "19/09/2025",
+                "limited": "arcadeFrenzy",
+                "abilityId": "circuitBreaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ArcadeFrenzy_Legendary_CyberFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Arcade Freddy",
+                "addDate": "07/08/2025",
+                "lockDate": "19/09/2025",
+                "limited": "arcadeFrenzy",
+                "abilityId": "markedOne",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ArcadeFrenzy_Legendary_ArcadeFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Pixel Bonnie",
+                "addDate": "07/08/2025",
+                "lockDate": "19/09/2025",
+                "limited": "arcadeFrenzy",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ArcadeFrenzy_Legendary_PixelBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Funtime Foxy",
+                "addDate": "03/08/2025",
+                "abilityId": ["circuitBreaker", "remoteAnchor"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_FuntimeFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Funtime Freddy",
+                "addDate": "03/08/2025",
+                "abilityId": ["markedOne", "bonBonBite"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_FuntimeFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ballora",
+                "addDate": "19/07/2025",
+                "abilityId": "deadlyGrace",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_Ballora.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Circus Baby",
+                "addDate": "19/07/2025",
+                "abilityId": "iceCreamLure",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_CircusBaby.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Kraken Mangle",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "mangled",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Legendary_KrakenMangle.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Flaming Springtrap",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Legendary_FlamingSpringtrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Tiki Chica",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Legendary_TikiChica.png",
+                "imageClass": "idk_temp_image",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "sugarCrash"
+            },
+            {
+                "name": "Nightmare Foxy",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareFoxy.png",
+                "imageClass": "idk_temp_image",
+                "addDate": "06/06/2025",
+                "abilityId": "circuitBreaker"
+            },
+            {
+                "name": "Nightmare Bonnie",
+                "addDate": "06/06/2025",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Nightmare Chica",
+                "addDate": "06/06/2025",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Nightmare Freddy",
+                "addDate": "06/06/2025",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "RWQFSFASXC",
+                "addDate": "24/05/2025",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_RWQFSFASXC.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Mangle",
+                "addDate": "10/05/2025",
+                "abilityId": "mangled",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_Mangle.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Springtrap",
+                "abilityId": "springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_Springtrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Shadow Foxy",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Shadow Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Shadow Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Shadow Freddy",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowFreddy.png",
+                "imageClass": "idk_temp_image"
+            }
+        ],
+        "Epic": [
+            {
+                "name": "Werewolf Foxy",
+                "addDate": "03/10/2025",
+                "limited": "halloween2025",
+                "comment": "only_from_case",
+                "abilityId": "circuitBreaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_Epic_WerewolfFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Pumpkin Freddy",
+                "addDate": "03/10/2025",
+                "limited": "halloween2025",
+                "comment": "only_from_case",
+                "abilityId": "markedOne",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_Epic_PumpkinFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Vampire Bonnie",
+                "addDate": "03/10/2025",
+                "limited": "halloween2025",
+                "comment": "only_from_case",
+                "abilityId": "amplifiedFear",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_Epic_VampireBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Frankin Freddy",
+                "addDate": "03/10/2025",
+                "limited": "halloween2025",
+                "comment": "only_from_case",
+                "abilityId": "markedOne",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_Epic_FrankinFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Star Destroyer Foxy",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025", 
+                "limited": "communityContest1",
+                "comment": "Star Destroyer Foxy COMMENT",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Epic_StarDestroyerFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Decoder Puppet",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Decoder Puppet COMMENT",
+                "abilityId": "silentSteps",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Epic_DecoderPuppet.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Termin Endo",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Termin Endo COMMENT",
+                "abilityId": "shortCircuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Epic_TerminEndo.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Pool Noodle Marionette",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "silentSteps",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Epic_PoolNoodleMarionette.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Sunken Bonnie",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Epic_SunkenBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Endo 02",
+                "addDate": "10/05/2025",
+                "abilityId": "shortCircuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_Endo02.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Marionette",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_Marionette.png",
+                "imageClass": "idk_temp_image",
+                "abilityId": "silentSteps"
+            },
+            {
+                "name": "Withered Foxy",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredFoxy.png",
+                "imageClass": "idk_temp_image",
+                "abilityId": "circuitBreaker"
+            },
+            {
+                "name": "Withered Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredBonnie.png",
+                "imageClass": "epic_witheredBonnie_image"
+            },
+            {
+                "name": "Withered Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Withered Freddy",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredFreddy.png",
+                "imageClass": "idk_temp_image"
+            }
+        ],
+        "Rare": [
+            {
+                "name": "Invader Bonnie",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Invader Bonnie COMMENT",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Rare_InvaderBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Cyberbot Toy Bonnie",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Cyberbot Toy Bonnie COMMENT",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Rare_CyberbotToyBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Live-Wire Toy Chica",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Live-Wire Toy Chica COMMENT",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Rare_LiveWireToyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Rotisserie Endo 01",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "shortCircuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Rare_RotisserieEndo01.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Beach Toy Chica",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Rare_BeachToyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Endo 01",
+                "addDate": "10/05/2025",
+                "abilityId": "shortCircuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_Endo01.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Toy Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Toy Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Toy Freddy",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Golden Foxy",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenFoxy.png",
+                "imageClass": "uncommon_foxy_image"
+            },
+            {
+                "name": "Golden Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenBonnie.png",
+                "imageClass": "uncommon_bonnie_image"
+            },
+            {
+                "name": "Golden Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenChica.png",
+                "imageClass": "common_chica_image"
+            },
+            {
+                "name": "Golden Freddy",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenFreddy.png",
+                "imageClass": "common_freddy_image"
+            }
+        ],
+        "Uncommon": [
+            {
+                "name": "Tamogachi Bonnie",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Tamogachi Bonnie COMMENT",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Uncommon_TamogachiBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Holo Freddy",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Holo Freddy COMMENT",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Uncommon_HoloFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Synthwave Chica",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Synthwave Chica COMMENT",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Uncommon_SynthwaveChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Sunburnt Endo 02",
+                "addDate": "20/06/2025", 
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "shortCircuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Uncommon_SunburntEndo02.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Sand Castle Foxy",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Uncommon_SandCastleFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Soul Foxy",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulFoxy.png",
+                "imageClass": "uncommon_foxy_image"
+            },
+            {
+                "name": "Soul Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulBonnie.png",
+                "imageClass": "uncommon_bonnie_image"
+            },
+            {
+                "name": "Soul Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulChica.png",
+                "imageClass": "common_chica_image"
+            },
+            {
+                "name": "Soul Freddy",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulFreddy.png",
+                "imageClass": "common_freddy_image"
+            },
+            {
+                "name": "Foxy",
+                "abilityId": "circuitBreaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_Foxy.png",
+                "imageClass": "uncommon_foxy_image"
+            },
+            {
+                "name": "Bonnie",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_Bonnie.png",
+                "imageClass": "uncommon_bonnie_image"
+            }
+        ],
+        "Common": [
+            {
+                "name": "Pop-up Chica",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Pop-up Chica COMMENT",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Common_PopUpChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Astronaut Chica",
+                "addDate": "03/10/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Astronaut Chica COMMENT",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Common_AstronautChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Microwave Freddy",
+                "addDate": "19/09/2025",
+                "lockDate": "17/10/2025",
+                "limited": "communityContest1",
+                "comment": "Microwave Freddy COMMENT",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_CommunityContest1_Common_MicrowaveFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Scuba Toy Bonnie",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "amplifiedFear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Common_ScubaToyBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Tourist Toy Freddy",
+                "addDate": "20/06/2025",
+                "lockDate": "19/07/2025",
+                "limited": "summer2025",
+                "abilityId": "markedOne",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Common_TouristToyFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Chica",
+                "abilityId": "sugarCrash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Common_Chica.png",
+                "imageClass": "common_chica_image"
+            },
+            {
+                "name": "Freddy",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Common_Freddy.png",
+                "imageClass": "common_freddy_image",
+                "abilityId": "markedOne"
+            }
+        ]
+    }
+}
