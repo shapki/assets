@@ -1,5 +1,19 @@
 {
     "skinsData": {
+        "limited_cats": {
+            "summer2025": [
+                "Summer 2025"
+            ],
+            "communityContest1": [
+                "Community Contest #1"
+            ],
+            "arcadeFrenzy": [
+                "Arcade Frenzy"
+            ],
+            "halloween2025": [
+                "Halloween 2025"
+            ]
+        },
         "exclusive": [
             {
                 "name": "Catrina Chica",
