@@ -156,102 +156,144 @@
       "name": "Listening Mode",
       "desk": "Silence sharpens the senses. While standing still, activates ability to detect survivors hacking nearby. A distinct sound or notification alerts both the animatronic and survivors if detected. Lasts 1/2/3 seconds."
     },
-    "Final Stand": "Final Stand",
-    "Final Stand DESK": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 7.5%/15%/20%, making last-minute escapes even more dangerous.",
-    "Marked One": "Marked One",
-    "Marked One DESK": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration.",
-    "Marked One NIGHTMARE": "Increases the range detection.",
-    "Sugar Crash": "Sugar Crash",
-    "Sugar Crash DESK": "Can throw a cupcake at the nearby survivor to deal damage and weaken their escape.",
-    "Sugar Crash NIGHTMARE": "Can take down survivors.",
-    "Amplified Fear": "Amplified Fear",
-    "Amplified Fear DESK": "Strums a chilling chord, sending shockwaves that slow down nearby survivors in the animatronic's presence.",
-    "Amplified Fear NIGHTMARE": "Increases the slow down range.",
-    "Circuit Breaker": "Circuit Breaker",
-    "Circuit Breaker DESK": "The hooked metal hand can temporarily sabotage terminals by striking them, stalling survivors and slowing their progress.",
-    "Circuit Breaker NIGHTMARE": "Effect lasts significantly longer.",
-    "Springlocked": "Springlocked",
-    "Springlocked DESK": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds.",
-    "Mangled": "Mangled",
-    "Mangled DESK": "Can grab the nearest survivor within 50 studs (Dodgeable). 30 seconds cooldown.",
-    "Silent Steps": "Silent Steps",
-    "Silent Steps DESK": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown.",
-    "Short Circuit": "Short Circuit",
-    "Short Circuit DESK": "Resets the progress of the nearest terminal. 90 seconds cooldown.",
-    "Vengeance": "Vengeance",
-    "Vengeance DESK": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage.",
-    "Scorchpath": "Scorchpath",
-    "Scorchpath DESK": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it.",
-    "Companion Bear": "Companion Bear",
-    "Companion Bear DESK": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie.",
-    "Ice Cream Lure": "Ice Cream Lure",
-    "Ice Cream Lure DESK": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors.",
-    "Deadly Grace": "Deadly Grace",
-    "Deadly Grace DESK": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown.",
-    "Limb Reaper": "Limb Reaper",
-    "Limb Reaper DESK": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
-    "Bon Bon Bite": "Bon Bon Bite",
-    "Bon Bon Bite DESK": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown.",
-    "Remote Anchor": "Remote Anchor",
-    "Remote Anchor DESK": "Animatronic can drop a trap that trips survivors.",
-    "Please Stand By": "Please Stand By",
-    "Please Stand By DESK": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction.",
-    "Digital Reality": "Digital Reality",
-    "Digital Reality DESK": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown."
+    "Final Stand": {
+      "name": "Final Stand",
+      "desk": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 7.5%/15%/20%, making last-minute escapes even more dangerous."
+    },
+    "Marked One": {
+      "name": "Marked One",
+      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration.",
+      "nightmare": "Increases the range detection."
+    },
+    "Sugar Crash": {
+      "name": "Sugar Crash",
+      "desk": "Can throw a cupcake at the nearby survivor to deal damage and weaken their escape.",
+      "nightmare": "Can take down survivors."
+    },
+    "Amplified Fear": {
+      "name": "Amplified Fear",
+      "desk": "Strums a chilling chord, sending shockwaves that slow down nearby survivors in the animatronic's presence.",
+      "nightmare": "Increases the slow down range."
+    },
+    "Circuit Breaker": {
+      "name": "Circuit Breaker",
+      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them, stalling survivors and slowing their progress.",
+      "nightmare": "Effect lasts significantly longer."
+    },
+    "Springlocked": {
+      "name": "Springlocked",
+      "desk": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds."
+    },
+    "Mangled": {
+      "name": "Mangled",
+      "desk": "Can grab the nearest survivor within 50 studs (Dodgeable). 30 seconds cooldown."
+    },
+    "Silent Steps": {
+      "name": "Silent Steps",
+      "desk": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown."
+    },
+    "Short Circuit": {
+      "name": "Short Circuit",
+      "desk": "Resets the progress of the nearest terminal. 90 seconds cooldown."
+    },
+    "Vengeance": {
+      "name": "Vengeance",
+      "desk": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage."
+    },
+    "Scorchpath": {
+      "name": "Scorchpath",
+      "desk": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it."
+    },
+    "Companion Bear": {
+      "name": "Companion Bear",
+      "desk": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie."
+    },
+    "Ice Cream Lure": {
+      "name": "Ice Cream Lure",
+      "desk": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors."
+    },
+    "Deadly Grace": {
+      "name": "Deadly Grace",
+      "desk": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown."
+    },
+    "Limb Reaper": {
+      "name": "Limb Reaper",
+      "desk": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs."
+    },
+    "Bon Bon Bite": {
+      "name": "Bon Bon Bite",
+      "desk": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown."
+    },
+    "Remote Anchor": {
+      "name": "Remote Anchor",
+      "desk": "Animatronic can drop a trap that trips survivors."
+    },
+    "Please Stand By": {
+      "name": "Please Stand By",
+      "desk": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction."
+    },
+    "Digital Reality": {
+      "name": "Digital Reality",
+      "desk": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown."
+    }
   },
   "Quests": {
-    "Quests": "Quests",
-    "Daily Quest (only 3)": "Daily Quest (only 3)",
-    "Weekly Quest (only 5)": "Weekly Quest (only 5)",
-    "Time settings": "Time settings",
-    "Date format:": "Date format:",
-    "DD:HH:MM:SS": "DD:HH:MM:SS",
-    "DD/MM HH:MM:SS": "DD/MM HH:MM:SS",
-    "Daily Quest:": "Daily Quest:",
-    "Weekly Quest:": "Weekly Quest:",
-    "Save": "Save",
+    "Side panel": {
+      "Quests": "Quests",
+      "Daily Quest (only 3)": "Daily Quest (only 3)",
+      "Weekly Quest (only 5)": "Weekly Quest (only 5)",
+      "Time settings": "Time settings",
+      "Date format:": "Date format:",
+      "DD:HH:MM:SS": "DD:HH:MM:SS",
+      "DD/MM HH:MM:SS": "DD/MM HH:MM:SS",
+      "Daily Quest:": "Daily Quest:",
+      "Weekly Quest:": "Weekly Quest:",
+      "Save": "Save",
+      "Invalid time format! Use DD:HH:MM:SS": "Invalid time format! Use DD:HH:MM:SS",
+      "Timer saved!": "Timer saved!",
+      "You can select no more than ${maxSelection} ${type === 'daily' ? 'daily' : 'weekly'} quests.": "You can select no more than ${maxSelection} ${type === 'daily' ? 'daily' : 'weekly'} quests."
+    },  
     "Claimed": "Claimed",
     "Rewards:": "Rewards:",
-    "Invalid time format! Use DD:HH:MM:SS": "Invalid time format! Use DD:HH:MM:SS",
-    "Timer saved!": "Timer saved!",
-    "You can select no more than ${maxSelection} ${type === 'daily' ? 'daily' : 'weekly'} quests.": "You can select no more than ${maxSelection} ${type === 'daily' ? 'daily' : 'weekly'} quests.",
-    
-    "Daily Quest": "Daily Quest",
-    "Hack 5 terminals as a survivor": "Hack 5 terminals as a survivor",
-    "Hack 10 terminals as a survivor": "Hack 10 terminals as a survivor",
-    "Hack 15 terminals as a survivor": "Hack 15 terminals as a survivor",
-    "Hack 20 terminals as a survivor": "Hack 20 terminals as a survivor",
-    "Heal 5 survivors": "Heal 5 survivors",
-    "Heal 7 survivors": "Heal 7 survivors",
-    "Heal 12 survivors": "Heal 12 survivors",
-    "Heal 15 survivors": "Heal 15 survivors",
-    "Heal 20 survivors": "Heal 20 survivors",
-    "Open 2 exits as a survivor": "Open 2 exits as a survivor",
-    "Open 4 exits as a survivor": "Open 4 exits as a survivor",
-    "Open 6 exits as a survivor": "Open 6 exits as a survivor",
-    "Open 8 exits as a survivor": "Open 8 exits as a survivor",
-    "Escape 2 times as a survivor": "Escape 2 times as a survivor",
-    "Escape 3 times as a survivor": "Escape 3 times as a survivor",
-    "Escape 4 times as a survivor": "Escape 4 times as a survivor",
-    "Escape 5 times as a survivor": "Escape 5 times as a survivor",
-    "Escape 6 times as a survivor": "Escape 6 times as a survivor",
-    "Escape 10 times as a survivor": "Escape 10 times as a survivor",
-    "Capture 3 survivors": "Capture 3 survivors",
-    "Capture 5 survivors": "Capture 5 survivors",
-    "Capture 7 survivors": "Capture 7 survivors",
-    "Capture 9 survivors": "Capture 9 survivors",
-    "Win as an animatronic for 1 rounds": "Win as an animatronic for 1 rounds",
-    "Win as an animatronic for 2 rounds": "Win as an animatronic for 2 rounds",
-    "Win as an animatronic for 4 rounds": "Win as an animatronic for 4 rounds",
-    "Win as an animatronic for 5 rounds": "Win as an animatronic for 5 rounds",
-    
-    "Weekly Quest": "Weekly Quest",
-    "Hack 80 terminals as a survivor": "Hack 80 terminals as a survivor",
-    "Heal 80 survivors": "Heal 80 survivors",
-    "Open 32 exits as a survivor": "Open 32 exits as a survivor",
-    "Escape 40 times as a survivor": "Escape 40 times as a survivor",
-    "Capture 36 survivors": "Capture 36 survivors",
-    "Win as an animatronic for 20 rounds": "Win as an animatronic for 20 rounds"
+    "Daily": {
+      "title": "Daily Quest",
+      "5 terminals": "Hack 5 terminals as a survivor",
+      "10 terminals": "Hack 10 terminals as a survivor",
+      "15 terminals": "Hack 15 terminals as a survivor",
+      "20 terminals": "Hack 20 terminals as a survivor",
+      "Heal 5": "Heal 5 survivors",
+      "Heal 7": "Heal 7 survivors",
+      "Heal 12": "Heal 12 survivors",
+      "Heal 15": "Heal 15 survivors",
+      "Heal 20": "Heal 20 survivors",
+      "2 exits": "Open 2 exits as a survivor",
+      "4 exits": "Open 4 exits as a survivor",
+      "6 exits": "Open 6 exits as a survivor",
+      "8 exits": "Open 8 exits as a survivor",
+      "Escape 2": "Escape 2 times as a survivor",
+      "Escape 3": "Escape 3 times as a survivor",
+      "Escape 4": "Escape 4 times as a survivor",
+      "Escape 5": "Escape 5 times as a survivor",
+      "Escape 6": "Escape 6 times as a survivor",
+      "Escape 10": "Escape 10 times as a survivor",
+      "Capture 3": "Capture 3 survivors",
+      "Capture 5": "Capture 5 survivors",
+      "Capture 7": "Capture 7 survivors",
+      "Capture 9": "Capture 9 survivors",
+      "Win 1": "Win as an animatronic for 1 rounds",
+      "Win 2": "Win as an animatronic for 2 rounds",
+      "Win 4": "Win as an animatronic for 4 rounds",
+      "Win 5": "Win as an animatronic for 5 rounds"
+    },
+    "Weekly": {
+      "title": "Weekly Quest",
+      "80 terminals": "Hack 80 terminals as a survivor",
+      "Heal 80": "Heal 80 survivors",
+      "32 exits": "Open 32 exits as a survivor",
+      "Escape 40": "Escape 40 times as a survivor",
+      "Capture 36": "Capture 36 survivors",
+      "Win 20": "Win as an animatronic for 20 rounds"
+    }
   },
   "Skins": {
     "misc": {
