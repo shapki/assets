@@ -150,7 +150,7 @@
             {
                 "name": "Ennard",
                 "addDate": "19/07/2025",
-                "abilityId": "limbReaper",
+                "abilityId": "Limb Reaper",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Ennard.png",
                 "imageClass": "idk_temp_image"
             },
@@ -276,7 +276,7 @@
             {
                 "name": "Funtime Foxy",
                 "addDate": "03/08/2025",
-                "abilityId": ["Circuit Breaker", "remoteAnchor"],
+                "abilityId": ["Circuit Breaker", "Remote Anchor"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_FuntimeFoxy.png",
                 "imageClass": "idk_temp_image"
             },
