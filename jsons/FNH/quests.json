@@ -1,0 +1,41 @@
+{
+    "questsData": {
+        "Daily": [
+            "5 terminals",
+            "10 terminals",
+            "15 terminals",
+            "20 terminals",
+            "Heal 5",
+            "Heal 7",
+            "Heal 12",
+            "Heal 15",
+            "Heal 20",
+            "2 exits",
+            "4 exits",
+            "6 exits",
+            "8 exits",
+            "Escape 2",
+            "Escape 3",
+            "Escape 4",
+            "Escape 5",
+            "Escape 6",
+            "Escape 10",
+            "Capture 3",
+            "Capture 5",
+            "Capture 7",
+            "Capture 9",
+            "Win 1",
+            "Win 2",
+            "Win 4",
+            "Win 5"
+        ],
+        "Weekly": [
+            "80 terminals",
+            "Heal 80",
+            "32 exits",
+            "Escape 40",
+            "Capture 36",
+            "Win 20"
+        ]
+    }
+}
