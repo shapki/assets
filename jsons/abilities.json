@@ -3,129 +3,129 @@
         "Dim Presence": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DimPresence_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DimPresence_x1000.png",
             "levels": true
         },
         "Predators Trail": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_PredatorsTrail_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_PredatorsTrail_x1000.png",
             "levels": true
         },
         "Rescue Signal": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RescueSignal_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RescueSignal_x1000.png",
             "levels": true
         },
         "Brute Force": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_BruteForce_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_BruteForce_x1000.png",
             "levels": true
         },
         "Listening Mode": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ListeningMode_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ListeningMode_x1000.png",
             "levels": true
         },
         "Final Stand": {
             "color1": "#616161",
             "color2": "#010101",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_FinalStand_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_FinalStand_x1000.png",
             "levels": true
         },
         "Marked One": {
             "color1": "#c2793a",
             "color2": "#744924",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MarkedOne_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MarkedOne_x1000.png"
         },
         "Sugar Crash": {
             "color1": "#c2ba47",
             "color2": "#78732e",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SugarCrash_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SugarCrash_x1000.png"
         },
         "Amplified Fear": {
             "color1": "#4444c2",
             "color2": "#2b2b72",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_AmplifiedFear_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_AmplifiedFear_x1000.png"
         },
         "Circuit Breaker": {
             "color1": "#911919",
             "color2": "#5d0f0f",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_CircuitBreaker_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_CircuitBreaker_x1000.png"
         },
         "Springlocked": {
             "color1": "#376822",
             "color2": "#264419",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Springlocked_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Springlocked_x1000.png"
         },
         "Mangled": {
             "color1": "#db4bff",
             "color2": "#9436ac",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Mangled_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Mangled_x1000.png"
         },
         "Silent Steps": {
             "color1": "#364e8c",
             "color2": "#233155",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SilentSteps_x100.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SilentSteps_x1000.png",
             "levels": true
         },
         "Short Circuit": {
             "color1": "#58a9c2",
             "color2": "#3e7585",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ShortCircuit_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ShortCircuit_x1000.png"
         },
         "Vengeance": {
             "color1": "#db4bff",
             "color2": "#843099",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Vengeance_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Vengeance_x1000.png"
         },
         "Scorchpath": {
             "color1": "#f89233",
             "color2": "#9b5c22",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Scorchpath_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Scorchpath_x1000.png"
         },
         "Companion Bear": {
             "color1": "#f8d733",
             "color2": "#8b7920",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_CompanionBear_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_CompanionBear_x1000.png"
         },
         "Ice Cream Lure": {
             "color1": "#f83378",
             "color2": "#a02450",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_IceCreamLure_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_IceCreamLure_x1000.png"
         },
         "Deadly Grace": {
             "color1": "#3351f8",
             "color2": "#1d309b",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DeadlyGrace_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DeadlyGrace_x1000.png"
         },
         "Limb Reaper": {
             "color1": "#f83336",
             "color2": "#b22527",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_LimbReaper_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_LimbReaper_x1000.png"
         },
         "Bon Bon Bite": {
             "color1": "#3340f8",
             "color2": "#232b95",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_BonBonBite_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_BonBonBite_x1000.png"
         },
         "Remote Anchor": {
             "color1": "#f87ea8",
             "color2": "#89485f",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RemoteAnchor_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RemoteAnchor_x1000.png"
         },
         "Please Stand By": {
             "color1": "#b633f8",
             "color2": "#6f1f97",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_PleaseStandBy_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_PleaseStandBy_x1000.png"
         },
         "Digital Reality": {
             "color1": "#3370f8",
             "color2": "#20489c",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DigitalReality_x100.png"
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DigitalReality_x1000.png"
         }
     }
 }
