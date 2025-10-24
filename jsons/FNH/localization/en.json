@@ -447,5 +447,15 @@
       "Chica": "Chica",
       "Freddy": "Freddy"
     }
+  },
+  "Updates": {
+    "24/10/2025 14:00": {
+      "title": false,
+      "desk": "Test log\nwithout title\nand banner\n\n=)"
+    },
+    "24/10/2025 13:40": {
+      "title": "The Update Log has been added!",
+      "desk": "📝Now almost any wiki update will be recorded here!\n💡It'll be interesting..."
+    }
   }
 }
