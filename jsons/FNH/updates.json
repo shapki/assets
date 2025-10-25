@@ -1,9 +1,11 @@
 {
     "updatesData": {
         "24/10/2025 14:00": {
+            "timestamp": "1761303600",
             "banner": false
         },
         "24/10/2025 13:40": {
+            "timestamp": "1761302400",
             "banner": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Banners/Updates/Img_FiveNightsHunted_24-10-2025_13-40.png"
         }
     }
