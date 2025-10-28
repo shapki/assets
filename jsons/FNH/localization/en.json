@@ -455,7 +455,8 @@
       "latest": "LATEST",
       "loading": "Loading updates...",
       "pageTitle": "📝 Update Log",
-      "error": "Failed to load updates. Please try again later."
+      "error": "Failed to load updates. Please try again later.",
+      "sectionPlaceholder": "📝 Section"
     },
     "27/10/2025 20:00": {
       "title": "Test Update Log With Sections",
