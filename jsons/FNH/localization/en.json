@@ -518,19 +518,19 @@
     },
     "02/11/2025 11:00": {
       "title": "\"The Joy Of Creation\" Update",
-      "desk": "New skins, abilities, skills and new map.",
+      "desc": "New skins, abilities, skills and new map.",
       "sections": {
         "skins": {
           "name": "SKINS",
-          "desk": "Epics:\nEndo B Angel;\nEndo C Mouth;\nEndo F Red;\nEndo R Blue.\n\nLegendaries:\nIgnited Freddy;\nIgnited Chica;\nIgnited Bonnie;\nIgnited Foxy.\n\nSacreds:\nCreation."
+          "desc": "Epics:\nEndo B Angel;\nEndo C Mouth;\nEndo F Red;\nEndo R Blue.\n\nLegendaries:\nIgnited Freddy;\nIgnited Chica;\nIgnited Bonnie;\nIgnited Foxy.\n\nSacreds:\nCreation."
         },
         "abilities": {
           "name": "ABILITIES",
-          "desk": "Silent Angel\nFor: Endo B Angel, Endo C Mouth, Endo F Red, Endo R blue.\n\nIgnited One\nFor: Ignited Freddy.\n\nToxic Crash\nFor: Ignited Chica.\n\nAmplified Terror\nFor: Ignited Bonnie.\n\nBlackout Breaker\nFor: Ignited Foxy.\n\nThe Joy Of Creation\nFor: Creation."
+          "desc": "Silent Angel\nFor: Endo B Angel, Endo C Mouth, Endo F Red, Endo R blue.\n\nIgnited One\nFor: Ignited Freddy.\n\nToxic Crash\nFor: Ignited Chica.\n\nAmplified Terror\nFor: Ignited Bonnie.\n\nBlackout Breaker\nFor: Ignited Foxy.\n\nThe Joy Of Creation\nFor: Creation."
         },
         "skills": {
           "name": "SKILLS",
-          "desk": "Rekindle, Guardian Angel, Resolve."
+          "desc": "Rekindle, Guardian Angel, Resolve."
         },
         "map": {
           "name": "NEW MAP - Cawthon Residence."
@@ -539,7 +539,7 @@
     },
     "27/10/2025 20:00": {
       "title": "Test Update Log With Sections",
-      "desk": "This Update Changes Several Pages:",
+      "desc": "This Update Changes Several Pages:",
       "sections": {
         "skins": {
           "name": "SKINS",
@@ -559,11 +559,11 @@
     },
     "24/10/2025 14:00": {
       "title": false,
-      "desk": "Test log\nwithout title\nand banner\n\n=)"
+      "desc": "Test log\nwithout title\nand banner\n\n=)"
     },
     "24/10/2025 13:40": {
       "title": "The Update Log has been added!",
-      "desk": "📝Now almost any wiki update will be recorded here!\n💡It'll be interesting..."
+      "desc": "📝Now almost any wiki update will be recorded here!\n💡It'll be interesting..."
     }
   }
 }
