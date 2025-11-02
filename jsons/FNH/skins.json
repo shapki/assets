@@ -12,6 +12,9 @@
             ],
             "halloween2025": [
                 "Halloween 2025"
+            ],
+            "tjoc2025": [
+                "The Joy Of Creation"
             ]
         },
         "exclusive": [
@@ -129,8 +132,17 @@
         ],
         "Sacred": [
             {
+                "name": "Creation",
+                "addDate": "01/11/2025",
+                "limited": "tjoc2025",
+                "abilityId": "The Joy Of Creation",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_CandyCollectors_Sacred_Creation.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "ClownTrap",
-                "addDate": "19/09/2025",
+                "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "ClownTrap COMMENT",
                 "abilityId": "Springlocked",
@@ -208,8 +220,41 @@
         ],
         "Legendary": [
             {
+                "name": "Ignited Foxy",
+                "addDate": "01/11/2025",
+                "limited": "tjoc2025",
+                "abilityId": ["Circuit Breaker", "Blackout Breaker"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ignited Bonnie",
+                "addDate": "01/11/2025",
+                "limited": "tjoc2025",
+                "abilityId": ["Amplified Fear", "Amplified Terror"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ignited Chica",
+                "addDate": "01/11/2025",
+                "limited": "tjoc2025",
+                "abilityId": ["Sugar Crash", "Toxic Crash"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ignited Freddy",
+                "addDate": "01/11/2025",
+                "limited": "tjoc2025",
+                "abilityId": ["Marked One", "Ignited One"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Grim Chica",
                 "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "only_from_case",
                 "abilityId": "Sugar Crash",
@@ -417,8 +462,41 @@
         ],
         "Epic": [
             {
+                "name": "Endo R Blue",
+                "addDate": "01/11/2025", 
+                "limited": "tjoc2025",
+                "abilityId": ["Short Circuit", "Silent Angel"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoRBlue.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Endo F Red",
+                "addDate": "01/11/2025", 
+                "limited": "tjoc2025",
+                "abilityId": ["Short Circuit", "Silent Angel"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoFRed.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Endo C Mouth",
+                "addDate": "01/11/2025", 
+                "limited": "tjoc2025",
+                "abilityId": ["Short Circuit", "Silent Angel"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoCMouth.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Endo B Angel",
+                "addDate": "01/11/2025", 
+                "limited": "tjoc2025",
+                "abilityId": ["Short Circuit", "Silent Angel"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoBAngel.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Werewolf Foxy",
                 "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "only_from_case",
                 "abilityId": "Circuit Breaker",
@@ -429,6 +507,7 @@
             {
                 "name": "Pumpkin Freddy",
                 "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "only_from_case",
                 "abilityId": "Marked One",
@@ -439,6 +518,7 @@
             {
                 "name": "Vampire Bonnie",
                 "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "only_from_case",
                 "abilityId": "Amplified Fear",
@@ -449,6 +529,7 @@
             {
                 "name": "Frankin Freddy",
                 "addDate": "03/10/2025",
+                "lockDate": "01/11/2025",
                 "limited": "halloween2025",
                 "comment": "only_from_case",
                 "abilityId": "Marked One",

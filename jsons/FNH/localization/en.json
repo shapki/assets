@@ -127,6 +127,30 @@
       "II DESK": "Gain a speed boost for 5 seconds with a 35 seconds cooldown.",
       "III": "Sprint III",
       "III DESK": "Gain a speed boost for 5 seconds with a 30 seconds cooldown."
+    },
+    "Rekindle": {
+      "I": "Rekindle I",
+      "I DESK": "If you are the last survivor you gain a permanent 10% speed boost.",
+      "II": "Rekindle II",
+      "II DESK": "If you are the last survivor you open doors 15% faster and hack terminals 5% faster.",
+      "III": "Rekindle III",
+      "III DESK": "If you are the last survivor you gain a 10% speed boost, open doors 15% faster and hack terminals 5% faster."
+    },
+    "Guardian Angel": {
+      "I": "Guardian Angel I",
+      "I DESK": "After you capture percentage reaches 95% you'll be rescued. 1 time use.",
+      "II": "Guardian Angel II",
+      "II DESK": "After you capture percentage reaches 90% you'll be rescued. 1 time use.",
+      "III": "Guardian Angel III",
+      "III DESK": "After you capture percentage reaches 85% you'll be rescued. 1 time use."
+    },
+    "Resolve": {
+      "I": "Resolve I",
+      "I DESK": "After being rescued, gain a 5% speed boost for 3 seconds.",
+      "II": "Resolve II",
+      "II DESK": "After being rescued, gain a 7% speed boost for 4 seconds.",
+      "III": "Resolve III",
+      "III DESK": "After being rescued, gain a 10% speed boost for 5 seconds."
     }
   },
   "Animatronic Abilities": {
@@ -235,6 +259,30 @@
     "Digital Reality": {
       "name": "Digital Reality",
       "desk": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown."
+    },
+    "Silent Angel": {
+      "name": "Silent Angel",
+      "desk": "The angels burn animatronic's eyes, it can't look at them for long... But they can't move while it does. The animatronic can teleport to any angel."
+    },
+    "Ignited One": {
+      "name": "Ignited One",
+      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration."
+    },
+    "Toxic Crash": {
+      "name": "Toxic Crash",
+      "desk": "Can throw a cupcake a toxic cupcake that creates a toxic cloud."
+    },
+    "Amplified Terror": {
+      "name": "Amplified Terror",
+      "desk": "Strums a chilling chord, blinding and slowing nearby survivors."
+    },
+    "Blackout Breaker": {
+      "name": "Blackout Breaker",
+      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them and regresses progress by 15%. Can only be used 2 times on the same terminal."
+    },
+    "The Joy Of Creation": {
+      "name": "The Joy Of Creation",
+      "desk": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks."
     }
   },
   "Quests": {
@@ -311,6 +359,7 @@
       "only_from_case": "Could only be obtained from the case."
     },
     "events_rarities": {
+      "The Joy Of Creation": "The Joy Of Creation",
       "Halloween 2025": "Halloween 2025",
       "Community Contest #1": "Community Contest #1",
       "Arcade Frenzy": "Arcade Frenzy",
@@ -338,6 +387,7 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Creation": "Creation",
       "ClownTrap": "ClownTrap",
       "ClownTrap COMMENT": "TOP 50 candy collectors received the [GLITCHED] version and the remaining 150 got the standard one",
       "Midnight Motorist": "Midnight Motorist",
@@ -352,6 +402,10 @@
       "Purple Guy": "Purple Guy"
     },
     "legendary": {
+      "Ignited Foxy": "Ignited Foxy",
+      "Ignited Bonnie": "Ignited Bonnie",
+      "Ignited Chica": "Ignited Chica",
+      "Ignited Freddy": "Ignited Freddy",
       "Grim Chica": "Grim Chica",
       "Chrome Reaper Ballora": "Chrome Reaper Ballora",
       "Chrome Reaper Ballora COMMENT": "LEGENDARY category winner [2nd]\n@z3ntyy--",
@@ -383,6 +437,10 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Endo R Blue": "Endo R Blue",
+      "Endo F Red": "Endo F Red",
+      "Endo C Mouth": "Endo C Mouth",
+      "Endo B Angel": "Endo B Angel",
       "Werewolf Foxy": "Werewolf Foxy",
       "Pumpkin Freddy": "Pumpkin Freddy",
       "Vampire Bonnie": "Vampire Bonnie",
@@ -457,6 +515,27 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "02/11/2025 11:00": {
+      "title": "\"The Joy Of Creation\" Update",
+      "desk": "New skins, abilities, skills and new map.",
+      "sections": {
+        "skins": {
+          "name": "SKINS",
+          "desk": "Epics:\nEndo B Angel;\nEndo C Mouth;\nEndo F Red;\nEndo R Blue.\n\nLegendaries:\nIgnited Freddy;\nIgnited Chica;\nIgnited Bonnie;\nIgnited Foxy.\n\nSacreds:\nCreation."
+        },
+        "abilities": {
+          "name": "ABILITIES",
+          "desk": "Silent Angel\nFor: Endo B Angel, Endo C Mouth, Endo F Red, Endo R blue.\n\nIgnited One\nFor: Ignited Freddy.\n\nToxic Crash\nFor: Ignited Chica.\n\nAmplified Terror\nFor: Ignited Bonnie.\n\nBlackout Breaker\nFor: Ignited Foxy.\n\nThe Joy Of Creation\nFor: Creation."
+        },
+        "skills": {
+          "name": "SKILLS",
+          "desk": "Rekindle, Guardian Angel, Resolve."
+        },
+        "map": {
+          "name": "NEW MAP - Cawthon Residence."
+        }
+      }
     },
     "27/10/2025 20:00": {
       "title": "Test Update Log With Sections",
