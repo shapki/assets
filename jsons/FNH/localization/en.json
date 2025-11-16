@@ -74,11 +74,11 @@
     },
     "Hidden Charge": {
       "I": "Hidden Charge I",
-      "I DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (1 use)",
+      "I DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (3 use)",
       "II": "Hidden Charge II",
-      "II DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (2 uses)",
+      "II DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (4 uses)",
       "III": "Hidden Charge III",
-      "III DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (3 uses)"
+      "III DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (5 uses)"
     },
     "Third Eye": {
       "I": "Third Eye I",
@@ -170,7 +170,7 @@
     },
     "Rescue Signal": {
       "name": "Rescue Signal",
-      "desk": "A rescue won't go unheard. The animatronic is alerted when a survivor has been rescued for a ball pit, temporarily highlighting its location for 1/2/3 seconds."
+      "desk": "A rescue won't go unheard. The animatronic is alerted when a survivor has been rescued for a ball pit, temporarily highlighting its and its escape's location for 1/2/3 seconds."
     },
     "Brute Force": {
       "name": "Brute Force",
@@ -182,7 +182,7 @@
     },
     "Final Stand": {
       "name": "Final Stand",
-      "desk": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 7.5%/15%/20%, making last-minute escapes even more dangerous."
+      "desk": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 10%/15%/25%, making last-minute escapes even more dangerous."
     },
     "Marked One": {
       "name": "Marked One",
