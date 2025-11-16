@@ -19,8 +19,17 @@
         },
         "exclusive": [
             {
+                "name": "Baker Freddy",
+                "addDate": "15/11/2025",
+                "abilityId": "Marked One",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BakerFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Catrina Chica",
                 "addDate": "17/10/2025",
+                "lockDate": "15/11/2025",
                 "abilityId": "Sugar Crash",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_CatrinaChica.png",

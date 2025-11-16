@@ -66,11 +66,11 @@
     },
     "Dusting Off": {
       "I": "Dusting Off I",
-      "I DESK": "When completing a healing action on another survivor, reduce their capture progress by 5%. (Doesn't work with self care)",
+      "I DESK": "When completing a healing action on another survivor, reduce their capture progress by 5%.",
       "II": "Dusting Off II",
-      "II DESK": "When completing a healing action on another survivor, reduce their capture progress by 10%, It'll also reduce your capture progress by 5%. (Doesn't work with self care)",
+      "II DESK": "When completing a healing action on another survivor, reduce their capture progress by 10%, It'll also reduce your capture progress by 5%.",
       "III": "Dusting Off III",
-      "III DESK": "When completing a healing action on another survivor, reduce their capture progress by 15%, It'll also reduce your capture progress by 8%. (Doesn't work with self care)"
+      "III DESK": "When completing a healing action on another survivor, reduce their capture progress by 15%, It'll also reduce your capture progress by 8%."
     },
     "Hidden Charge": {
       "I": "Hidden Charge I",
@@ -210,7 +210,7 @@
     },
     "Mangled": {
       "name": "Mangled",
-      "desk": "Can grab the nearest survivor within 50 studs (Dodgeable). 30 seconds cooldown."
+      "desk": "Can grab the nearest survivor within 60 studs (Dodgeable). 30 seconds cooldown."
     },
     "Silent Steps": {
       "name": "Silent Steps",
@@ -373,6 +373,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Baker Freddy": "Baker Freddy",
       "Catrina Chica": "Catrina Chica",
       "Ringmaster Foxy": "Ringmaster Foxy",
       "Bling Bonnie": "Bling Bonnie",
@@ -515,6 +516,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "16/11/2025 11:00": {
+      "title": "\"15/11\" Update",
+      "desc": "Small changes.",
+      "sections": {
+        "skins": {
+          "name": "SKINS",
+          "desc": "New Exclusive: Baker Freddy\nCatrina Chica is no longer available"
+        },
+        "abilities": {
+          "name": "ABILITIES CHANGES",
+          "desc": "RESCUE SIGNAL now highlights the escape location too.\nFINAL STAND speed increased to 10% -> 15% -> 25%\nMANGLED radius increased by 10 studs (now it's 60 studs)."
+        },
+        "skills": {
+          "name": "SKILLS CHANGES",
+          "desc": "DUSTING OFF now works with self care.\nLOCKED EYES duration doubled across all tiers (need to check it because the text hasn't been changed in the game).\nHIDDEN CHARGE now has 3, 4, 5 uses for tiers I, II, III respectively.\nTHIRD EYE III now highlights the animatronic permanently (need to check it because the text hasn't been changed in the game)."
+        }
+      }
     },
     "02/11/2025 11:00": {
       "title": "\"The Joy Of Creation\" Update",
