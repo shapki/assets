@@ -523,15 +523,15 @@
       "sections": {
         "skins": {
           "name": "SKINS",
-          "desc": "New Exclusive: Baker Freddy\nCatrina Chica is no longer available"
+          "desc": "New Exclusive: Baker Freddy\n\nCatrina Chica is no longer available"
         },
         "abilities": {
           "name": "ABILITIES CHANGES",
-          "desc": "RESCUE SIGNAL now highlights the escape location too.\nFINAL STAND speed increased to 10% -> 15% -> 25%\nMANGLED radius increased by 10 studs (now it's 60 studs)."
+          "desc": "RESCUE SIGNAL now highlights the escape location too.\n\nFINAL STAND speed increased to 10% -> 15% -> 25%.\n\nMANGLED radius increased by 10 studs (now it's 60 studs)."
         },
         "skills": {
           "name": "SKILLS CHANGES",
-          "desc": "DUSTING OFF now works with self care.\nLOCKED EYES duration doubled across all tiers (need to check it because the text hasn't been changed in the game).\nHIDDEN CHARGE now has 3, 4, 5 uses for tiers I, II, III respectively.\nTHIRD EYE III now highlights the animatronic permanently (need to check it because the text hasn't been changed in the game)."
+          "desc": "DUSTING OFF now works with self care.\n\nLOCKED EYES duration doubled across all tiers (need to check it because the text hasn't been changed in the game).\n\nHIDDEN CHARGE now has 3, 4, 5 uses for tiers I, II, III respectively.\n\nTHIRD EYE III now highlights the animatronic permanently (need to check it because the text hasn't been changed in the game)."
         }
       }
     },
