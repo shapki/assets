@@ -86,7 +86,7 @@
       "II": "Third Eye II",
       "II DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for 10 seconds.",
       "III": "Third Eye III",
-      "III DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for 15 seconds."
+      "III DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for the rest of the match."
     },
     "Self Care": {
       "I": "Self Care I",
