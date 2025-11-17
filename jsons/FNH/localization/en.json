@@ -42,11 +42,11 @@
     },
     "Locked Eyes": {
       "I": "Locked Eyes I",
-      "I DESK": "Temporarily highlights the locations of all other survivors for 3 seconds after completing a terminal.",
+      "I DESK": "Temporarily highlights the locations of all other survivors for 6 seconds after completing a terminal.",
       "II": "Locked Eyes II",
-      "II DESK": "Temporarily highlights the locations of all other survivors for 5 seconds after completing a terminal.",
+      "II DESK": "Temporarily highlights the locations of all other survivors for 10 seconds after completing a terminal.",
       "III": "Locked Eyes III",
-      "III DESK": "Temporarily highlights the locations of all other survivors for 7 seconds after completing a terminal."
+      "III DESK": "Temporarily highlights the locations of all other survivors for 14 seconds after completing a terminal."
     },
     "Pitfall": {
       "I": "Pitfall I",
@@ -531,7 +531,7 @@
         },
         "skills": {
           "name": "SKILLS CHANGES",
-          "desc": "DUSTING OFF now works with self care.\n\nLOCKED EYES duration doubled across all tiers (need to check it because the text hasn't been changed in the game).\n\nHIDDEN CHARGE now has 3, 4, 5 uses for tiers I, II, III respectively.\n\nTHIRD EYE III now highlights the animatronic permanently (need to check it because the text hasn't been changed in the game)."
+          "desc": "DUSTING OFF now works with self care.\n\nLOCKED EYES duration doubled across all tiers.\n\nHIDDEN CHARGE now has 3, 4, 5 uses for tiers I, II, III respectively.\n\nTHIRD EYE III now highlights the animatronic permanently."
         }
       }
     },
