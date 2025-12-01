@@ -303,7 +303,7 @@
     },  
     "Claimed": "Claimed",
     "Rewards:": "Rewards:",
-    "Daily": {
+    "daily": {
       "title": "Daily Quest",
       "terminals_5": "Hack 5 terminals as a survivor",
       "terminals_10": "Hack 10 terminals as a survivor",
@@ -334,7 +334,7 @@
       "win_4": "Win as an animatronic for 4 rounds",
       "win_5": "Win as an animatronic for 5 rounds"
     },
-    "Weekly": {
+    "weekly": {
       "title": "Weekly Quest",
       "terminals_80": "Hack 80 terminals as a survivor",
       "heal_80": "Heal 80 survivors",
