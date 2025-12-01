@@ -1,6 +1,6 @@
 {
     "questsData": {
-        "Daily": [
+        "daily": [
             {
                 "id": "terminals_5",
                 "target": 5,
@@ -255,7 +255,7 @@
                 ]
             }
         ],
-        "Weekly": [
+        "weekly": [
             {
                 "id": "terminals_80",
                 "target": 80,
