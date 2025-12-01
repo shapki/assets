@@ -305,44 +305,43 @@
     "Rewards:": "Rewards:",
     "Daily": {
       "title": "Daily Quest",
-      "5 terminals": "Hack 5 terminals as a survivor",
-      "10 terminals": "Hack 10 terminals as a survivor",
-      "15 terminals": "Hack 15 terminals as a survivor",
-      "20 terminals": "Hack 20 terminals as a survivor",
-      "Heal 5": "Heal 5 survivors",
-      "Heal 7": "Heal 7 survivors",
-      "Heal 12": "Heal 12 survivors",
-      "Heal 15": "Heal 15 survivors",
-      "Heal 20": "Heal 20 survivors",
-      "2 exits": "Open 2 exits as a survivor",
-      "4 exits": "Open 4 exits as a survivor",
-      "6 exits": "Open 6 exits as a survivor",
-      "8 exits": "Open 8 exits as a survivor",
-      "Escape 1": "Escape 1 times as a survivor",
-      "Escape 2": "Escape 2 times as a survivor",
-      "Escape 3": "Escape 3 times as a survivor",
-      "Escape 4": "Escape 4 times as a survivor",
-      "Escape 5": "Escape 5 times as a survivor",
-      "Escape 6": "Escape 6 times as a survivor",
-      "Escape 10": "Escape 10 times as a survivor",
-      "Capture 3": "Capture 3 survivors",
-      "Capture 5": "Capture 5 survivors",
-      "Capture 7": "Capture 7 survivors",
-      "Capture 9": "Capture 9 survivors",
-      "Win 1": "Win as an animatronic for 1 rounds",
-      "Win 2": "Win as an animatronic for 2 rounds",
-      "Win 3": "Win as an animatronic for 3 rounds",
-      "Win 4": "Win as an animatronic for 4 rounds",
-      "Win 5": "Win as an animatronic for 5 rounds"
+      "terminals_5": "Hack 5 terminals as a survivor",
+      "terminals_10": "Hack 10 terminals as a survivor",
+      "terminals_15": "Hack 15 terminals as a survivor",
+      "terminals_20": "Hack 20 terminals as a survivor",
+      "heal_5": "Heal 5 survivors",
+      "heal_7": "Heal 7 survivors",
+      "heal_12": "Heal 12 survivors",
+      "heal_15": "Heal 15 survivors",
+      "heal_20": "Heal 20 survivors",
+      "exits_2": "Open 2 exits as a survivor",
+      "exits_4": "Open 4 exits as a survivor",
+      "exits_6": "Open 6 exits as a survivor",
+      "exits_8": "Open 8 exits as a survivor",
+      "escape_1": "Escape 1 times as a survivor",
+      "escape_2": "Escape 2 times as a survivor",
+      "escape_3": "Escape 3 times as a survivor",
+      "escape_4": "Escape 4 times as a survivor",
+      "escape_5": "Escape 5 times as a survivor",
+      "escape_6": "Escape 6 times as a survivor",
+      "escape_10": "Escape 10 times as a survivor",
+      "capture_3": "Capture 3 survivors",
+      "capture_5": "Capture 5 survivors",
+      "capture_7": "Capture 7 survivors",
+      "capture_9": "Capture 9 survivors",
+      "win_1": "Win as an animatronic for 1 rounds",
+      "win_2": "Win as an animatronic for 2 rounds",
+      "win_4": "Win as an animatronic for 4 rounds",
+      "win_5": "Win as an animatronic for 5 rounds"
     },
     "Weekly": {
       "title": "Weekly Quest",
-      "80 terminals": "Hack 80 terminals as a survivor",
-      "Heal 80": "Heal 80 survivors",
-      "32 exits": "Open 32 exits as a survivor",
-      "Escape 40": "Escape 40 times as a survivor",
-      "Capture 36": "Capture 36 survivors",
-      "Win 20": "Win as an animatronic for 20 rounds"
+      "terminals_80": "Hack 80 terminals as a survivor",
+      "heal_80": "Heal 80 survivors",
+      "exits_32": "Open 32 exits as a survivor",
+      "escape_40": "Escape 40 times as a survivor",
+      "capture_36": "Capture 36 survivors",
+      "win_20": "Win as an animatronic for 20 rounds"
     }
   },
   "Skins": {
@@ -517,6 +516,20 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "01/12/2025 22:09": {
+      "title": "\"01/12\" Small Wiki Update",
+      "desc": "Small changes.",
+      "sections": {
+        "skins": {
+          "name": "SKINS",
+          "desc": "Added \"Exists\" for some (regular and glitched) skins."
+        },
+        "quests": {
+          "name": "QUESTS",
+          "desc": "Reworked and corrected."
+        }
+      }
     },
     "16/11/2025 11:00": {
       "title": "\"15/11\" Update",

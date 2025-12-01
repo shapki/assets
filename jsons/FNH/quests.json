@@ -1,43 +1,321 @@
 {
     "questsData": {
         "Daily": [
-            "5 terminals",
-            "10 terminals",
-            "15 terminals",
-            "20 terminals",
-            "Heal 5",
-            "Heal 7",
-            "Heal 12",
-            "Heal 15",
-            "Heal 20",
-            "2 exits",
-            "4 exits",
-            "6 exits",
-            "8 exits",
-            "Escape 1",
-            "Escape 2",
-            "Escape 3",
-            "Escape 4",
-            "Escape 5",
-            "Escape 6",
-            "Escape 10",
-            "Capture 3",
-            "Capture 5",
-            "Capture 7",
-            "Capture 9",
-            "Win 1",
-            "Win 2",
-            "Win 3",
-            "Win 4",
-            "Win 5"
+            {
+                "id": "terminals_5",
+                "target": 5,
+                "rewards": [
+                    { "type": "coins", "amount": 150 },
+                    { "type": "xp", "amount": 200 }
+                ]
+            },
+            {
+                "id": "terminals_10",
+                "target": 10,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 300 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "terminals_15",
+                "target": 15,
+                "rewards": [
+                    { "type": "coins", "amount": 450 },
+                    { "type": "xp", "amount": 400 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "terminals_20",
+                "target": 20,
+                "rewards": [
+                    { "type": "coins", "amount": 600 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 2 },
+                    { "type": "cake-luck", "amount": 1 }
+                ]
+            },
+            {
+                "id": "heal_5",
+                "target": 5,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "heal_7",
+                "target": 7,
+                "rewards": [
+                    { "type": "coins", "amount": 500 },
+                    { "type": "xp", "amount": 600 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "heal_12",
+                "target": 12,
+                "rewards": [
+                    { "type": "coins", "amount": 700 },
+                    { "type": "xp", "amount": 700 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "heal_15",
+                "target": 15,
+                "rewards": [
+                    { "type": "coins", "amount": 900 },
+                    { "type": "xp", "amount": 800 },
+                    { "type": "remnants", "amount": 3 }
+                ]
+            },
+            {
+                "id": "heal_20",
+                "target": 20,
+                "rewards": [
+                    { "type": "coins", "amount": 1000 },
+                    { "type": "xp", "amount": 900 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "remnants", "amount": 5 }
+                ]
+            },
+            {
+                "id": "exits_2",
+                "target": 2,
+                "rewards": [
+                    { "type": "coins", "amount": 150 },
+                    { "type": "xp", "amount": 200 }
+                ]
+            },
+            {
+                "id": "exits_4",
+                "target": 4,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 300 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "exits_6",
+                "target": 6,
+                "rewards": [
+                    { "type": "coins", "amount": 450 },
+                    { "type": "xp", "amount": 400 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "exits_8",
+                "target": 8,
+                "rewards": [
+                    { "type": "coins", "amount": 600 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 2 },
+                    { "type": "cake-anim", "amount": 1 }
+                ]
+            },
+            {
+                "id": "escape_1",
+                "target": 1,
+                "rewards": [
+                    { "type": "coins", "amount": 100 },
+                    { "type": "xp", "amount": 100 }
+                ]
+            },
+            {
+                "id": "escape_2",
+                "target": 2,
+                "rewards": [
+                    { "type": "coins", "amount": 150 },
+                    { "type": "xp", "amount": 150 }
+                ]
+            },
+            {
+                "id": "escape_3",
+                "target": 3,
+                "rewards": [
+                    { "type": "coins", "amount": 200 },
+                    { "type": "xp", "amount": 200 }
+                ]
+            },
+            {
+                "id": "escape_4",
+                "target": 4,
+                "rewards": [
+                    { "type": "coins", "amount": 250 },
+                    { "type": "xp", "amount": 300 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "escape_5",
+                "target": 5,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 400 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "escape_6",
+                "target": 6,
+                "rewards": [
+                    { "type": "coins", "amount": 350 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 2 },
+                    { "type": "cake-anim", "amount": 1 }
+                ]
+            },
+            {
+                "id": "escape_10",
+                "target": 10,
+                "rewards": [
+                    { "type": "coins", "amount": 500 },
+                    { "type": "xp", "amount": 1000 },
+                    { "type": "remnants", "amount": 5 },
+                    { "type": "cake-luck", "amount": 1 }
+                ]
+            },
+            {
+                "id": "capture_3",
+                "target": 3,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 300 }
+                ]
+            },
+            {
+                "id": "capture_5",
+                "target": 5,
+                "rewards": [
+                    { "type": "coins", "amount": 400 },
+                    { "type": "xp", "amount": 300 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "capture_7",
+                "target": 7,
+                "rewards": [
+                    { "type": "coins", "amount": 500 },
+                    { "type": "xp", "amount": 400 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "capture_9",
+                "target": 9,
+                "rewards": [
+                    { "type": "coins", "amount": 600 },
+                    { "type": "remnants", "amount": 2 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "xp", "amount": 500 }
+                ]
+            },
+            {
+                "id": "win_1",
+                "target": 1,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "win_2",
+                "target": 2,
+                "rewards": [
+                    { "type": "coins", "amount": 300 },
+                    { "type": "xp", "amount": 500 },
+                    { "type": "remnants", "amount": 1 }
+                ]
+            },
+            {
+                "id": "win_4",
+                "target": 4,
+                "rewards": [
+                    { "type": "coins", "amount": 500 },
+                    { "type": "xp", "amount": 600 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
+                "id": "win_5",
+                "target": 5,
+                "rewards": [
+                    { "type": "coins", "amount": 1000 },
+                    { "type": "xp", "amount": 900 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "remnants", "amount": 5 }
+                ]
+            }
         ],
         "Weekly": [
-            "80 terminals",
-            "Heal 80",
-            "32 exits",
-            "Escape 40",
-            "Capture 36",
-            "Win 20"
+            {
+                "id": "terminals_80",
+                "target": 80,
+                "rewards": [
+                    { "type": "coins", "amount": 2400 },
+                    { "type": "xp", "amount": 2000 },
+                    { "type": "remnants", "amount": 8 },
+                    { "type": "cake-luck", "amount": 1 }
+                ]
+            },
+            {
+                "id": "heal_80",
+                "target": 80,
+                "rewards": [
+                    { "type": "coins", "amount": 4000 },
+                    { "type": "xp", "amount": 3600 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "remnants", "amount": 20 }
+                ]
+            },
+            {
+                "id": "exits_32",
+                "target": 32,
+                "rewards": [
+                    { "type": "coins", "amount": 2400 },
+                    { "type": "xp", "amount": 2000 },
+                    { "type": "remnants", "amount": 8 },
+                    { "type": "cake-anim", "amount": 1 }
+                ]
+            },
+            {
+                "id": "escape_40",
+                "target": 40,
+                "rewards": [
+                    { "type": "coins", "amount": 2000 },
+                    { "type": "remnants", "amount": 20 },
+                    { "type": "xp", "amount": 4000 },
+                    { "type": "cake-luck", "amount": 120 }
+                ]
+            },
+            {
+                "id": "capture_36",
+                "target": 36,
+                "rewards": [
+                    { "type": "coins", "amount": 2400 },
+                    { "type": "remnants", "amount": 8 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "xp", "amount": 2000 }
+                ]
+            },
+            {
+                "id": "win_20",
+                "target": 20,
+                "rewards": [
+                    { "type": "coins", "amount": 4000 },
+                    { "type": "xp", "amount": 3600 },
+                    { "type": "cake-luck", "amount": 1 },
+                    { "type": "remnants", "amount": 20 }
+                ]
+            }
         ]
     }
 }
