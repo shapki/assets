@@ -236,6 +236,15 @@
                 ]
             },
             {
+                "id": "win_3",
+                "target": 3,
+                "rewards": [
+                    { "type": "coins", "amount": 700 },
+                    { "type": "xp", "amount": 700 },
+                    { "type": "remnants", "amount": 2 }
+                ]
+            },
+            {
                 "id": "win_4",
                 "target": 4,
                 "rewards": [
