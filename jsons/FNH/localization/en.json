@@ -283,6 +283,10 @@
     "The Joy Of Creation": {
       "name": "The Joy Of Creation",
       "desk": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks."
+    },
+    "Snowfall": {
+      "name": "Snowfall",
+      "desk": "Animatronic stands still and channels its power, emitting a large freezing area."
     }
   },
   "Quests": {
@@ -360,6 +364,7 @@
       "only_from_case": "Could only be obtained from the event case."
     },
     "events_rarities": {
+      "Christmas 2025": "Christmas 2025",
       "The Joy Of Creation": "The Joy Of Creation",
       "Halloween 2025": "Halloween 2025",
       "Community Contest #1": "Community Contest #1",
@@ -374,6 +379,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Krampus Burntrap": "Krampus Burntrap",
       "Baker Freddy": "Baker Freddy",
       "Catrina Chica": "Catrina Chica",
       "Ringmaster Foxy": "Ringmaster Foxy",
@@ -389,6 +395,11 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Golden Elf Bonnie": "Golden Elf Bonnie",
+      "Golden Elf Bonnie COMMENT": "Contest \"Naughty or Nice\" | Nice | For winners",
+      "Golden Evil Elf Bonnie": "Golden Evil Elf Bonnie",
+      "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\" | Naughty | For winners",
+      "Snowfall Moon": "Snowfall Moon",
       "Creation": "Creation",
       "Clowntrap": "Clowntrap",
       "Clowntrap COMMENT": "TOP 50 candy collectors received the [GLITCHED] version and the remaining 150 got the standard one",
@@ -439,6 +450,7 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Nutcracker Foxy": "Nutcracker Foxy",
       "Endo R Blue": "Endo R Blue",
       "Endo F Red": "Endo F Red",
       "Endo C Mouth": "Endo C Mouth",
@@ -463,6 +475,7 @@
       "Withered Freddy": "Withered Freddy"
     },
     "rare": {
+      "Frosty Chica": "Frosty Chica",
       "Invader Bonnie": "Invader Bonnie",
       "Invader Bonnie COMMENT": "RARE category winner [1st]\n@itsthatoddity",
       "Cyberbot Toy Bonnie": "Cyberbot Toy Bonnie",
@@ -481,6 +494,7 @@
       "Golden Freddy": "Golden Freddy"
     },
     "uncommon": {
+      "Freddy Claus": "Freddy Claus",
       "Tamogachi Bonnie": "Tamogachi Bonnie",
       "Tamogachi Bonnie COMMENT": "UNCOMMON category winner [1st]\n@checkersntoast",
       "Holo Freddy": "Holo Freddy",
@@ -497,6 +511,12 @@
       "Bonnie": "Bonnie"
     },
     "common": {
+      "Elf Bonnie": "Elf Bonnie",
+      "Elf Bonnie COMMENT": "Contest \"Naughty or Nice\" | Nice | For joining the team",
+      "Evil Elf Bonnie": "Evil Elf Bonnie",
+      "Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\" | Naughty | For joining the team",
+      "Reindeer Foxy": "Reindeer Foxy",
+      "Reindeer Foxy COMMENT": "From the advent calendar",
       "Pop-up Chica": "Pop-up Chica",
       "Pop-up Chica COMMENT": "COMMON category winner [3rd]\n@nicolepl22",
       "Astronaut Chica": "Astronaut Chica",
@@ -517,6 +537,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "05/12/2025 23:59": {
+      "title": "\"05/12\" Christmas Update",
+      "desc": "New skins, new ability and new map.",
+      "sections": {
+        "skins": {
+          "name": "SKINS",
+          "desc": "Contest \"Naughty or Nice\"\n- SACRED:\n-- Golden Elf Bonnie\n-- Golden Evil Elf Bonnie\n- COMMON:\n-- Elf Bonnie\n-- Evil Elf Bonnie\n\nAdvent calendar\n- COMMON:\n-- Reindeer Foxy\n\nEvent\n- SACRED:\n-- Snowfall Moon\n- EPIC:\n-- Nutcracker Foxy\n- RARE:\n-- Frosty Chica\n- UNCOMMON:\n-- Freddy Claus"
+        },
+        "ability": {
+          "name": "ABILITY",
+          "desk": "For \"SACRED\" Snowfall Moon:\n- Snowfall"
+        },
+        "quests": {
+          "name": "NEW MAP",
+          "desc": "Santa's Workshop"
+        }
+      }
     },
     "01/12/2025 22:09": {
       "title": "\"01/12\" Small Wiki Update",

@@ -15,12 +15,24 @@
             ],
             "tjoc2025": [
                 "The Joy Of Creation"
+            ],
+            "christmas2025": [
+                "Christmas 2025"
             ]
         },
         "exclusive": [
             {
+                "name": "Krampus Burntrap",
+                "addDate": "05/12/2025",
+                "abilityId": "Scorchpath",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_KrampusBurntrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Baker Freddy",
                 "addDate": "15/11/2025",
+                "lockDate": "05/12/2025",
                 "Exists": "~1,200",
                 "abilityId": "Marked One",
                 "showGlitched": false,
@@ -149,6 +161,33 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "Golden Elf Bonnie",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "Golden Elf Bonnie COMMENT",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenElfBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Golden Evil Elf Bonnie",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "Golden Evil Elf Bonnie COMMENT",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenEvilElfBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Snowfall Moon",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "only_from_case",
+                "abilityId": "Snowfall",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Sacred_SnowfallMoon.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Creation",
                 "addDate": "01/11/2025",
@@ -532,6 +571,15 @@
         ],
         "Epic": [
             {
+                "name": "Nutcracker Foxy",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "only_from_case",
+                "abilityId": "Circuit Breaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Epic_NutcrackerFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Endo R Blue",
                 "addDate": "01/11/2025", 
                 "Exists": "~410,560",
@@ -724,6 +772,15 @@
         ],
         "Rare": [
             {
+                "name": "Frosty Chica",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "only_from_case",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Rare_FrostyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Invader Bonnie",
                 "addDate": "03/10/2025",
                 "lockDate": "17/10/2025",
@@ -843,6 +900,15 @@
         ],
         "Uncommon": [
             {
+                "name": "Freddy Claus",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "only_from_case",
+                "abilityId": "Marked One",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Uncommon_FreddyClaus.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Tamogachi Bonnie",
                 "addDate": "03/10/2025",
                 "lockDate": "17/10/2025",
@@ -946,6 +1012,33 @@
             }
         ],
         "Common": [
+            {
+                "name": "Elf Bonnie",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "Elf Bonnie COMMENT",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Common_ElfBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Evil Elf Bonnie",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "Evil Elf Bonnie COMMENT",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Common_EvilElfBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Reindeer Foxy",
+                "addDate": "05/12/2025",
+                "limited": "christmas2025",
+                "comment": "Reindeer Foxy COMMENT",
+                "abilityId": "Circuit Breaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Common_ReindeerFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Pop-up Chica",
                 "addDate": "03/10/2025",

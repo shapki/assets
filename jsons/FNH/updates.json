@@ -1,5 +1,9 @@
 {
     "updatesData": {
+        "05/12/2025 23:59" : {
+            "timestamp": "1764968340",
+            "banner": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Banners/RobloxPage/Img_FiveNightsHunted_Banner_RobloxPage_05.12.25.update.png"
+        },
         "01/12/2025 22:09" : {
             "timestamp": "1764616140",
             "banner": false
@@ -10,7 +14,7 @@
         },
         "02/11/2025 11:00" : {
             "timestamp": "1762070400",
-            "banner": "https://tr.rbxcdn.com/180DAY-797a40fd8e031815cfa5a2756b17273b/768/432/Image/Webp/noFilter"
+            "banner": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Banners/RobloxPage/Img_FiveNightsHunted_Banner_RobloxPage_01.11.25.update.png"
         },
         "27/10/2025 20:00": {
             "timestamp": "1761670800",
@@ -22,7 +26,7 @@
         },
         "24/10/2025 13:40": {
             "timestamp": "1761302400",
-            "banner": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Banners/Updates/Img_FiveNightsHunted_24-10-2025_13-40.png"
+            "banner": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Banners/RobloxPage/Img_FiveNightsHunted_Banner_RobloxPage_04.png"
         }
     }
 }

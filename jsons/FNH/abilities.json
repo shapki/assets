@@ -180,6 +180,12 @@
             "color2": "#9b5c22",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MarkedOne_x1000.png",
             "lvl 50+": true
+        },
+        "Snowfall": {
+            "color1": "#4444c2",
+            "color2": "#2b2b72",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Snowfall_x1000.png",
+            "lvl 50+": true
         }
     }
 }
