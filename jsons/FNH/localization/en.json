@@ -548,9 +548,9 @@
         },
         "ability": {
           "name": "ABILITY",
-          "desk": "For \"SACRED\" Snowfall Moon:\n- Snowfall"
+          "desc": "For \"SACRED\" Snowfall Moon:\n- Snowfall"
         },
-        "quests": {
+        "map": {
           "name": "NEW MAP",
           "desc": "Santa's Workshop"
         }
