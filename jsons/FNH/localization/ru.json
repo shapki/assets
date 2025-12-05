@@ -390,8 +390,8 @@
     },
     "sacred": {
       "Creation": "Создание",
-      "ClownTrap": "КлоунТрап",
-      "ClownTrap COMMENT": "ТОП 50 сборщиков конфет получили [ГЛИТЧ] версию, а остальные 150 - обычную",
+      "Clowntrap": "Клоунтрап",
+      "Clowntrap COMMENT": "ТОП 50 сборщиков конфет получили [ГЛИТЧ] версию, а остальные 150 - обычную",
       "Midnight Motorist": "Полуночный Гонщик",
       "Midnight Motorist COMMENT": "Победитель МИФИЧЕСКОЙ категории\n[1 место]\n@checkersntoast",
       "MXES": "ЭХМФ.X",
@@ -400,7 +400,7 @@
       "Nightmare Tidal King": "Кошмарный Король Морей",
       "Nightmare": "Кошмар",
       "Nightmare Fredbear": "Кошмарный Фредбер",
-      "BurnTrap": "БёрнТрап",
+      "Burntrap": "Бёрнтрап",
       "Purple Guy": "Фиолетовый Парень"
     },
     "legendary": {

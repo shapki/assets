@@ -159,15 +159,15 @@
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "ClownTrap",
+                "name": "Clowntrap",
                 "addDate": "03/10/2025",
                 "lockDate": "01/11/2025",
                 "Exists": "278",
                 "ExistsGlitched": "96",
                 "limited": "halloween2025",
-                "comment": "ClownTrap COMMENT",
+                "comment": "Clowntrap COMMENT",
                 "abilityId": "Springlocked",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_CandyCollectors_Sacred_ClownTrap.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Halloween2025_CandyCollectors_Sacred_Clowntrap.png",
                 "imageClass": "idk_temp_image"
             },
             {
@@ -232,11 +232,11 @@
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "BurnTrap",
+                "name": "Burntrap",
                 "addDate": "24/05/2025",
                 "Exists": "~7,200",
                 "abilityId": "Scorchpath",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_BurnTrap.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Burntrap.png",
                 "imageClass": "idk_temp_image"
             },
             {
