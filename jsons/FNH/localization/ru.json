@@ -396,9 +396,9 @@
     },
     "sacred": {
       "Golden Elf Bonnie": "Золотой Эльф Бонни",
-      "Golden Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\" | Хороший | Для победителей",
+      "Golden Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\"\nХороший\nДля победителей",
       "Golden Evil Elf Bonnie": "Золотой Злой Эльф Бонни",
-      "Golden Evil Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\" | Плохиш | Для победителей",
+      "Golden Evil Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\"\nПлохиш\nДля победителей",
       "Snowfall Moon": "Снежная Луна",
       "Creation": "Создание",
       "Clowntrap": "Клоунтрап",
@@ -512,9 +512,9 @@
     },
     "common": {
       "Elf Bonnie": "Эльф Бонни",
-      "Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\" | Хороший | За присоединение к команде",
+      "Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\"\nХороший\nЗа присоединение к команде",
       "Evil Elf Bonnie": "Злой Эльф Бонни",
-      "Evil Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\" | Плохиш | За присоединение к команде",
+      "Evil Elf Bonnie COMMENT": "Конкурс \"Хороший или плохиш\"\nПлохиш\nЗа присоединение к команде",
       "Reindeer Foxy": "Олень Фокси",
       "Reindeer Foxy COMMENT": "Из адвент календаря",
       "Pop-up Chica": "Всплывающая Чика",
