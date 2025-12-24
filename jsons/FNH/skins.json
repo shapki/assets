@@ -22,10 +22,20 @@
         },
         "exclusive": [
             {
+                "name": "Glam Chica",
+                "addDate": "24/12/2025",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Krampus Burntrap",
                 "addDate": "05/12/2025",
+                "lockDate": "24/12/2025",
+                "comment": "Krampus Burntrap COMMENT",
+                "Exists": "~4,100",
+                "ExistsGlitched": "1",
                 "abilityId": "Scorchpath",
-                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_KrampusBurntrap.png",
                 "imageClass": "idk_temp_image"
             },
@@ -167,6 +177,7 @@
                 "limited": "christmas2025",
                 "comment": "Golden Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenElfBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -176,6 +187,7 @@
                 "limited": "christmas2025",
                 "comment": "Golden Evil Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenEvilElfBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -185,6 +197,7 @@
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Snowfall",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Sacred_SnowfallMoon.png",
                 "imageClass": "idk_temp_image"
             },
@@ -192,6 +205,7 @@
                 "name": "Creation",
                 "addDate": "01/11/2025",
                 "Exists": "~2,500",
+                "ExistsGlitched": "~35",
                 "limited": "tjoc2025",
                 "abilityId": "The Joy Of Creation",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_CandyCollectors_Sacred_Creation.png",
@@ -214,6 +228,7 @@
                 "addDate": "19/09/2025",
                 "lockDate": "17/10/2025",
                 "Exists": "790",
+                "ExistsGlitched": "11",
                 "limited": "communityContest1",
                 "comment": "Midnight Motorist COMMENT",
                 "abilityId": "Vengeance",
@@ -249,6 +264,7 @@
                 "addDate": "20/06/2025",
                 "lockDate": "19/07/2025",
                 "Exists": "723",
+                "ExistsGlitched": "6",
                 "limited": "summer2025",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2025_Sacred_NightmareTidalKing.png",
@@ -274,6 +290,7 @@
                 "name": "Burntrap",
                 "addDate": "24/05/2025",
                 "Exists": "~7,200",
+                "ExistsGlitched": "~80",
                 "abilityId": "Scorchpath",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Burntrap.png",
                 "imageClass": "idk_temp_image"
@@ -301,7 +318,7 @@
                 "name": "Ignited Bonnie",
                 "addDate": "01/11/2025",
                 "Exists": "~57,100",
-                "ExistsGlitched": "~575",
+                "ExistsGlitched": "~705",
                 "limited": "tjoc2025",
                 "abilityId": ["Amplified Fear", "Amplified Terror"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedBonnie.png",
@@ -576,6 +593,7 @@
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Circuit Breaker",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Epic_NutcrackerFoxy.png",
                 "imageClass": "idk_temp_image"
             },
@@ -777,6 +795,7 @@
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Sugar Crash",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Rare_FrostyChica.png",
                 "imageClass": "idk_temp_image"
             },
@@ -905,6 +924,7 @@
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Marked One",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Uncommon_FreddyClaus.png",
                 "imageClass": "idk_temp_image"
             },
@@ -1018,6 +1038,7 @@
                 "limited": "christmas2025",
                 "comment": "Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Common_ElfBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -1027,6 +1048,7 @@
                 "limited": "christmas2025",
                 "comment": "Evil Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Common_EvilElfBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -1036,6 +1058,7 @@
                 "limited": "christmas2025",
                 "comment": "Reindeer Foxy COMMENT",
                 "abilityId": "Circuit Breaker",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Common_ReindeerFoxy.png",
                 "imageClass": "idk_temp_image"
             },

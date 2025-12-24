@@ -342,7 +342,7 @@
     "weekly": {
       "title": "Weekly Quest",
       "terminals_80": "Hack 80 terminals as a survivor",
-      "heal_80": "Heal 80 survivors",
+      "heal_60": "Heal 60 survivors",
       "exits_32": "Open 32 exits as a survivor",
       "escape_40": "Escape 40 times as a survivor",
       "capture_36": "Capture 36 survivors",
@@ -379,7 +379,9 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Glam Chica": "Glam Chica",
       "Krampus Burntrap": "Krampus Burntrap",
+      "Krampus Burntrap COMMENT": "The standard version came with the purchase.\n[GLITCHED] version was received by the winner of the giveaway on Discord.",
       "Baker Freddy": "Baker Freddy",
       "Catrina Chica": "Catrina Chica",
       "Ringmaster Foxy": "Ringmaster Foxy",
@@ -516,7 +518,7 @@
       "Evil Elf Bonnie": "Evil Elf Bonnie",
       "Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor joining the team",
       "Reindeer Foxy": "Reindeer Foxy",
-      "Reindeer Foxy COMMENT": "From the advent calendar",
+      "Reindeer Foxy COMMENT": "From the Advent Calendar.\nIt was given out for the 20th (last) day",
       "Pop-up Chica": "Pop-up Chica",
       "Pop-up Chica COMMENT": "COMMON category winner [3rd]\n@nicolepl22",
       "Astronaut Chica": "Astronaut Chica",
@@ -537,6 +539,20 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "25/12/2025 02:00": {
+      "title": "\"24/12\" Small Update",
+      "desc": "New skin, minor changes to skins, minor changes to quests.",
+      "sections": {
+        "skins": {
+          "name": "SKINS",
+          "desc": "EXCLUSIVE:\nGlam Chica\n\nAlso:\n- Changed \"Exists\" for some skins\n- Updated description of \"Reindeer Foxy\""
+        },
+        "quests": {
+          "name": "QUESTS",
+          "desc": "- Added a template for event quests (will be implemented later)\n- Changed/fixed names of some quests"
+        }
+      }
     },
     "05/12/2025 23:59": {
       "title": "\"05/12\" Christmas Update",
