@@ -146,7 +146,8 @@
                 "target": 2,
                 "rewards": [
                     { "type": "coins", "amount": 150 },
-                    { "type": "xp", "amount": 150 }
+                    { "type": "xp", "amount": 150 },
+                    { "type": "event_points", "amount": 100 }
                 ]
             },
             {
