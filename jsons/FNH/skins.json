@@ -25,6 +25,7 @@
                 "name": "Glam Chica",
                 "addDate": "24/12/2025",
                 "abilityId": "Sugar Crash",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamChica.png",
                 "imageClass": "idk_temp_image"
             },
