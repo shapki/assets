@@ -175,6 +175,7 @@
             {
                 "name": "Golden Elf Bonnie",
                 "addDate": "05/12/2025",
+                "lockDate": "25/12/2025",
                 "limited": "christmas2025",
                 "comment": "Golden Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
@@ -185,6 +186,8 @@
             {
                 "name": "Golden Evil Elf Bonnie",
                 "addDate": "05/12/2025",
+                "lockDate": "25/12/2025",
+                "Exists": "~3,615",
                 "limited": "christmas2025",
                 "comment": "Golden Evil Elf Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
