@@ -287,6 +287,10 @@
     "Snowfall": {
       "name": "Snowfall",
       "desk": "Animatronic stands still and channels its power, emitting a large freezing area."
+    },
+    "Festive Distraction": {
+      "name": "Festive Distraction",
+      "desk": "Animatronic drops three brightly wrapped gift boxes in a cluster. Anyone caught in the radius will be disoriented. For every caught survivor Animatronic receives a temporary small burst of speed."
     }
   },
   "Quests": {
@@ -547,6 +551,12 @@
         "skins": {
           "name": "SKINS",
           "desc": "EXCLUSIVE:\nGlam Chica\n\nAlso:\n- Changed \"Exists\" for some skins\n- Updated description of \"Reindeer Foxy\""
+        },
+        "abilities": {
+          "abilities": {
+            "name": "ABILITIES",
+            "desc": "A new ability \"Festive Distraction\" has been added for \"Golden Evil Elf Bonnie\"."
+          }
         },
         "quests": {
           "name": "QUESTS",

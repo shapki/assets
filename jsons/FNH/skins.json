@@ -178,7 +178,7 @@
                 "lockDate": "25/12/2025",
                 "limited": "christmas2025",
                 "comment": "Golden Elf Bonnie COMMENT",
-                "abilityId": "Amplified Fear",
+                "abilityId": ["Amplified Fear", "Festive Distraction"],
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenElfBonnie.png",
                 "imageClass": "idk_temp_image"
@@ -190,7 +190,7 @@
                 "Exists": "~3,615",
                 "limited": "christmas2025",
                 "comment": "Golden Evil Elf Bonnie COMMENT",
-                "abilityId": "Amplified Fear",
+                "abilityId": ["Amplified Fear", "Festive Distraction"],
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenEvilElfBonnie.png",
                 "imageClass": "idk_temp_image"

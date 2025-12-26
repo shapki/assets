@@ -186,6 +186,12 @@
             "color2": "#2b2b72",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Snowfall_x1000.png",
             "lvl 50+": true
+        },
+        "Festive Distraction": {
+            "color1": "#347c2c",
+            "color2": "#0c1d0a",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_FestiveDistraction_x1000.png",
+            "lvl 50+": true
         }
     }
 }
