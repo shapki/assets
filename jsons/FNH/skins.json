@@ -24,6 +24,7 @@
             {
                 "name": "Glam Chica",
                 "addDate": "24/12/2025",
+                "Exists": "~1,920",
                 "abilityId": "Sugar Crash",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamChica.png",
@@ -35,7 +36,7 @@
                 "lockDate": "24/12/2025",
                 "comment": "Krampus Burntrap COMMENT",
                 "Exists": "5,512",
-                "ExistsGlitched": "1",
+                "ExistsGlitched": "3",
                 "abilityId": "Scorchpath",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_KrampusBurntrap.png",
                 "imageClass": "idk_temp_image"
@@ -187,7 +188,7 @@
                 "name": "Golden Evil Elf Bonnie",
                 "addDate": "05/12/2025",
                 "lockDate": "25/12/2025",
-                "Exists": "~3,615",
+                "Exists": "~32,590",
                 "limited": "christmas2025",
                 "comment": "Golden Evil Elf Bonnie COMMENT",
                 "abilityId": ["Amplified Fear", "Festive Distraction"],
