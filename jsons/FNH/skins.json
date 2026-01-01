@@ -18,13 +18,16 @@
             ],
             "christmas2025": [
                 "Christmas 2025"
+            ],
+            "newYear2026": [
+                "New Year 2026"
             ]
         },
         "exclusive": [
             {
                 "name": "Glam Chica",
                 "addDate": "24/12/2025",
-                "Exists": "~2,225",
+                "Exists": "~2,545",
                 "abilityId": "Sugar Crash",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamChica.png",
@@ -174,6 +177,15 @@
         ],
         "Sacred": [
             {
+                "name": "Springtrap 2026",
+                "addDate": "01/01/2026",
+                "limited": "newYear2026",
+                "comment": "Springtrap 2026 COMMENT",
+                "abilityId": "Springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_NewYear2026_Sacred_Springtrap2026.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Golden Elf Bonnie",
                 "addDate": "05/12/2025",
                 "lockDate": "25/12/2025",
@@ -183,18 +195,6 @@
                 "abilityId": ["Amplified Fear", "Festive Distraction"],
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenElfBonnie.png",
-                "imageClass": "idk_temp_image"
-            },
-            {
-                "name": "Golden Evil Elf Bonnie",
-                "addDate": "05/12/2025",
-                "lockDate": "25/12/2025",
-                "Exists": "~38,265",
-                "limited": "christmas2025",
-                "comment": "Golden Evil Elf Bonnie COMMENT",
-                "abilityId": ["Amplified Fear", "Festive Distraction"],
-                "showGlitched": false,
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenEvilElfBonnie.png",
                 "imageClass": "idk_temp_image"
             },
             {
@@ -211,7 +211,7 @@
                 "name": "Creation",
                 "addDate": "01/11/2025",
                 "Exists": "~5,260",
-                "ExistsGlitched": "~35",
+                "ExistsGlitched": "~50",
                 "limited": "tjoc2025",
                 "abilityId": "The Joy Of Creation",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Sacred_Creation.png",
@@ -253,6 +253,7 @@
                 "name": "Lolbit",
                 "addDate": "03/08/2025",
                 "Exists": "~3,000",
+                "ExistsGlitched": "~30",
                 "abilityId": "Please Stand By",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Lolbit.png",
                 "imageClass": "idk_temp_image"
@@ -280,6 +281,7 @@
                 "name": "Nightmare",
                 "addDate": "06/06/2025",
                 "Exists": "~6,200",
+                "ExistsGlitched": "~55",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Nightmare.png",
                 "imageClass": "idk_temp_image"
@@ -288,6 +290,7 @@
                 "name": "Nightmare Fredbear",
                 "addDate": "06/06/2025",
                 "Exists": "~6,305",
+                "ExistsGlitched": "~55",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_NightmareFredbear.png",
                 "imageClass": "idk_temp_image"
@@ -305,12 +308,25 @@
                 "name": "Purple Guy",
                 "addDate": "17/05/2025",
                 "Exists": "~8,790",
+                "ExistsGlitched": "~80",
                 "abilityId": "Vengeance",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_PurpleGuy.png",
                 "imageClass": "idk_temp_image"
             }
         ],
         "Legendary": [
+            {
+                "name": "Golden Evil Elf Bonnie",
+                "addDate": "05/12/2025",
+                "lockDate": "25/12/2025",
+                "Exists": "~43,224",
+                "limited": "christmas2025",
+                "comment": "Golden Evil Elf Bonnie COMMENT",
+                "abilityId": ["Amplified Fear", "Festive Distraction"],
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Contest_Sacred_GoldenEvilElfBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Ignited Foxy",
                 "addDate": "01/11/2025",
@@ -378,6 +394,7 @@
                 "addDate": "19/09/2025",
                 "lockDate": "17/10/2025",
                 "Exists": "19,745",
+                "ExistsGlitched": "184",
                 "limited": "communityContest1",
                 "comment": "Neo Funtime Freddy COMMENT",
                 "abilityId": ["Marked One", "Bon Bon Bite"],
@@ -925,6 +942,15 @@
             }
         ],
         "Uncommon": [
+            {
+                "name": "Freddy 2026",
+                "addDate": "01/01/2026",
+                "limited": "newYear2026",
+                "comment": "Freddy 2026 COMMENT",
+                "abilityId": "Marked One",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_NewYear2026_Uncommon_Freddy2026.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Freddy Claus",
                 "addDate": "05/12/2025",

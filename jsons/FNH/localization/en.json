@@ -368,6 +368,7 @@
       "only_from_case": "Could only be obtained from the event case."
     },
     "events_rarities": {
+      "New Year 2026": "New Year 2026",
       "Christmas 2025": "Christmas 2025",
       "The Joy Of Creation": "The Joy Of Creation",
       "Halloween 2025": "Halloween 2025",
@@ -401,10 +402,10 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Springtrap 2026": "Springtrap 2026",
+      "Springtrap 2026 COMMENT": "_______________________",
       "Golden Elf Bonnie": "Golden Elf Bonnie",
       "Golden Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNice\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThis skin wasn't distributed.",
-      "Golden Evil Elf Bonnie": "Golden Evil Elf Bonnie",
-      "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThe skin for the other team wasn't distributed.",
       "Snowfall Moon": "Snowfall Moon",
       "Creation": "Creation",
       "Clowntrap": "Clowntrap",
@@ -421,6 +422,8 @@
       "Purple Guy": "Purple Guy"
     },
     "legendary": {
+      "Golden Evil Elf Bonnie": "Golden Evil Elf Bonnie",
+      "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThe skin for the other team wasn't distributed.",
       "Ignited Foxy": "Ignited Foxy",
       "Ignited Bonnie": "Ignited Bonnie",
       "Ignited Chica": "Ignited Chica",
@@ -500,6 +503,8 @@
       "Golden Freddy": "Golden Freddy"
     },
     "uncommon": {
+      "Freddy 2026": "Freddy 2026",
+      "Freddy 2026 COMMENT": "_______________________",
       "Freddy Claus": "Freddy Claus",
       "Tamogachi Bonnie": "Tamogachi Bonnie",
       "Tamogachi Bonnie COMMENT": "UNCOMMON category winner [1st]\n@checkersntoast",
@@ -543,6 +548,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "01/01/2026 05:15": {
+      "title": "\"01/01\" New Year's Update",
+      "desc": "New skins, minor skins changes",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- SACRED Springtrap 2026\n- UNCOMMON Freddy 2026"
+        },
+        "skins-update": {
+          "name": "SKINS CHANGES",
+          "desc": "- Golden Evil Elf Bonnie is now LEGENDARY.\n- Updated \"Exists\" for most skins."
+        },
+        "skills-icons": {
+          "name": "SKILLS",
+          "desc": "Added icons for:\n- Sprint\n- Guardian Angel\n- Resolve\n- Rekindle"
+        }
+      }
     },
     "25/12/2025 02:00": {
       "title": "\"24/12\" Small Update",
