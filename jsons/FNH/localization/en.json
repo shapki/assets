@@ -355,6 +355,7 @@
   },
   "Skins": {
     "misc": {
+      "SkinsTitle": "SKINS",
       "All": "All",
       "Search...": "Search...",
       "Extended": "Extended",
