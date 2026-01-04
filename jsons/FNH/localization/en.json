@@ -363,8 +363,8 @@
       "Added:": "Added:",
       "Unavailable from:": "Unavailable from:",
       "Exists": "Exists",
-      "Limited:": "Limited:",
-      "Rarity:": "Rarity:",
+      "Limited": "Limited",
+      "Rarity": "Rarity",
       "[GLITCHED]": "[GLITCHED]",
       "[GLITCHED] Toggle": "[GLITCHED] Toggle",
       "only_from_case": "Could only be obtained from the event case."
