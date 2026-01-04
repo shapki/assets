@@ -62,7 +62,7 @@
       "II": "Clocking Out II",
       "II DESK": "After completing a terminal, give yourself and any nearby survivors a speed boost for 3 seconds.",
       "III": "Clocking Out III",
-      "III DESK": "After the escapes are opened, give yourself a minor speed boost for the rest of the match. This effect will only trigger while full health."
+      "III DESK": "After hacking all terminals, give yourself a minor speed boost for the rest of the match. This effect will only trigger while full health."
     },
     "Dusting Off": {
       "I": "Dusting Off I",
@@ -82,11 +82,11 @@
     },
     "Third Eye": {
       "I": "Third Eye I",
-      "I DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for 5 seconds.",
+      "I DESK": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for 5 seconds.",
       "II": "Third Eye II",
-      "II DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for 10 seconds.",
+      "II DESK": "After completing all terminals, your instincts sharpen, revealing the animatronic's location for 10 seconds.",
       "III": "Third Eye III",
-      "III DESK": "As the exit opens, your instincts sharpen, revealing the animatronic's location for the rest of the match."
+      "III DESK": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for the rest of the match."
     },
     "Self Care": {
       "I": "Self Care I",
