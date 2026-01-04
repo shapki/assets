@@ -492,6 +492,7 @@
                 "name": "Circus Baby",
                 "addDate": "19/07/2025",
                 "Exists": "~106,130",
+                "ExistsGlitched": "1,185",
                 "abilityId": "Ice Cream Lure",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_CircusBaby.png",
                 "imageClass": "idk_temp_image"
