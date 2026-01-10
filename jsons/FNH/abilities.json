@@ -223,6 +223,12 @@
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_UndyingWill_x1000.png",
             "lvl 50+": true
         },
+        "Once Upon A Time": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_OnceUponATime_x1000.png",
+            "lvl 50+": true
+        },
         "Downed Transmission": {
             "color1": "#3370f8",
             "color2": "#20489c",

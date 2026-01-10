@@ -180,187 +180,191 @@
     
     "Dim Presence": {
       "name": "Dim Presence",
-      "desk": "Darkness works in favor of the animatronic. Reduces the range of the glow by 10%/20%/30%, making it easier to creep up on unsuspecting survivors."
+      "desc": "Darkness works in favor of the animatronic. Reduces the range of the glow by 10%/20%/30%, making it easier to creep up on unsuspecting survivors."
     },
     "Predators Trail": {
       "name": "Predators Trail",
-      "desk": "Fresh wounds leave a path to follow. After striking a survivor, their footprints become visible for 1/2/3 seconds, making it easier to track them down."
+      "desc": "Fresh wounds leave a path to follow. After striking a survivor, their footprints become visible for 1/2/3 seconds, making it easier to track them down."
     },
     "Rescue Signal": {
       "name": "Rescue Signal",
-      "desk": "A rescue won't go unheard. The animatronic is alerted when a survivor has been rescued for a ball pit, temporarily highlighting its and its escape's location for 1/2/3 seconds."
+      "desc": "A rescue won't go unheard. The animatronic is alerted when a survivor has been rescued for a ball pit, temporarily highlighting its and its escape's location for 1/2/3 seconds."
     },
     "Brute Force": {
       "name": "Brute Force",
-      "desk": "Nothing stands in the way. Opens doors 10%/20%/30% faster, reducing obstacles between the animatronic and its prey."
+      "desc": "Nothing stands in the way. Opens doors 10%/20%/30% faster, reducing obstacles between the animatronic and its prey."
     },
     "Listening Mode": {
       "name": "Listening Mode",
-      "desk": "Silence sharpens the senses. While standing still, activates ability to detect survivors hacking nearby. A distinct sound or notification alerts both the animatronic and survivors if detected. Lasts 1/2/3 seconds."
+      "desc": "Silence sharpens the senses. While standing still, activates ability to detect survivors hacking nearby. A distinct sound or notification alerts both the animatronic and survivors if detected. Lasts 1/2/3 seconds."
     },
     "Final Stand": {
       "name": "Final Stand",
-      "desk": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 10%/15%/25%, making last-minute escapes even more dangerous."
+      "desc": "The hunt isn't over yet. When the exit doors are unlocked, the animatronic's speed increases by 10%/15%/25%, making last-minute escapes even more dangerous."
     },
     "Marked One": {
       "name": "Marked One",
-      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration.",
+      "desc": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration.",
       "nightmare": "Increases the range detection.",
       "lvl100": "Increase range by 20 studs."
     },
     "Sugar Crash": {
       "name": "Sugar Crash",
-      "desk": "Can throw a cupcake at the nearby survivor to deal damage and weaken their escape.",
+      "desc": "Can throw a cupcake at the nearby survivor to deal damage and weaken their escape.",
       "nightmare": "Can take down survivors.",
       "lvl100": "Cupcake goes 10% faster."
     },
     "Amplified Fear": {
       "name": "Amplified Fear",
-      "desk": "Strums a chilling chord, sending shockwaves that slow down nearby survivors in the animatronic's presence.",
+      "desc": "Strums a chilling chord, sending shockwaves that slow down nearby survivors in the animatronic's presence.",
       "nightmare": "Increases the slow down range.",
       "lvl100": "Additionally slows survivors by 5%."
     },
     "Circuit Breaker": {
       "name": "Circuit Breaker",
-      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them, stalling survivors and slowing their progress.",
+      "desc": "The hooked metal hand can temporarily sabotage terminals by striking them, stalling survivors and slowing their progress.",
       "nightmare": "Effect lasts significantly longer.",
       "lvl100": "5% faster around broke terminal."
     },
     "Springlocked": {
       "name": "Springlocked",
-      "desk": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds.",
+      "desc": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds.",
       "lvl100": "Able to do 150 Damage (50%)."
     },
     "Mangled": {
       "name": "Mangled",
-      "desk": "Can grab the nearest survivor within 60 studs (Dodgeable). 30 seconds cooldown.",
+      "desc": "Can grab the nearest survivor within 60 studs (Dodgeable). 30 seconds cooldown.",
       "lvl100": "Grabbing Survivor Does 33 Damage."
     },
     "Silent Steps": {
       "name": "Silent Steps",
-      "desk": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown.",
+      "desc": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown.",
       "lvl100": "Lasts longer (15 seconds)."
     },
     "Short Circuit": {
       "name": "Short Circuit",
-      "desk": "Resets the progress of the nearest terminal. 90 seconds cooldown.",
+      "desc": "Resets the progress of the nearest terminal. 90 seconds cooldown.",
       "lvl100": "Shorten cooldown by 5 seconds."
     },
     "Vengeance": {
       "name": "Vengeance",
-      "desk": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage.",
+      "desc": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage.",
       "lvl100": "5% slowdown to survivors hit"
     },
     "Scorchpath": {
       "name": "Scorchpath",
-      "desk": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it.",
+      "desc": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it.",
       "lvl100": "Slightly wider blazing wall of fire (10%)."
     },
     "Companion Bear": {
       "name": "Companion Bear",
-      "desk": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie.",
+      "desc": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie.",
       "lvl100": "5% lower cooldown."
     },
     "Ice Cream Lure": {
       "name": "Ice Cream Lure",
-      "desk": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors.",
+      "desc": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors.",
       "lvl100": "Increase range by 5 studs."
     },
     "Deadly Grace": {
       "name": "Deadly Grace",
-      "desk": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown.",
+      "desc": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown.",
       "lvl100": "Cooldown is reduced to 250%."
     },
     "Limb Reaper": {
       "name": "Limb Reaper",
-      "desk": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
+      "desc": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
       "lvl100": "25% chance to get other limb."
     },
     "Bon Bon Bite": {
       "name": "Bon Bon Bite",
-      "desk": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown.",
+      "desc": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown.",
       "lvl100": "Increase range by 5 studs."
     },
     "Remote Anchor": {
       "name": "Remote Anchor",
-      "desk": "Animatronic can drop a trap that trips survivors.",
+      "desc": "Animatronic can drop a trap that trips survivors.",
       "lvl100": "Start off with 3 traps."
     },
     "Please Stand By": {
       "name": "Please Stand By",
-      "desk": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction.",
+      "desc": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction.",
       "lvl100": "Extra terminal (Half % given)."
     },
     "Digital Reality": {
       "name": "Digital Reality",
-      "desk": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown.",
+      "desc": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown.",
       "lvl100": "Shorten cooldown by 5 seconds."
     },
     "Silent Angel": {
       "name": "Silent Angel",
-      "desk": "The angels burn animatronic's eyes, it can't look at them for long... But they can't move while it does. The animatronic can teleport to any angel.",
+      "desc": "The angels burn animatronic's eyes, it can't look at them for long... But they can't move while it does. The animatronic can teleport to any angel.",
       "lvl100": "1 more endo spawns"
     },
     "Ignited One": {
       "name": "Ignited One",
-      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration. Anyone in the ability's range will temporarily lose the ability to crawl.",
+      "desc": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration. Anyone in the ability's range will temporarily lose the ability to crawl.",
       "lvl100": "3 seconds longer highlight."
     },
     "Toxic Crash": {
       "name": "Toxic Crash",
-      "desk": "Can throw a cupcake a toxic cupcake that creates a toxic cloud.",
+      "desc": "Can throw a cupcake a toxic cupcake that creates a toxic cloud.",
       "lvl100": "Expands 10% faster."
     },
     "Amplified Terror": {
       "name": "Amplified Terror",
-      "desk": "Strums a chilling chord, blinding and slowing nearby survivors.",
+      "desc": "Strums a chilling chord, blinding and slowing nearby survivors.",
       "lvl100": "Deafens survivors for 3 seconds."
     },
     "Blackout Breaker": {
       "name": "Blackout Breaker",
-      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them and regresses progress by 15%. Can only be used 2 times on the same terminal.",
+      "desc": "The hooked metal hand can temporarily sabotage terminals by striking them and regresses progress by 15%. Can only be used 2 times on the same terminal.",
       "lvl100": "Regresses progress by 17%."
     },
     "The Joy Of Creation": {
       "name": "The Joy Of Creation",
-      "desk": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks.",
+      "desc": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks.",
       "lvl100": "Deals burning tick damage (33)."
     },
     "Snowfall": {
       "name": "Snowfall",
-      "desk": "Animatronic stands still and channels its power, emitting a large freezing area."
+      "desc": "Animatronic stands still and channels its power, emitting a large freezing area."
     },
     "Festive Distraction": {
       "name": "Festive Distraction",
-      "desk": "Animatronic drops three brightly wrapped gift boxes in a cluster. Anyone caught in the radius will be disoriented. For every caught survivor Animatronic receives a temporary small burst of speed."
+      "desc": "Animatronic drops three brightly wrapped gift boxes in a cluster. Anyone caught in the radius will be disoriented. For every caught survivor Animatronic receives a temporary small burst of speed."
     },
     "Please Deposit 5 Coins": {
       "name": "Please Deposit 5 Coins",
-      "desk": "Survivors must collect coins around the map. Every 2 minutes Animatronic will ask for 5 coins. If any survivors don't have that many, they will marked until they collect enough."
+      "desc": "Survivors must collect coins around the map. Every 2 minutes Animatronic will ask for 5 coins. If any survivors don't have that many, they will marked until they collect enough."
     },
     "Guitar Hunt": {
       "name": "Guitar Hunt",
-      "desk": "The animatronic's guitar will spawn somewhere on the map. If found by survivors, it won't be able to use abilities. If it isn't found, survivors will be slowed until it's found."
+      "desc": "The animatronic's guitar will spawn somewhere on the map. If found by survivors, it won't be able to use abilities. If it isn't found, survivors will be slowed until it's found."
     },
     "SQUAWK!": {
       "name": "SQUAWK!",
-      "desk": "The Animatronic spawns with a parrot that perches on a random terminal in the map. When that terminal is hacked, the parrot will warn it."
+      "desc": "The Animatronic spawns with a parrot that perches on a random terminal in the map. When that terminal is hacked, the parrot will warn it."
     },
     "Rockstar's Dream": {
       "name": "Rockstar's Dream",
-      "desk": "The Rockstars yearn to show their musical talents to others. If they haven't hit anyone in 20 seconds, they get a speed boost until they hit someone."
+      "desc": "The Rockstars yearn to show their musical talents to others. If they haven't hit anyone in 20 seconds, they get a speed boost until they hit someone."
     },
     "Undying Will": {
       "name": "Undying Will",
-      "desk": "For every capture Animatronic gets, it will get a small buff to his stats."
+      "desc": "For every capture Animatronic gets, it will get a small buff to his stats."
+    },
+    "Once Upon A Time": {
+      "name": "Once Upon A Time",
+      "desc": "Animatronic will occasionally scare the survivors."
     },
     "Downed Transmission": {
       "name": "Downed Transmission",
-      "desk": "The Animatronic has the ability to knock a survivor and put them into a random ballpit instantly if a box isn't winded, but it's speed will weaken temporarily."
+      "desc": "The Animatronic has the ability to knock a survivor and put them into a random ballpit instantly if a box isn't winded, but it's speed will weaken temporarily."
     },
     "Clawed Attack": {
       "name": "Clawed Attack",
-      "desk": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked."
+      "desc": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked."
     }
   },
   "Quests": {
