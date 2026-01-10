@@ -21,13 +21,26 @@
             ],
             "newYear2026": [
                 "New Year 2026"
+            ],
+            "fnaf6": [
+                "FNAF 6"
             ]
         },
         "exclusive": [
             {
+                "name": "Lava Marionette",
+                "addDate": "09/01/2026",
+                "Exists": "~500",
+                "abilityId": "Silent Steps",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LavaMarionette.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Glam Chica",
                 "addDate": "24/12/2025",
-                "Exists": "~2,545",
+                "lockDate": "09/01/2026",
+                "Exists": "3,981",
                 "abilityId": "Sugar Crash",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamChica.png",
@@ -177,6 +190,31 @@
         ],
         "Sacred": [
             {
+                "name": "Lava Ennard",
+                "addDate": "09/01/2026",
+                "limited": "fnaf6",
+                "comment": "Lava Ennard COMMENT",
+                "abilityId": "Limb Reaper",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Sacred_LavaEnnard.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Scrapbaby",
+                "addDate": "09/01/2026",
+                "limited": "fnaf6",
+                "abilityId": "Clawed Attack",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Sacred_Scrapbaby.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Lefty",
+                "addDate": "09/01/2026",
+                "limited": "fnaf6",
+                "abilityId": "Downed Transmission",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Sacred_Lefty.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Springtrap 2026",
                 "addDate": "01/01/2026",
                 "lockDate": "02/02/2026",
@@ -203,6 +241,8 @@
             {
                 "name": "Snowfall Moon",
                 "addDate": "05/12/2025",
+                "lockDate": "09/01/2026",
+                "Exists": "4,216",
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Snowfall",
@@ -213,8 +253,9 @@
             {
                 "name": "Creation",
                 "addDate": "01/11/2025",
-                "Exists": "~5,260",
-                "ExistsGlitched": "~60",
+                "lockDate": "09/01/2026",
+                "Exists": "6,732",
+                "ExistsGlitched": "~64",
                 "limited": "tjoc2025",
                 "abilityId": "The Joy Of Creation",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Sacred_Creation.png",
@@ -247,7 +288,7 @@
             {
                 "name": "MXES",
                 "addDate": "29/08/2025",
-                "Exists": "~2,155",
+                "Exists": "~2,580",
                 "ExistsGlitched": "~30",
                 "abilityId": "Digital Reality",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_MXES.png",
@@ -256,7 +297,7 @@
             {
                 "name": "Lolbit",
                 "addDate": "03/08/2025",
-                "Exists": "~3,000",
+                "Exists": "~3,845",
                 "ExistsGlitched": "~35",
                 "abilityId": "Please Stand By",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Lolbit.png",
@@ -265,7 +306,7 @@
             {
                 "name": "Ennard",
                 "addDate": "19/07/2025",
-                "Exists": "~3,500",
+                "Exists": "~4,755",
                 "abilityId": "Limb Reaper",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Ennard.png",
                 "imageClass": "idk_temp_image"
@@ -284,7 +325,7 @@
             {
                 "name": "Nightmare",
                 "addDate": "06/06/2025",
-                "Exists": "~6,200",
+                "Exists": "~6,615",
                 "ExistsGlitched": "~55",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Nightmare.png",
@@ -293,7 +334,7 @@
             {
                 "name": "Nightmare Fredbear",
                 "addDate": "06/06/2025",
-                "Exists": "~6,305",
+                "Exists": "~6,710",
                 "ExistsGlitched": "~55",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_NightmareFredbear.png",
@@ -302,7 +343,7 @@
             {
                 "name": "Burntrap",
                 "addDate": "24/05/2025",
-                "Exists": "~7,910",
+                "Exists": "~8,290",
                 "ExistsGlitched": "~80",
                 "abilityId": "Scorchpath",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Burntrap.png",
@@ -311,7 +352,7 @@
             {
                 "name": "Purple Guy",
                 "addDate": "17/05/2025",
-                "Exists": "~8,790",
+                "Exists": "~9,255",
                 "ExistsGlitched": "~80",
                 "abilityId": "Vengeance",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_PurpleGuy.png",
@@ -320,10 +361,37 @@
         ],
         "Legendary": [
             {
+                "name": "Mr Hippo",
+                "addDate": "09/01/2026",
+                "Exists": "~19,675",
+                "limited": "fnaf6",
+                "abilityId": "Once Upon a Time",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Legendary_MrHippo.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Molten Freddy",
+                "addDate": "09/01/2026",
+                "Exists": "~17,305",
+                "limited": "fnaf6",
+                "abilityId": "Marked One",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Legendary_MoltenFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Scraptrap",
+                "addDate": "09/01/2026",
+                "Exists": "~18,870",
+                "limited": "fnaf6",
+                "abilityId": "Undying Will",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Legendary_Scraptrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Golden Evil Elf Bonnie",
                 "addDate": "05/12/2025",
                 "lockDate": "25/12/2025",
-                "Exists": "~53,990",
+                "Exists": "~61,710",
                 "limited": "christmas2025",
                 "comment": "Golden Evil Elf Bonnie COMMENT",
                 "abilityId": ["Amplified Fear", "Festive Distraction"],
@@ -334,7 +402,9 @@
             {
                 "name": "Ignited Foxy",
                 "addDate": "01/11/2025",
-                "Exists": "~117,950",
+                "lockDate": "09/01/2026",
+                "Exists": "152,945",
+                "ExistsGlitched": "~1,000",
                 "limited": "tjoc2025",
                 "abilityId": ["Circuit Breaker", "Blackout Breaker"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedFoxy.png",
@@ -343,8 +413,9 @@
             {
                 "name": "Ignited Bonnie",
                 "addDate": "01/11/2025",
-                "Exists": "~118,645",
-                "ExistsGlitched": "~1,205",
+                "lockDate": "09/01/2026",
+                "Exists": "153,770",
+                "ExistsGlitched": "1,556",
                 "limited": "tjoc2025",
                 "abilityId": ["Amplified Fear", "Amplified Terror"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedBonnie.png",
@@ -353,8 +424,9 @@
             {
                 "name": "Ignited Chica",
                 "addDate": "01/11/2025",
-                "Exists": "~117,350",
-                "ExistsGlitched": "~1,190",
+                "lockDate": "09/01/2026",
+                "Exists": "151,688",
+                "ExistsGlitched": "1,534",
                 "limited": "tjoc2025",
                 "abilityId": ["Sugar Crash", "Toxic Crash"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedChica.png",
@@ -363,8 +435,9 @@
             {
                 "name": "Ignited Freddy",
                 "addDate": "01/11/2025",
-                "Exists": "~117,290",
-                "ExistsGlitched": "~1,150",
+                "lockDate": "09/01/2026",
+                "Exists": "151,778",
+                "ExistsGlitched": "1,507",
                 "limited": "tjoc2025",
                 "abilityId": ["Marked One", "Ignited One"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Legendary_IgnitedFreddy.png",
@@ -465,8 +538,8 @@
             {
                 "name": "Funtime Foxy",
                 "addDate": "03/08/2025",
-                "Exists": "~85,840",
-                "ExistsGlitched": "~915",
+                "Exists": "~96,040",
+                "ExistsGlitched": "~1,025",
                 "abilityId": ["Circuit Breaker", "Remote Anchor"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_FuntimeFoxy.png",
                 "imageClass": "idk_temp_image"
@@ -474,8 +547,8 @@
             {
                 "name": "Funtime Freddy",
                 "addDate": "03/08/2025",
-                "Exists": "~85,865",
-                "ExistsGlitched": "~890",
+                "Exists": "~96,030",
+                "ExistsGlitched": "~985",
                 "abilityId": ["Marked One", "Bon Bon Bite"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_FuntimeFreddy.png",
                 "imageClass": "idk_temp_image"
@@ -492,8 +565,8 @@
             {
                 "name": "Circus Baby",
                 "addDate": "19/07/2025",
-                "Exists": "~106,130",
-                "ExistsGlitched": "1,185",
+                "Exists": "~116,550",
+                "ExistsGlitched": "~1,230",
                 "abilityId": "Ice Cream Lure",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_CircusBaby.png",
                 "imageClass": "idk_temp_image"
@@ -531,7 +604,7 @@
             {
                 "name": "Nightmare Foxy",
                 "addDate": "06/06/2025",
-                "Exists": "~157,125",
+                "Exists": "~167,420",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareFoxy.png",
                 "imageClass": "idk_temp_image"
@@ -539,7 +612,7 @@
             {
                 "name": "Nightmare Bonnie",
                 "addDate": "06/06/2025",
-                "Exists": "~157,095",
+                "Exists": "~167,430",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareBonnie.png",
                 "imageClass": "idk_temp_image"
@@ -547,7 +620,7 @@
             {
                 "name": "Nightmare Chica",
                 "addDate": "06/06/2025",
-                "Exists": "~156,930",
+                "Exists": "~167,130",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareChica.png",
                 "imageClass": "idk_temp_image"
@@ -555,7 +628,7 @@
             {
                 "name": "Nightmare Freddy",
                 "addDate": "06/06/2025",
-                "Exists": "~157,315",
+                "Exists": "~167,690",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_NightmareFreddy.png",
                 "imageClass": "idk_temp_image"
@@ -563,8 +636,8 @@
             {
                 "name": "RWQFSFASXC",
                 "addDate": "24/05/2025",
-                "Exists": "~168,015",
-                "ExistsGlitched": "~1,720",
+                "Exists": "~178,200",
+                "ExistsGlitched": "~1,835",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_RWQFSFASXC.png",
                 "imageClass": "idk_temp_image"
@@ -572,45 +645,45 @@
             {
                 "name": "Mangle",
                 "addDate": "10/05/2025",
-                "Exists": "~165,625",
+                "Exists": "~175,800",
                 "abilityId": "Mangled",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_Mangle.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Springtrap",
-                "Exists": "~181,480",
-                "ExistsGlitched": "~1,935",
+                "Exists": "~191,665",
+                "ExistsGlitched": "~2,040",
                 "abilityId": "Springlocked",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_Springtrap.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Shadow Foxy",
-                "Exists": "~173,185",
+                "Exists": "~183,365",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowFoxy.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Shadow Bonnie",
-                "Exists": "~168,710",
-                "ExistsGlitched": "~1,730",
+                "Exists": "~178,921",
+                "ExistsGlitched": "~1,830",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowBonnie.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Shadow Chica",
-                "Exists": "~174,625",
-                "ExistsGlitched": "~1,785",
+                "Exists": "~184,990",
+                "ExistsGlitched": "~1,905",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowChica.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Shadow Freddy",
-                "Exists": "~167,800",
+                "Exists": "~178,220",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Legendary_ShadowFreddy.png",
                 "imageClass": "idk_temp_image"
@@ -618,8 +691,50 @@
         ],
         "Epic": [
             {
+                "name": "Rockstar Foxy",
+                "addDate": "09/01/2026",
+                "Exists": "~128,590",
+                "ExistsGlitched": "~1,000",
+                "limited": "fnaf6",
+                "abilityId": ["Circuit Breaker", "Rockstar's Dream", "SQUAWK!"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Epic_RockstarFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Rockstar Bonnie",
+                "addDate": "09/01/2026",
+                "Exists": "~128,710",
+                "ExistsGlitched": "~1,255",
+                "limited": "fnaf6",
+                "abilityId": ["Amplified Fear", "Rockstar's Dream", "Guitar Hunt"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Epic_RockstarBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Rockstar Chica",
+                "addDate": "09/01/2026",
+                "Exists": "~127,920",
+                "ExistsGlitched": "~1,295",
+                "limited": "fnaf6",
+                "abilityId": ["Sugar Crash", "Rockstar's Dream"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Epic_RockstarChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Rockstar Freddy",
+                "addDate": "09/01/2026",
+                "Exists": "~128,250",
+                "ExistsGlitched": "~1,290",
+                "limited": "fnaf6",
+                "abilityId": ["Marked One", "Rockstar's Dream", "Please Deposit 5 Coins"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Epic_RockstarFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Nutcracker Foxy",
                 "addDate": "05/12/2025",
+                "lockDate": "09/01/2026",
+                "Exists": "36,616",
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Circuit Breaker",
@@ -629,9 +744,10 @@
             },
             {
                 "name": "Endo R Blue",
-                "addDate": "01/11/2025", 
-                "Exists": "~853,990",
-                "ExistsGlitched": "~8,785",
+                "addDate": "01/11/2025",
+                "lockDate": "09/01/2026",
+                "Exists": "1,1M",
+                "ExistsGlitched": "11,304",
                 "limited": "tjoc2025",
                 "abilityId": ["Short Circuit", "Silent Angel"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoRBlue.png",
@@ -639,9 +755,10 @@
             },
             {
                 "name": "Endo F Red",
-                "addDate": "01/11/2025", 
-                "Exists": "~854,995",
-                "ExistsGlitched": "~8,610",
+                "addDate": "01/11/2025",
+                "lockDate": "09/01/2026",
+                "Exists": "1,1M",
+                "ExistsGlitched": "11,152",
                 "limited": "tjoc2025",
                 "abilityId": ["Short Circuit", "Silent Angel"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoFRed.png",
@@ -650,8 +767,9 @@
             {
                 "name": "Endo C Mouth",
                 "addDate": "01/11/2025",
-                "Exists": "~854,710",
-                "ExistsGlitched": "~8,875",
+                "lockDate": "09/01/2026",
+                "Exists": "1,1M",
+                "ExistsGlitched": "11,432",
                 "limited": "tjoc2025",
                 "abilityId": ["Short Circuit", "Silent Angel"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoCMouth.png",
@@ -660,8 +778,9 @@
             {
                 "name": "Endo B Angel",
                 "addDate": "01/11/2025",
-                "Exists": "~854,685",
-                "ExistsGlitched": "~8,615",
+                "lockDate": "09/01/2026",
+                "Exists": "1,1M",
+                "ExistsGlitched": "11,304",
                 "limited": "tjoc2025",
                 "abilityId": ["Short Circuit", "Silent Angel"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_TJOC2025_Epic_EndoBAngel.png",
@@ -773,48 +892,48 @@
             {
                 "name": "Endo 02",
                 "addDate": "10/05/2025",
-                "Exists": "~1,3M",
-                "ExistsGlitched": "~13,925",
+                "Exists": "~1,4M",
+                "ExistsGlitched": "~14,715",
                 "abilityId": "Short Circuit",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_Endo02.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Marionette",
-                "Exists": "~1,3M",
-                "ExistsGlitched": "~14,060",
+                "Exists": "~1,4M",
+                "ExistsGlitched": "~14,850",
                 "abilityId": "Silent Steps",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_Marionette.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Withered Foxy",
-                "Exists": "~1,3M",
-                "ExistsGlitched": "~13,655",
+                "Exists": "~1,4M",
+                "ExistsGlitched": "~14,445",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredFoxy.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Withered Bonnie",
-                "Exists": "~1,4M",
-                "ExistsGlitched": "~13,750",
+                "Exists": "~1,5M",
+                "ExistsGlitched": "~14,535",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredBonnie.png",
                 "imageClass": "epic_witheredBonnie_image"
             },
             {
                 "name": "Withered Chica",
-                "Exists": "~1,2M",
-                "ExistsGlitched": "~13,785",
+                "Exists": "~1,4M",
+                "ExistsGlitched": "~14,640",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredChica.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Withered Freddy",
-                "Exists": "~1,3M",
-                "ExistsGlitched": "~13,425",
+                "Exists": "~1,4M",
+                "ExistsGlitched": "~14,240",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Epic_WitheredFreddy.png",
                 "imageClass": "idk_temp_image"
@@ -824,6 +943,8 @@
             {
                 "name": "Frosty Chica",
                 "addDate": "05/12/2025",
+                "lockDate": "09/01/2026",
+                "Exists": "81,859",
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Sugar Crash",
@@ -888,64 +1009,64 @@
             {
                 "name": "Endo 01",
                 "addDate": "10/05/2025",
-                "Exists": "~3,6M",
-                "ExistsGlitched": "~37,610",
+                "Exists": "~3,9M",
+                "ExistsGlitched": "~40,150",
                 "abilityId": "Short Circuit",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_Endo01.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Toy Bonnie",
-                "Exists": "~3,7M",
-                "ExistsGlitched": "~37,830",
+                "Exists": "~4M",
+                "ExistsGlitched": "~40,312",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyBonnie.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Toy Chica",
-                "Exists": "~3,7M",
-                "ExistsGlitched": "~37,130",
+                "Exists": "~3,9M",
+                "ExistsGlitched": "~39,630",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyChica.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Toy Freddy",
-                "Exists": "~3,8M",
-                "ExistsGlitched": "~38,735",
+                "Exists": "~4,1M",
+                "ExistsGlitched": "~41,295",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_ToyFreddy.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Golden Foxy",
-                "Exists": "~3,7M",
-                "ExistsGlitched": "~37,645",
+                "Exists": "~3,9M",
+                "ExistsGlitched": "~40,210",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenFoxy.png",
                 "imageClass": "uncommon_foxy_image"
             },
             {
                 "name": "Golden Bonnie",
-                "Exists": "~3,7M",
-                "ExistsGlitched": "~37,665",
+                "Exists": "~3,9M",
+                "ExistsGlitched": "~40,180",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenBonnie.png",
                 "imageClass": "uncommon_bonnie_image"
             },
             {
                 "name": "Golden Chica",
-                "Exists": "~3,8M",
-                "ExistsGlitched": "~38,375",
+                "Exists": "~4M",
+                "ExistsGlitched": "~40,495",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenChica.png",
                 "imageClass": "common_chica_image"
             },
             {
                 "name": "Golden Freddy",
-                "Exists": "~3,8M",
-                "ExistsGlitched": "~38,600",
+                "Exists": "~4M",
+                "ExistsGlitched": "~41,120",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenFreddy.png",
                 "imageClass": "common_freddy_image"
@@ -967,7 +1088,8 @@
             {
                 "name": "Freddy Claus",
                 "addDate": "05/12/2025",
-                "Exists": "~113,465",
+                "lockDate": "09/01/2026",
+                "Exists": "123,055",
                 "limited": "christmas2025",
                 "comment": "only_from_case",
                 "abilityId": "Marked One",
@@ -1031,48 +1153,48 @@
             },
             {
                 "name": "Soul Foxy",
-                "Exists": "~7,4M",
-                "ExistsGlitched": "~75,535",
+                "Exists": "~7,9M",
+                "ExistsGlitched": "~80,450",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulFoxy.png",
                 "imageClass": "uncommon_foxy_image"
             },
             {
                 "name": "Soul Bonnie",
-                "Exists": "~7,7M",
-                "ExistsGlitched": "~77,755",
+                "Exists": "~8,2M",
+                "ExistsGlitched": "~82,610",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulBonnie.png",
                 "imageClass": "uncommon_bonnie_image"
             },
             {
                 "name": "Soul Chica",
-                "Exists": "~7,4M",
-                "ExistsGlitched": "~74,595",
+                "Exists": "~7,9M",
+                "ExistsGlitched": "~79,590",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulChica.png",
                 "imageClass": "common_chica_image"
             },
             {
                 "name": "Soul Freddy",
-                "Exists": "~7,5M",
-                "ExistsGlitched": "~75,445",
+                "Exists": "~8M",
+                "ExistsGlitched": "~80,455",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_SoulFreddy.png",
                 "imageClass": "common_freddy_image"
             },
             {
                 "name": "Foxy",
-                "Exists": "~7,5M",
-                "ExistsGlitched": "~75,886",
+                "Exists": "~8M",
+                "ExistsGlitched": "~80,750",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_Foxy.png",
                 "imageClass": "uncommon_foxy_image"
             },
             {
                 "name": "Bonnie",
-                "Exists": "~7,5M",
-                "ExistsGlitched": "~75,740",
+                "Exists": "~8M",
+                "ExistsGlitched": "~80,620",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Uncommon_Bonnie.png",
                 "imageClass": "uncommon_bonnie_image"
@@ -1173,16 +1295,16 @@
             },
             {
                 "name": "Chica",
-                "Exists": "~15,4M",
-                "ExistsGlitched": "~156,650",
+                "Exists": "~16,2M",
+                "ExistsGlitched": "~164,725",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Common_Chica.png",
                 "imageClass": "common_chica_image"
             },
             {
                 "name": "Freddy",
-                "Exists": "~14.1M",
-                "ExistsGlitched": "~160,060",
+                "Exists": "~14.9M",
+                "ExistsGlitched": "~167,920",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Common_Freddy.png",
                 "imageClass": "common_freddy_image",
                 "abilityId": "Marked One"

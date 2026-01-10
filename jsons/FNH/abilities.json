@@ -192,6 +192,48 @@
             "color2": "#0c1d0a",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_FestiveDistraction_x1000.png",
             "lvl 50+": true
+        },
+        "Please Deposit 5 Coins": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_PleaseDeposit5Coins_x1000.png",
+            "lvl 50+": true
+        },
+        "Guitar Hunt": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_GuitarHunt_x1000.png",
+            "lvl 50+": true
+        },
+        "SQUAWK!": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SQUAWK_x1000.png",
+            "lvl 50+": true
+        },
+        "Rockstar's Dream": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RockstarsDream_x1000.png",
+            "lvl 50+": true
+        },
+        "Undying Will": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_UndyingWill_x1000.png",
+            "lvl 50+": true
+        },
+        "Downed Transmission": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DownedTransmission_x1000.png",
+            "lvl 50+": true
+        },
+        "Clawed Attack": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ClawedAttack_x1000.png",
+            "lvl 50+": true
         }
     }
 }

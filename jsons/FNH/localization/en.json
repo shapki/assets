@@ -9,149 +9,166 @@
   },
   "Survivor Skills": {
     "SkllsTitle": "SKILLS",
+    "NoDesc": "Description not available",
     "Guiding Light": {
       "I": "Guiding Light I",
-      "I DESK": "The final terminal will be highlighted with a glowing blue outline, leading you straight to your last objective.",
+      "I DESC": "The final terminal will be highlighted with a glowing blue outline, leading you straight to your last objective.",
       "II": "Guiding Light II",
-      "II DESK": "The final two terminal will be highlighted with a glowing blue outline, leading you straight to your last objective.",
+      "II DESC": "The final two terminal will be highlighted with a glowing blue outline, leading you straight to your last objective.",
       "III": "Guiding Light III",
-      "III DESK": "Each time a terminal is hacked, all other available terminals will be highlighted temporarily."
+      "III DESC": "Each time a terminal is hacked, all other available terminals will be highlighted temporarily."
     },
     "Adrenaline Boost": {
       "I": "Adrenaline Boost I",
-      "I DESK": "Saving a teammate ignites a surge of energy. Gain a 3 seconds speed boost after a successful rescue.",
+      "I DESC": "Saving a teammate ignites a surge of energy. Gain a 3 seconds speed boost after a successful rescue.",
       "II": "Adrenaline Boost II",
-      "II DESK": "Saving a teammate ignites a surge of energy. Gain a 5 seconds speed boost after a successful rescue.",
+      "II DESC": "Saving a teammate ignites a surge of energy. Gain a 5 seconds speed boost after a successful rescue.",
       "III": "Adrenaline Boost III",
-      "III DESK": "Saving a teammate ignites a surge of energy. Gain a 7 seconds speed boost after a successful rescue."
+      "III DESC": "Saving a teammate ignites a surge of energy. Gain a 7 seconds speed boost after a successful rescue."
     },
     "Lone Survivor": {
       "I": "Lone Survivor I",
-      "I DESK": "When the odds are against you, your determination heightens. Decoding speed increases by 20% with each eliminated survivor.",
+      "I DESC": "When the odds are against you, your determination heightens. Decoding speed increases by 20% with each eliminated survivor.",
       "II": "Lone Survivor II",
-      "II DESK": "When the odds are against you, your determination heightens. Decoding speed increases by 50% with each eliminated survivor.",
+      "II DESC": "When the odds are against you, your determination heightens. Decoding speed increases by 50% with each eliminated survivor.",
       "III": "Lone Survivor III",
-      "III DESK": "When the odds are against you, your determination heightens. Decoding speed increases by 80% with each eliminated survivor."
+      "III DESC": "When the odds are against you, your determination heightens. Decoding speed increases by 80% with each eliminated survivor."
     },
     "Healing Hands": {
       "I": "Healing Hands I",
-      "I DESK": "Your swift hands mend wounds faster, allowing you to heal temmates 10% quicker.",
+      "I DESC": "Your swift hands mend wounds faster, allowing you to heal temmates 10% quicker.",
       "II": "Healing Hands II",
-      "II DESK": "Your swift hands mend wounds faster, allowing you to heal temmates 25% quicker.",
+      "II DESC": "Your swift hands mend wounds faster, allowing you to heal temmates 25% quicker.",
       "III": "Healing Hands III",
-      "III DESK": "Your swift hands mend wounds faster, allowing you to heal temmates 40% quicker."
+      "III DESC": "Your swift hands mend wounds faster, allowing you to heal temmates 40% quicker."
     },
     "Locked Eyes": {
       "I": "Locked Eyes I",
-      "I DESK": "Temporarily highlights the locations of all other survivors for 6 seconds after completing a terminal.",
+      "I DESC": "Temporarily highlights the locations of all other survivors for 6 seconds after completing a terminal.",
       "II": "Locked Eyes II",
-      "II DESK": "Temporarily highlights the locations of all other survivors for 10 seconds after completing a terminal.",
+      "II DESC": "Temporarily highlights the locations of all other survivors for 10 seconds after completing a terminal.",
       "III": "Locked Eyes III",
-      "III DESK": "Temporarily highlights the locations of all other survivors for 14 seconds after completing a terminal."
+      "III DESC": "Temporarily highlights the locations of all other survivors for 14 seconds after completing a terminal."
     },
     "Pitfall": {
       "I": "Pitfall I",
-      "I DESK": "Allows you to sabotage a ball pit, making it inaccessible for 20 seconds.",
+      "I DESC": "Allows you to sabotage a ball pit, making it inaccessible for 20 seconds.",
       "II": "Pitfall II",
-      "II DESK": "Allows you to sabotage a ball pit, making it inaccessible for 40 seconds.",
+      "II DESC": "Allows you to sabotage a ball pit, making it inaccessible for 40 seconds.",
       "III": "Pitfall III",
-      "III DESK": "Allows you to sabotage a ball pit, making it inaccessible for 60 seconds."
+      "III DESC": "Allows you to sabotage a ball pit, making it inaccessible for 60 seconds."
     },
     "Clocking Out": {
       "I": "Clocking Out I",
-      "I DESK": "After completing a terminal, gain a speed boost for 5 seconds.",
+      "I DESC": "After completing a terminal, gain a speed boost for 5 seconds.",
       "II": "Clocking Out II",
-      "II DESK": "After completing a terminal, give yourself and any nearby survivors a speed boost for 3 seconds.",
+      "II DESC": "After completing a terminal, give yourself and any nearby survivors a speed boost for 3 seconds.",
       "III": "Clocking Out III",
-      "III DESK": "After hacking all terminals, give yourself a minor speed boost for the rest of the match. This effect works until any damage is taken."
+      "III DESC": "After hacking all terminals, give yourself a minor speed boost for the rest of the match. This effect works until any damage is taken."
     },
     "Dusting Off": {
       "I": "Dusting Off I",
-      "I DESK": "When completing a healing action on another survivor, reduce their capture progress by 5%.",
+      "I DESC": "When completing a healing action on another survivor, reduce their capture progress by 5%.",
       "II": "Dusting Off II",
-      "II DESK": "When completing a healing action on another survivor, reduce their capture progress by 10%, It'll also reduce your capture progress by 5%.",
+      "II DESC": "When completing a healing action on another survivor, reduce their capture progress by 10%, It'll also reduce your capture progress by 5%.",
       "III": "Dusting Off III",
-      "III DESK": "When completing a healing action on another survivor, reduce their capture progress by 15%, It'll also reduce your capture progress by 8%."
+      "III DESC": "When completing a healing action on another survivor, reduce their capture progress by 15%, It'll also reduce your capture progress by 8%."
     },
     "Hidden Charge": {
       "I": "Hidden Charge I",
-      "I DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (3 use)",
+      "I DESC": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (3 use)",
       "II": "Hidden Charge II",
-      "II DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (4 uses)",
+      "II DESC": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (4 uses)",
       "III": "Hidden Charge III",
-      "III DESK": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (5 uses)"
+      "III DESC": "Even in failure, you remain unnoticed. Failing to hack a terminal will not alert the animatronic. (5 uses)"
     },
     "Third Eye": {
       "I": "Third Eye I",
-      "I DESK": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for 5 seconds.",
+      "I DESC": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for 5 seconds.",
       "II": "Third Eye II",
-      "II DESK": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for 10 seconds.",
+      "II DESC": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for 10 seconds.",
       "III": "Third Eye III",
-      "III DESK": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for the rest of the match."
+      "III DESC": "After hacking all terminals, your instincts sharpen, revealing the animatronic's location for the rest of the match."
     },
     "Self Care": {
       "I": "Self Care I",
-      "I DESK": "Grants you an item that let you heal for 30 seconds with a 240 seconds cooldown.",
+      "I DESC": "Grants you an item that let you heal for 30 seconds with a 240 seconds cooldown.",
       "II": "Self Care II",
-      "II DESK": "Grants you an item that let you heal for 30 seconds with a 180 seconds cooldown.",
+      "II DESC": "Grants you an item that let you heal for 30 seconds with a 180 seconds cooldown.",
       "III": "Self Care III",
-      "III DESK": "Grants you an item that let you heal for 30 seconds with a 120 seconds cooldown."
+      "III DESC": "Grants you an item that let you heal for 30 seconds with a 120 seconds cooldown."
     },
     "Shielded Escape": {
       "I": "Shielded Escape I",
-      "I DESK": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 1 seconds.",
+      "I DESC": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 1 seconds.",
       "II": "Shielded Escape II",
-      "II DESK": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 1.5 seconds.",
+      "II DESC": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 1.5 seconds.",
       "III": "Shielded Escape III",
-      "III DESK": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 2 seconds."
+      "III DESC": "Rescuing a teammate from a ball pit grants you a temporary force field, protecting you and teammate from the next hit. Lasts 2 seconds."
     },
     "Tank Build": {
       "I": "Tank Build I",
-      "I DESK": "While hacking a terminal you only take 35 damage if attacked.",
+      "I DESC": "While hacking a terminal you only take 35 damage if attacked.",
       "II": "Tank Build II",
-      "II DESK": "35% chance to reduce damage taken when attacked to 35.",
+      "II DESC": "35% chance to reduce damage taken when attacked to 35.",
       "III": "Tank Build III",
-      "III DESK": "Increase max health by 50, but your walkspeed is reduced by 10%."
+      "III DESC": "Increase max health by 50, but your walkspeed is reduced by 10%."
     },
     "Trimmers": {
       "I": "Trimmers I",
-      "I DESK": "While nearby a survivor being carried, boost their escape progress by 10%. If they manage to escape you will be slowed down 20% for 3 seconds.",
+      "I DESC": "While nearby a survivor being carried, boost their escape progress by 10%. If they manage to escape you will be slowed down 20% for 3 seconds.",
       "II": "Trimmers II",
-      "II DESK": "While nearby a survivor being carried, boost their escape progress by 20%. If they manage to escape you will be slowed down 20% for 3 seconds.",
+      "II DESC": "While nearby a survivor being carried, boost their escape progress by 20%. If they manage to escape you will be slowed down 20% for 3 seconds.",
       "III": "Trimmers III",
-      "III DESK": "While nearby a survivor being carried, boost their escape progress by 30%. If they manage to escape you will be slowed down 20% for 3 seconds."
+      "III DESC": "While nearby a survivor being carried, boost their escape progress by 30%. If they manage to escape you will be slowed down 20% for 3 seconds."
     },
     "Sprint": {
       "I": "Sprint I",
-      "I DESK": "Gain a speed boost for 5 seconds with a 40 seconds cooldown.",
+      "I DESC": "Gain a speed boost for 5 seconds with a 40 seconds cooldown.",
       "II": "Sprint II",
-      "II DESK": "Gain a speed boost for 5 seconds with a 35 seconds cooldown.",
+      "II DESC": "Gain a speed boost for 5 seconds with a 35 seconds cooldown.",
       "III": "Sprint III",
-      "III DESK": "Gain a speed boost for 5 seconds with a 30 seconds cooldown."
+      "III DESC": "Gain a speed boost for 5 seconds with a 30 seconds cooldown."
     },
     "Rekindle": {
       "I": "Rekindle I",
-      "I DESK": "If you are the last survivor you gain a permanent 10% speed boost.",
+      "I DESC": "If you are the last survivor you gain a permanent 10% speed boost.",
       "II": "Rekindle II",
-      "II DESK": "If you are the last survivor you open doors 15% faster and hack terminals 5% faster.",
+      "II DESC": "If you are the last survivor you open doors 15% faster and hack terminals 5% faster.",
       "III": "Rekindle III",
-      "III DESK": "If you are the last survivor you gain a 10% speed boost, open doors 15% faster and hack terminals 5% faster."
+      "III DESC": "If you are the last survivor you gain a 10% speed boost, open doors 15% faster and hack terminals 5% faster."
     },
     "Guardian Angel": {
       "I": "Guardian Angel I",
-      "I DESK": "After you capture percentage reaches 95% you'll be rescued. 1 time use.",
+      "I DESC": "After you capture percentage reaches 95% you'll be rescued. 1 time use.",
       "II": "Guardian Angel II",
-      "II DESK": "After you capture percentage reaches 90% you'll be rescued. 1 time use.",
+      "II DESC": "After you capture percentage reaches 90% you'll be rescued. 1 time use.",
       "III": "Guardian Angel III",
-      "III DESK": "After you capture percentage reaches 85% you'll be rescued. 1 time use."
+      "III DESC": "After you capture percentage reaches 85% you'll be rescued. 1 time use."
     },
     "Resolve": {
       "I": "Resolve I",
-      "I DESK": "After being rescued, gain a 5% speed boost for 3 seconds.",
+      "I DESC": "After being rescued, gain a 5% speed boost for 3 seconds.",
       "II": "Resolve II",
-      "II DESK": "After being rescued, gain a 7% speed boost for 4 seconds.",
+      "II DESC": "After being rescued, gain a 7% speed boost for 4 seconds.",
       "III": "Resolve III",
-      "III DESK": "After being rescued, gain a 10% speed boost for 5 seconds."
+      "III DESC": "After being rescued, gain a 10% speed boost for 5 seconds."
+    },
+    "Almost There": {
+      "I": "Almost There I",
+      "I DESC": "Open Exits 10% faster.",
+      "II": "Almost There II",
+      "II DESC": "Open Exits 20% faster.",
+      "III": "Almost There III",
+      "III DESC": "Open Exits 30% faster."
+    },
+    "Saviors Grace": {
+      "I": "Savior's Grace I",
+      "I DESC": "Revive downed survivors 10% faster.",
+      "II": "Savior's Grace II",
+      "II DESC": "Revive downed survivors 20% faster.",
+      "III": "Savior's Grace III",
+      "III DESC": "Revive downed survivors 30% faster."
     }
   },
   "Animatronic Abilities": {
@@ -188,102 +205,126 @@
     "Marked One": {
       "name": "Marked One",
       "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration.",
-      "nightmare": "Increases the range detection."
+      "nightmare": "Increases the range detection.",
+      "lvl100": "Increase range by 20 studs."
     },
     "Sugar Crash": {
       "name": "Sugar Crash",
       "desk": "Can throw a cupcake at the nearby survivor to deal damage and weaken their escape.",
-      "nightmare": "Can take down survivors."
+      "nightmare": "Can take down survivors.",
+      "lvl100": "Cupcake goes 10% faster."
     },
     "Amplified Fear": {
       "name": "Amplified Fear",
       "desk": "Strums a chilling chord, sending shockwaves that slow down nearby survivors in the animatronic's presence.",
-      "nightmare": "Increases the slow down range."
+      "nightmare": "Increases the slow down range.",
+      "lvl100": "Additionally slows survivors by 5%."
     },
     "Circuit Breaker": {
       "name": "Circuit Breaker",
       "desk": "The hooked metal hand can temporarily sabotage terminals by striking them, stalling survivors and slowing their progress.",
-      "nightmare": "Effect lasts significantly longer."
+      "nightmare": "Effect lasts significantly longer.",
+      "lvl100": "5% faster around broke terminal."
     },
     "Springlocked": {
       "name": "Springlocked",
-      "desk": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds."
+      "desk": "Instantly knocks survivors with a powerful attack. Passive cooldown 45 seconds.",
+      "lvl100": "Able to do 150 Damage (50%)."
     },
     "Mangled": {
       "name": "Mangled",
-      "desk": "Can grab the nearest survivor within 60 studs (Dodgeable). 30 seconds cooldown."
+      "desk": "Can grab the nearest survivor within 60 studs (Dodgeable). 30 seconds cooldown.",
+      "lvl100": "Grabbing Survivor Does 33 Damage."
     },
     "Silent Steps": {
       "name": "Silent Steps",
-      "desk": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown."
+      "desk": "Silences footsteps and camera shake influence for 5/9/13 seconds, making attacks more surprising. 30 seconds cooldown.",
+      "lvl100": "Lasts longer (15 seconds)."
     },
     "Short Circuit": {
       "name": "Short Circuit",
-      "desk": "Resets the progress of the nearest terminal. 90 seconds cooldown."
+      "desk": "Resets the progress of the nearest terminal. 90 seconds cooldown.",
+      "lvl100": "Shorten cooldown by 5 seconds."
     },
     "Vengeance": {
       "name": "Vengeance",
-      "desk": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage."
+      "desk": "When a survivor is downed, anyone within 35 studs of the downed survivor is instantly struck with residual damage.",
+      "lvl100": "5% slowdown to survivors hit"
     },
     "Scorchpath": {
       "name": "Scorchpath",
-      "desk": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it."
+      "desk": "Can create a blazing wall of fire anywhere, forming a temporary barrier of heat that punishes anyone who dares to cross it.",
+      "lvl100": "Slightly wider blazing wall of fire (10%)."
     },
     "Companion Bear": {
       "name": "Companion Bear",
-      "desk": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie."
+      "desk": "A little companion plushie that can be placed anywhere, once placed, it grants the ability to teleport back to the plushie.",
+      "lvl100": "5% lower cooldown."
     },
     "Ice Cream Lure": {
       "name": "Ice Cream Lure",
-      "desk": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors."
+      "desk": "Drops an ice cream cone that detects nearby survivors. Can be removed by survivors.",
+      "lvl100": "Increase range by 5 studs."
     },
     "Deadly Grace": {
       "name": "Deadly Grace",
-      "desk": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown."
+      "desk": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown.",
+      "lvl100": "Cooldown is reduced to 250%."
     },
     "Limb Reaper": {
       "name": "Limb Reaper",
-      "desk": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs."
+      "desk": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
+      "lvl100": "25% chance to get other limb."
     },
     "Bon Bon Bite": {
       "name": "Bon Bon Bite",
-      "desk": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown."
+      "desk": "Attacking a survivor will poison every nearby survivors for 10 damage every seconds for 5 seconds. 30 seconds cooldown.",
+      "lvl100": "Increase range by 5 studs."
     },
     "Remote Anchor": {
       "name": "Remote Anchor",
-      "desk": "Animatronic can drop a trap that trips survivors."
+      "desk": "Animatronic can drop a trap that trips survivors.",
+      "lvl100": "Start off with 3 traps."
     },
     "Please Stand By": {
       "name": "Please Stand By",
-      "desk": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction."
+      "desk": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction.",
+      "lvl100": "Extra terminal (Half % given)."
     },
     "Digital Reality": {
       "name": "Digital Reality",
-      "desk": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown."
+      "desk": "Transfers into the digital reality by becoming invisible for a while. When turning visible, cannot move and attack for a split second. 35 seconds cooldown.",
+      "lvl100": "Shorten cooldown by 5 seconds."
     },
     "Silent Angel": {
       "name": "Silent Angel",
-      "desk": "The angels burn animatronic's eyes, it can't look at them for long... But they can't move while it does. The animatronic can teleport to any angel."
+      "desk": "The angels burn animatronic's eyes, it can't look at them for long... But they can't move while it does. The animatronic can teleport to any angel.",
+      "lvl100": "1 more endo spawns"
     },
     "Ignited One": {
       "name": "Ignited One",
-      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration."
+      "desk": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration. Anyone in the ability's range will temporarily lose the ability to crawl.",
+      "lvl100": "3 seconds longer highlight."
     },
     "Toxic Crash": {
       "name": "Toxic Crash",
-      "desk": "Can throw a cupcake a toxic cupcake that creates a toxic cloud."
+      "desk": "Can throw a cupcake a toxic cupcake that creates a toxic cloud.",
+      "lvl100": "Expands 10% faster."
     },
     "Amplified Terror": {
       "name": "Amplified Terror",
-      "desk": "Strums a chilling chord, blinding and slowing nearby survivors."
+      "desk": "Strums a chilling chord, blinding and slowing nearby survivors.",
+      "lvl100": "Deafens survivors for 3 seconds."
     },
     "Blackout Breaker": {
       "name": "Blackout Breaker",
-      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them and regresses progress by 15%. Can only be used 2 times on the same terminal."
+      "desk": "The hooked metal hand can temporarily sabotage terminals by striking them and regresses progress by 15%. Can only be used 2 times on the same terminal.",
+      "lvl100": "Regresses progress by 17%."
     },
     "The Joy Of Creation": {
       "name": "The Joy Of Creation",
-      "desk": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks."
+      "desk": "Animatronic emits a searing pulse, scorching survivors. If they are caught in the pulse, they leave burning marks.",
+      "lvl100": "Deals burning tick damage (33)."
     },
     "Snowfall": {
       "name": "Snowfall",
@@ -292,6 +333,34 @@
     "Festive Distraction": {
       "name": "Festive Distraction",
       "desk": "Animatronic drops three brightly wrapped gift boxes in a cluster. Anyone caught in the radius will be disoriented. For every caught survivor Animatronic receives a temporary small burst of speed."
+    },
+    "Please Deposit 5 Coins": {
+      "name": "Please Deposit 5 Coins",
+      "desk": "Survivors must collect coins around the map. Every 2 minutes Animatronic will ask for 5 coins. If any survivors don't have that many, they will marked until they collect enough."
+    },
+    "Guitar Hunt": {
+      "name": "Guitar Hunt",
+      "desk": "The animatronic's guitar will spawn somewhere on the map. If found by survivors, it won't be able to use abilities. If it isn't found, survivors will be slowed until it's found."
+    },
+    "SQUAWK!": {
+      "name": "SQUAWK!",
+      "desk": "The Animatronic spawns with a parrot that perches on a random terminal in the map. When that terminal is hacked, the parrot will warn it."
+    },
+    "Rockstar's Dream": {
+      "name": "Rockstar's Dream",
+      "desk": "The Rockstars yearn to show their musical talents to others. If they haven't hit anyone in 20 seconds, they get a speed boost until they hit someone."
+    },
+    "Undying Will": {
+      "name": "Undying Will",
+      "desk": "For every capture Animatronic gets, it will get a small buff to his stats."
+    },
+    "Downed Transmission": {
+      "name": "Downed Transmission",
+      "desk": "The Animatronic has the ability to knock a survivor and put them into a random ballpit instantly if a box isn't winded, but it's speed will weaken temporarily."
+    },
+    "Clawed Attack": {
+      "name": "Clawed Attack",
+      "desk": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked."
     }
   },
   "Quests": {
@@ -372,6 +441,7 @@
       "only_from_case": "Could only be obtained from the event case."
     },
     "events_rarities": {
+      "FNAF 6": "FNAF 6",
       "New Year 2026": "New Year 2026",
       "Christmas 2025": "Christmas 2025",
       "The Joy Of Creation": "The Joy Of Creation",
@@ -388,6 +458,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Lava Marionette": "Lava Marionette",
       "Glam Chica": "Glam Chica",
       "Krampus Burntrap": "Krampus Burntrap",
       "Krampus Burntrap COMMENT": "Suggested via suggestions (author) @itsthedangerranger.\n\nThe standard version came with the purchase.\n[GLITCHED] version was received by the winners of the giveaway on Discord.",
@@ -406,6 +477,10 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Lava Ennard": "Lava Ennard",
+      "Lava Ennard COMMENT": "It could be obtained for 250 captured survivors in the \"Ventilation Problems\" mode.",
+      "Scrapbaby": "Scrapbaby",
+      "Lefty": "Lefty",
       "Springtrap 2026": "Springtrap 2026",
       "Springtrap 2026 COMMENT": "Within 24 hours, there was a 0.1% chance every hour that this skin would drop\n(and a small chance for the [GLITCHED] version).\nLuck Cupcakes were apply, and the skin itself could be obtained even during a match.",
       "Golden Elf Bonnie": "Golden Elf Bonnie",
@@ -426,6 +501,9 @@
       "Purple Guy": "Purple Guy"
     },
     "legendary": {
+      "Mr Hippo": "Mr Hippo",
+      "Molten Freddy": "Molten Freddy",
+      "Scraptrap": "Scraptrap",
       "Golden Evil Elf Bonnie": "Golden Evil Elf Bonnie",
       "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThe skin for the other team wasn't distributed.",
       "Ignited Foxy": "Ignited Foxy",
@@ -463,6 +541,10 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Rockstar Foxy": "Rockstar Foxy",
+      "Rockstar Bonnie": "Rockstar Bonnie",
+      "Rockstar Chica": "Rockstar Chica",
+      "Rockstar Freddy": "Rockstar Freddy",
       "Nutcracker Foxy": "Nutcracker Foxy",
       "Endo R Blue": "Endo R Blue",
       "Endo F Red": "Endo F Red",
@@ -552,6 +634,36 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "09/01/2026 06:15": {
+      "title": "\"09/01\" FNAF 6 Update",
+      "desc": "New skins, minor changes to abilities, new abilities, skills, and a new map, and a minor wiki update.",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nLava Marionette\n\n- SACRED:\nLava Ennard\nScrapbaby\nLefty\n\n- LEGENDARY:\nMr Hippo\nMolten Freddy\nScraptrap\n\n- EPIC:\nRockstar Freddy\nRockstar Chica\nRockstar Bonnie\nRockstar Foxy"
+        },
+        "abilities-changes": {
+          "name": "CHANGES TO ABILITIES",
+          "desc": "- Ignited doesn't allow survivors within the radius crawl\n\n- Ability upgrades have been added at animatronic level 100:\nSpringlocked\nCompanion Bear\nPlease Stand By\nDigital Reality\nSilent Steps\nIce Cream Lure\nBon Bon Bite\nMangled\nShort Circuit\nScorchpath\nRemote Anchor\nVengeance\nSilent Angel\nMarked One\nSugar Crash\nLimb Reaper\nAmplified Fear\nCircuit Breaker\nDeadly Grace\nBlackout Breaker\nAmplified Terror\nToxic Crash\nThe Joy Of Creation\nIgnited One"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Rockstar's Dream\nRockstar Freddy\nRockstar Chica\nRockstar Bonnie\nRockstar Foxy\n\n- Please Deposit 5 Coins\nRockstar Freddy\n\n- Guitar Hunt\nRockstar Bonnie\n\n- SQUAWK!\nRockstar Foxy\n\n- Undying Will\nScraptrap\n\n- Downed Transmission\nLefty\n\n- Clawed Attack\nScrapbaby"
+        },
+        "new-skills": {
+          "name": "NEW SKILLS",
+          "desc": "- Almost There\nI - Open Exits 10% faster.\nII - Open Exits 20% faster.\nIII - Open Exits 30% faster.\n\n- Savior's Grace\nI - Revive downed survivors 10% faster.\nII - Revive downed survivors 20% faster.\nIII - Revive downed survivors 30% faster."
+        },
+        "new-map": {
+          "name": "NEW MAP",
+          "desc": "- Pizzeria Ventilation\n[Available only in \"Ventilation Problems\" mode]"
+        },
+        "wiki-update": {
+          "name": "WIKI UPDATE",
+          "desc": "- Skins and Skills are now on separate HTML pages\n- Skills now work better on mobile\n- The Wiki update list now has colored text\n\n- Also updated \"Exists\" for most skins"
+        }
+      }
     },
     "01/01/2026 05:15": {
       "title": "\"01/01\" New Year's Update",
