@@ -360,7 +360,7 @@
     },
     "Downed Transmission": {
       "name": "Downed Transmission",
-      "desc": "The Animatronic has the ability to knock a survivor and put them into a random ballpit instantly if a box isn't winded, but it's speed will weaken temporarily."
+      "desc": "The Animatronic has the ability to put knocked survivor into a random ballpit instantly if a box isn't winded, but it's speed will weaken temporarily."
     },
     "Clawed Attack": {
       "name": "Clawed Attack",
@@ -510,7 +510,7 @@
       "Molten Freddy": "Molten Freddy",
       "Scraptrap": "Scraptrap",
       "Golden Evil Elf Bonnie": "Golden Evil Elf Bonnie",
-      "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThe skin for the other team wasn't distributed.",
+      "Golden Evil Elf Bonnie COMMENT": "Contest \"Naughty or Nice\"\nNaughty\nFor winners\n\n25/12/2025: The \"Naughty\" team won.\nThe skin for the other team wasn't distributed.\n\nThey were giving out SACRED, but after 01/01/2026 it became LEGENDARY.\nThose who were given it while it was still SACRED kept the series.",
       "Ignited Foxy": "Ignited Foxy",
       "Ignited Bonnie": "Ignited Bonnie",
       "Ignited Chica": "Ignited Chica",
