@@ -463,9 +463,10 @@
     },
     "exclusive": {
       "Lava Marionette": "Лавовая Марионетка",
+      "Lava Marionette COMMENT": "Предложил через предложку (автор) @panzerkampfwagon.\n\n[ГЛИТЧ] версию получил только автор.",
       "Glam Chica": "Глэм Чика",
       "Krampus Burntrap": "Крампус Бёрнтрап",
-      "Krampus Burntrap COMMENT": "Предложил через предложку (автор) @itsthedangerranger.\n\nПри покупке была обычная версия.\n[ГЛИТЧ] версию получили победители в раздаче в Discord.",
+      "Krampus Burntrap COMMENT": "Предложил через предложку (автор) @itsthedangerranger.\n\nПри покупке была обычная версия.\n[ГЛИТЧ] версию получил автор и победители в раздаче в Discord.",
       "Baker Freddy": "Пекарь Фредди",
       "Catrina Chica": "Катрина Чика",
       "Ringmaster Foxy": "Циркач Фокси",
@@ -482,7 +483,7 @@
     },
     "sacred": {
       "Lava Ennard": "Лава Эннард",
-      "Lava Ennard COMMENT": "Можно было получить за 250 пойманных выживших в режиме \"Проблемы с вентиляцией\".",
+      "Lava Ennard COMMENT": "Предложил через предложку (автор) @panzerkampfwagon.\n\nМожно было получить за 250 пойманных выживших в режиме \"Проблемы с вентиляцией\".",
       "Scrapbaby": "Разрушенная Бейби",
       "Lefty": "Лефти",
       "Springtrap 2026": "Спрингтрап 2026",

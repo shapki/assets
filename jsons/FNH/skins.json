@@ -31,8 +31,9 @@
                 "name": "Lava Marionette",
                 "addDate": "09/01/2026",
                 "Exists": "~500",
+                "ExistsGlitched": "1",
+                "comment": "Lava Marionette COMMENT",
                 "abilityId": "Silent Steps",
-                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LavaMarionette.png",
                 "imageClass": "idk_temp_image"
             },
