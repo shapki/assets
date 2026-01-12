@@ -807,5 +807,9 @@
       "title": "The Update Log has been added!",
       "desc": "📝Now almost any wiki update will be recorded here!\n💡It'll be interesting..."
     }
+  },
+  "Localizations": {
+    "ru": "Russian (Русский)",
+    "en": "English"
   }
 }
