@@ -274,7 +274,7 @@
     "Limb Reaper": {
       "name": "Limb Reaper",
       "desc": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
-      "lvl100": "25% chance to get other limb."
+      "lvl100": "25% chance to get two limbs at once."
     },
     "Bon Bon Bite": {
       "name": "Bon Bon Bite",
