@@ -274,7 +274,7 @@
     "Limb Reaper": {
       "name": "Limb Reaper",
       "desc": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
-      "lvl100": "25% chance to get two limbs at once."
+      "lvl100": "25% chance to get two limbs at once.\nAlso a chance to get a second limb appears."
     },
     "Bon Bon Bite": {
       "name": "Bon Bon Bite",
@@ -289,7 +289,7 @@
     "Please Stand By": {
       "name": "Please Stand By",
       "desc": "Some terminals are trapped. Hacking a trapped terminal grants the animatronic a speed boost and cooldown reduction.",
-      "lvl100": "Extra terminal (Half % given)."
+      "lvl100": "Extra terminal (Half the % from the speed boost)."
     },
     "Digital Reality": {
       "name": "Digital Reality",
@@ -304,7 +304,7 @@
     "Ignited One": {
       "name": "Ignited One",
       "desc": "Strikes leave a lasting mark. When a survivor is hit, nearby teammates will be revealed with a red outline for a short duration. Anyone in the ability's range will temporarily lose the ability to crawl.",
-      "lvl100": "3 seconds longer highlight."
+      "lvl100": "4 seconds longer highlight."
     },
     "Toxic Crash": {
       "name": "Toxic Crash",
