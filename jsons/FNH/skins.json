@@ -193,6 +193,7 @@
             {
                 "name": "Lava Ennard",
                 "addDate": "09/01/2026",
+                "ExistsGlitched": "1",
                 "limited": "fnaf6",
                 "comment": "Lava Ennard COMMENT",
                 "abilityId": "Limb Reaper",
