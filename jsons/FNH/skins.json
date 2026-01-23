@@ -309,6 +309,7 @@
                 "name": "Ennard",
                 "addDate": "19/07/2025",
                 "Exists": "~4,755",
+                "ExistsGlitched": "~45",
                 "abilityId": "Limb Reaper",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Ennard.png",
                 "imageClass": "idk_temp_image"
