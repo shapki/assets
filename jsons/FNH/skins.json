@@ -24,12 +24,27 @@
             ],
             "fnaf6": [
                 "FNAF 6"
+            ],
+            "fnafSB": [
+                "FNAF SB"
+            ],
+            "companions": [
+                "Companions"
             ]
         },
         "exclusive": [
             {
+                "name": "Glamrock Foxy",
+                "addDate": "24/01/2026",
+                "abilityId": "Circuit Breaker",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_GlamrockFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Lava Marionette",
                 "addDate": "09/01/2026",
+                "lockDate": "24/01/2026",
                 "Exists": "~500",
                 "ExistsGlitched": "1",
                 "comment": "Lava Marionette COMMENT",
@@ -190,6 +205,21 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "Helpy",
+                "addDate": "24/01/2026",
+                "limited": "companions",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Sacred_Helpy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Vanny",
+                "addDate": "24/01/2026",
+                "limited": "fnafSB",
+                "abilityId": "Rabbit's Calling",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Sacred_Vanny.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Lava Ennard",
                 "addDate": "09/01/2026",
@@ -363,6 +393,44 @@
             }
         ],
         "Legendary": [
+            {
+                "name": "Adventure Cupcake",
+                "addDate": "24/01/2026",
+                "limited": "companions",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Legendary_AdventureCupcake.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Balloon Boy",
+                "addDate": "24/01/2026",
+                "limited": "companions",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Legendary_BalloonBoy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Roxanne Wolf",
+                "addDate": "24/01/2026",
+                "limited": "fnafSB",
+                "abilityId": "Shooting Star",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Legendary_RoxanneWolf.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Montgomery Gator",
+                "addDate": "24/01/2026",
+                "limited": "fnafSB",
+                "abilityId": "Bayou Breach",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Legendary_MontgomeryGator.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Glamrock Chica",
+                "addDate": "24/01/2026",
+                "limited": "fnafSB",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Legendary_GlamrockChica.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Mr Hippo",
                 "addDate": "09/01/2026",

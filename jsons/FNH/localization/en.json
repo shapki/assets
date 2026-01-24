@@ -365,6 +365,18 @@
     "Clawed Attack": {
       "name": "Clawed Attack",
       "desc": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked."
+    },
+    "Bayou Breach": {
+      "name": "Bayou Breach",
+      "desc": "The animatronic can burst through doors, leaving them permanently broken."
+    },
+    "Shooting Star": {
+      "name": "Shooting Star",
+      "desc": "The animatronic is able to dash forward 3 times."
+    },
+    "Rabbit's Calling": {
+      "name": "Rabbit's Calling",
+      "desc": "The animatronic passively disorients survivors around them."
     }
   },
   "Quests": {
@@ -445,6 +457,8 @@
       "only_from_case": "Could only be obtained from the event case."
     },
     "events_rarities": {
+      "Companions": "Companions",
+      "FNAF SB": "FNAF SB",
       "FNAF 6": "FNAF 6",
       "New Year 2026": "New Year 2026",
       "Christmas 2025": "Christmas 2025",
@@ -462,6 +476,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Glamrock Foxy": "Glamrock Foxy",
       "Lava Marionette": "Lava Marionette",
       "Lava Marionette COMMENT": "Suggested via suggestions (author) @panzerkampfwagon.\n\n[GLITCHED] version only the author received.",
       "Glam Chica": "Glam Chica",
@@ -482,6 +497,8 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Helpy COMPANION": "Helpy",
+      "Vanny": "Vanny",
       "Lava Ennard": "Lava Ennard",
       "Lava Ennard COMMENT": "Suggested via suggestions (author) @panzerkampfwagon.\n\nIt could be obtained for 250 captured survivors in the \"Ventilation Problems\" mode (escapes counted too).\n\n[GLITCHED] version was received by the author and winners of the giveaway on Discord.\n\n[GLITCHED] version was received by the author and winners of the giveaway on Discord.",
       "Scrapbaby": "Scrapbaby",
@@ -506,6 +523,11 @@
       "Purple Guy": "Purple Guy"
     },
     "legendary": {
+      "Adventure Cupcake COMPANION": "Adventure Cupcake",
+      "Balloon Boy COMPANION": "Balloon Boy",
+      "Roxanne Wolf": "Roxanne Wolf",
+      "Montgomery Gator": "Montgomery Gator",
+      "Glamrock Chica": "Glamrock Chica",
       "Mr Hippo": "Mr Hippo",
       "Molten Freddy": "Molten Freddy",
       "Scraptrap": "Scraptrap",
@@ -639,6 +661,28 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "25/01/2026 01:30": {
+      "title": "\"24/01\" FNAF SB Update",
+      "desc": "New map, new skins, new abilities and companions!",
+      "sections": {
+        "new-map": {
+          "name": "NEW MAP",
+          "desc": "Gator Golf"
+        },
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nGlamrock Foxy\n\n- SACRED:\nVanny\n\n- LEGENDARY:\nRoxanne Wolf\nMontgomery Gator\nGlamrock Chica"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Rabbit's Calling:\nVanny\n\n- Bayou Breach:\nMonty\n\n- Shooting Star:\nRoxanne"
+        },
+        "companions": {
+          "name": "COMPANIONS",
+          "desc": "Added companions:\n- SACRED:\nHelpi\n\n- LEGENDARY:\nAdventure Cupcake\nBalloon Boy\n\nTHEY'LL TEMPORARILY BE IN \"SKINS\" (until it's clear if they need a separate section)."
+        }
+      }
     },
     "09/01/2026 06:15": {
       "title": "\"09/01\" FNAF 6 Update",

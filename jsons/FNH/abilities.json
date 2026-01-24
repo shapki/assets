@@ -240,6 +240,24 @@
             "color2": "#20489c",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ClawedAttack_x1000.png",
             "lvl 50+": true
+        },
+        "Bayou Breach": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_BayouBreach_x1000.png",
+            "lvl 50+": true
+        },
+        "Shooting Star": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ShootingStar_x1000.png",
+            "lvl 50+": true
+        },
+        "Rabbit's Calling": {
+            "color1": "#3370f8",
+            "color2": "#20489c",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RabbitsCalling_x1000.png",
+            "lvl 50+": true
         }
     }
 }
