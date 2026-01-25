@@ -466,6 +466,7 @@
       "Halloween 2025": "Halloween 2025",
       "Community Contest #1": "Community Contest #1",
       "Arcade Frenzy": "Arcade Frenzy",
+      "FNAF SL": "FNAF SL",
       "Summer 2025": "Summer 2025",
       "Exclusive": "Exclusive",
       "Sacred": "Sacred",
@@ -661,6 +662,10 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "25/01/2026 17:40": {
+      "title": "Small wiki update",
+      "desc": "Changes in skins:\n- Updated \"Exists\"\n- Added \"FNAF SL\" category\n- Burntrap and MXES are now in the \"FNAF SB\" category"
     },
     "25/01/2026 01:30": {
       "title": "\"24/01\" FNAF SB Update",
