@@ -340,7 +340,7 @@
     },
     "Guitar Hunt": {
       "name": "Guitar Hunt",
-      "desc": "The animatronic's guitar will spawn somewhere on the map. If found by survivors, it won't be able to use abilities. If it isn't found, survivors will be slowed until it's found."
+      "desc": "The animatronic's guitar will spawn somewhere on the map. If found by survivors, it won't be able to use abilities. If it isn't found, survivors will be slowed until it's found. If the animatronic finds their guitar, they'll be able to use it to slow down survivors, but after a while it'll disappear and they'll have to look for it again."
     },
     "SQUAWK!": {
       "name": "SQUAWK!",
