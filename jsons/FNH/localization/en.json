@@ -498,6 +498,7 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "8-Bit SpringTrap": "8-Bit SpringTrap",
       "Helpy COMPANION": "Helpy",
       "Vanny": "Vanny",
       "Lava Ennard": "Lava Ennard",
@@ -662,6 +663,16 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "01/02/2026 00:15": {
+      "title": "\"24/01\" FNAF SB Update Part 2",
+      "desc": "New skin",
+      "sections": {
+        "new-skin": {
+          "name": "NEW SKIN",
+          "desc": "8-Bit SpringTrap"
+        }
+      }
     },
     "25/01/2026 17:40": {
       "title": "Small wiki update",

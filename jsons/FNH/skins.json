@@ -209,6 +209,12 @@
         ],
         "Sacred": [
             {
+                "name": "8-Bit SpringTrap",
+                "addDate": "31/01/2026",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_8bitSpringTrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Helpy",
                 "addDate": "24/01/2026",
                 "limited": "companions",
