@@ -212,12 +212,12 @@
         ],
         "Sacred": [
             {
-                "name": "8-Bit SpringTrap",
+                "name": "8-Bit Spring Bonnie",
                 "addDate": "31/01/2026",
                 "limited": "salvage",
-                "comment": "8-Bit SpringTrap COMMENT",
+                "comment": "8-Bit Spring Bonnie COMMENT",
                 "abilityId": "Amplified Fear",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Salvage_Sacred_8bitSpringTrap.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Salvage_Sacred_8bitSpringBonnie.png",
                 "imageClass": "idk_temp_image"
             },
             {
