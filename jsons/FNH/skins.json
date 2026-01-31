@@ -33,6 +33,9 @@
             ],
             "companions": [
                 "Companions"
+            ],
+            "salvage": [
+                "Salvage"
             ]
         },
         "exclusive": [
@@ -211,7 +214,10 @@
             {
                 "name": "8-Bit SpringTrap",
                 "addDate": "31/01/2026",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_8bitSpringTrap.png",
+                "limited": "salvage",
+                "comment": "8-Bit SpringTrap COMMENT",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Salvage_Sacred_8bitSpringTrap.png",
                 "imageClass": "idk_temp_image"
             },
             {

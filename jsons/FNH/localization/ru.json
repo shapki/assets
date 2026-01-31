@@ -457,6 +457,7 @@
       "only_from_case": "Можно было получить только из кейса события."
     },
     "events_rarities": {
+      "Salvage": "Salvage",
       "Companions": "Компаньоны",
       "FNAF SB": "FNAF SB",
       "FNAF 6": "FNAF 6",
@@ -498,7 +499,8 @@
       "Bling Freddy": "Блекс Фредди"
     },
     "sacred": {
-      "8-Bit SpringTrap": "8-Бит Спрингтрап",
+      "8-Bit Spring Bonnie": "8-Бит Спрингтрап",
+      "8-Bit Spring Bonnie COMMENT": "Мог быть получен в \"Утиль-Машине\" за 3 Фиолетовых Парня.",
       "Helpy COMPANION": "Хэлпи",
       "Vanny": "Вэнни",
       "Lava Ennard": "Лава Эннард",
@@ -670,7 +672,7 @@
       "sections": {
         "new-skin": {
           "name": "НОВЫЙ СКИН",
-          "desc": "8-Бит Спрингтрап"
+          "desc": "- МИФИЧЕСКИЙ:\n8-Бит Спринг Бонни"
         }
       }
     },
