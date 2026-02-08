@@ -377,6 +377,14 @@
     "Rabbit's Calling": {
       "name": "Rabbit's Calling",
       "desc": "The animatronic passively disorients survivors around them."
+    },
+    "Moonlight": {
+      "name": "Moonlight",
+      "desc": "You can't outrun it... The Animatronic places its hat down, slowing survivors nearby."
+    },
+    "Cleanup Time": {
+      "name": "Cleanup Time",
+      "desc": "Have to be quick to keep tidy! The Animatronic drops a barrel that'll speed its up when it's nearby."
     }
   },
   "Quests": {
@@ -454,9 +462,12 @@
       "Rarity": "Rarity",
       "[GLITCHED]": "[GLITCHED]",
       "[GLITCHED] Toggle": "[GLITCHED] Toggle",
-      "only_from_case": "Could only be obtained from the event case."
+      "only_from_case": "Could only be obtained from the event case.",
+      "valentines2025_valentine": "Could only be obtained from the event case, from \"Valentine Letter\".",
+      "valentines2025_farewell": "Could only be obtained from the event case, from \"Farewell Letter\"."
     },
     "events_rarities": {
+      "Valentine's Day 2025": "Valentine's Day 2025",
       "Salvage": "Salvage",
       "Companions": "Companions",
       "FNAF SB": "FNAF SB",
@@ -471,6 +482,7 @@
       "Summer 2025": "Summer 2025",
       "Exclusive": "Exclusive",
       "Sacred": "Sacred",
+      "Mythic": "Mythic",
       "Legendary": "Legendary",
       "Epic": "Epic",
       "Rare": "Rare",
@@ -478,6 +490,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Loveshot Mangle": "Loveshot Mangle",
       "Glamrock Foxy": "Glamrock Foxy",
       "Lava Marionette": "Lava Marionette",
       "Lava Marionette COMMENT": "Suggested via suggestions (author) @panzerkampfwagon.\n\n[GLITCHED] version only the author received.",
@@ -499,6 +512,8 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Withered Moon-Rose": "Withered Moon-Rose",
+      "Sun-Kissed-Drop": "Sun-Kissed-Drop",
       "8-Bit Spring Bonnie": "8-Bit Spring Bonnie",
       "8-Bit Spring Bonnie COMMENT": "Could've been obtained in the \"Salvage Machine\" for 3 Purple Guys.",
       "Helpy COMPANION": "Helpy",
@@ -526,7 +541,17 @@
       "Burntrap": "Burntrap",
       "Purple Guy": "Purple Guy"
     },
+    "mythic": {
+      "Blackheart Bonnie": "Blackheart Bonnie",
+      "Shortcake Foxy": "Shortcake Foxy"
+    },
     "legendary": {
+      "Blackheart Bonnie": "Blackheart Bonnie",
+      "Forgotten Cupcake": "Forgotten Cupcake",
+      "Lovesick Baby": "Lovesick Baby",
+      "Shortcake Foxy": "Shortcake Foxy",
+      "Love Letter Balloon Boy": "Love Letter Balloon Boy",
+      "Teddy Fazbear": "Teddy Fazbear",
       "Adventure Cupcake COMPANION": "Adventure Cupcake",
       "Balloon Boy COMPANION": "Balloon Boy",
       "Roxanne Wolf": "Roxanne Wolf",
@@ -665,6 +690,28 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "08/02/2026 23:10": {
+      "title": "\"08/02\" Valentine's Day Update",
+      "desc": "New map, gamemode, new skins, abilities, rarity and new companions",
+      "sections": {
+        "new-skin": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nLoveshot Mangle\n\n- SACRED:\n[Farewell Letter] Withered Moon-Rose\n[Valentine Letter] Sun Kissed-Drop\n\n- MYTHIC:\n[Farewell Letter] Blackheart Bonnie\n[Valentine Letter] Shortcake Foxy\n\n- LEGENDARY:\n[Farewell Letter] Lovesick Baby\n[Valentine Letter] Teddy Fazbear"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Moonlight:\nMoon\n\n- Cleanup Time:\nSun"
+        },
+        "new-companions": {
+          "name": "NEW COMPANIONS",
+          "desc": "- [Farewell Letter] Forgotten Cupcake\n- [Valentine Letter] Love Letter Balloon Boy"
+        },
+        "new-map": {
+          "name": "OTHER",
+          "desc": "- NEW MAP:\nFazbear's Fright\n\n- NEW GAMEMODE:\nDeadlock\n\n- NEW RARITY:\nMYTHIC"
+        }
+      }
     },
     "01/02/2026 00:15": {
       "title": "\"24/01\" FNAF SB Update Part 2",

@@ -258,6 +258,18 @@
             "color2": "#20489c",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RabbitsCalling_x1000.png",
             "lvl 50+": true
+        },
+        "Moonlight": {
+            "color1": "#b633f8",
+            "color2": "#6f1f97",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Moonlight_x1000.png",
+            "lvl 50+": true
+        },
+        "Cleanup Time": {
+            "color1": "#b633f8",
+            "color2": "#6f1f97",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_CleanupTime_x1000.png",
+            "lvl 50+": true
         }
     }
 }
