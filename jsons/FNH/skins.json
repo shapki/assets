@@ -328,7 +328,7 @@
                 "Exists": "4,216",
                 "limited": "christmas2025",
                 "comment": "only_from_case",
-                "abilityId": "Snowfall",
+                "abilityId": ["Snowfall", "Moonlight"],
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Christmas2025_Sacred_SnowfallMoon.png",
                 "imageClass": "idk_temp_image"
