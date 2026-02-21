@@ -364,7 +364,8 @@
     },
     "Clawed Attack": {
       "name": "Clawed Attack",
-      "desc": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked."
+      "desc": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked.",
+      "lvl100": "Attacked survivor will be knocked in 8 seconds."
     },
     "Bayou Breach": {
       "name": "Bayou Breach",
@@ -385,6 +386,14 @@
     "Cleanup Time": {
       "name": "Cleanup Time",
       "desc": "Have to be quick to keep tidy! The Animatronic drops a barrel that'll speed its up when it's nearby."
+    },
+    "Fan of Ruin": {
+      "name": "Fan of Ruin",
+      "desc": "Animatronic throws their fan at the nearest survivor, dealing damage and reducing their HP. A successful hit temporarily boosts their fanning speed, which increases their movement speed."
+    },
+    "Dragons Wrath": {
+      "name": "Dragons Wrath",
+      "desc": "Hitting survivors fuels the Animatronic's fury, allowing them to eventually unleash their wrath. Once charged, animatronic rains down fireballs on key locations like terminals and ballpits."
     }
   },
   "Quests": {
@@ -467,7 +476,7 @@
       "valentines2025_farewell": "Could only be obtained from the event case, from \"Farewell Letter\"."
     },
     "events_rarities": {
-      "Valentine's Day 2025": "Valentine's Day 2025",
+      "Valentine's Day 2026": "Valentine's Day 2026",
       "Salvage": "Salvage",
       "Companions": "Companions",
       "FNAF SB": "FNAF SB",
@@ -490,6 +499,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Kitsune Lolbit": "Kitsune Lolbit",
       "Loveshot Mangle": "Loveshot Mangle",
       "Glamrock Foxy": "Glamrock Foxy",
       "Lava Marionette": "Lava Marionette",
@@ -512,6 +522,8 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Dragon MXES": "Dragon MXES",
+      "Blessed Helpy COMPANION": "Blessed Helpy COMPANION",
       "Withered Moon-Rose": "Withered Moon-Rose",
       "Sun-Kissed-Drop": "Sun-Kissed-Drop",
       "8-Bit Spring Bonnie": "8-Bit Spring Bonnie",
@@ -542,15 +554,16 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Crimson Ballora": "Crimson Ballora",
       "Blackheart Bonnie": "Blackheart Bonnie",
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
-      "Blackheart Bonnie": "Blackheart Bonnie",
-      "Forgotten Cupcake": "Forgotten Cupcake",
+      "Bloodmoon Foxy": "Bloodmoon Foxy",
+      "Jade Rabbit Bonnie": "Jade Rabbit Bonnie",
+      "Forgotten Cupcake COMPANION": "Forgotten Cupcake",
       "Lovesick Baby": "Lovesick Baby",
-      "Shortcake Foxy": "Shortcake Foxy",
-      "Love Letter Balloon Boy": "Love Letter Balloon Boy",
+      "Love Letter Balloon Boy COMPANION": "Love Letter Balloon Boy",
       "Teddy Fazbear": "Teddy Fazbear",
       "Adventure Cupcake COMPANION": "Adventure Cupcake",
       "Balloon Boy COMPANION": "Balloon Boy",
@@ -597,6 +610,7 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Scarlet Chica": "Scarlet Chica",
       "Rockstar Foxy": "Rockstar Foxy",
       "Rockstar Bonnie": "Rockstar Bonnie",
       "Rockstar Chica": "Rockstar Chica",
@@ -626,6 +640,7 @@
       "Withered Freddy": "Withered Freddy"
     },
     "rare": {
+      "Orbital Freddy": "Orbital Freddy",
       "Frosty Chica": "Frosty Chica",
       "Invader Bonnie": "Invader Bonnie",
       "Invader Bonnie COMMENT": "RARE category winner [1st]\n@itsthatoddity",
@@ -690,6 +705,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "22/02/2026 01:50": {
+      "title": "\"21/02\" Lunar New Year Update",
+      "desc": "New map, gamemode, new skins, abilities and new companions",
+      "sections": {
+        "new-skin": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nKitsune Lolbit\n\n- SACRED:\nDragon MXES\n\n- MYTHIC:\nCrimson Ballora\n\n- LEGENDARY:\nJade Rabbit Bonnie\nBloodmoon Foxy\n\n- EPIC:\nScarlet Chica\n- RARE:\nOrbital Freddy"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Fan of Ruin:\nCrimson Ballora\n\n- Dragons Wrath:\nDragon MXES"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "- NEW MAP:\nMoonlight Garden\n\n- NEW GAMEMODE:\nInfection mode's back, but now it's 1v9\n\"Ventilation Problems\" mode's been removed\n\n- NEW COMPANION:\nBlessed Helpy\n\n- WIKI CHANGES:\nFixed the year for \"Valentine's Day\"\nAdded level 100 description for \"Claw Attack\" ability\nAdded concepts for abilities/skills that didn't have them"
+        }
+      }
     },
     "08/02/2026 23:10": {
       "title": "\"08/02\" Valentine's Day Update",

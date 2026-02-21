@@ -37,14 +37,26 @@
             "salvage": [
                 "Salvage"
             ],
-            "valentinesDay2025": [
-                "Valentine's Day 2025"
+            "valentinesDay2026": [
+                "Valentine's Day 2026"
+            ],
+            "lunarNewYear2026": [
+                "Lunar New Year 2026"
             ]
         },
         "exclusive": [
             {
+                "name": "Kitsune Lolbit",
+                "addDate": "21/02/2026",
+                "abilityId": "Please Stand By",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_KitsuneLolbit.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Loveshot Mangle",
                 "addDate": "08/02/2026",
+                "lockDate": "21/02/2026",
                 "abilityId": "Mangled",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LoveshotMangle.png",
@@ -63,7 +75,7 @@
                 "name": "Lava Marionette",
                 "addDate": "09/01/2026",
                 "lockDate": "24/01/2026",
-                "Exists": "4253",
+                "Exists": "4,253",
                 "ExistsGlitched": "1",
                 "comment": "Lava Marionette COMMENT",
                 "abilityId": "Silent Steps",
@@ -224,26 +236,45 @@
         ],
         "Sacred": [
             {
+                "name": "Dragon MXES",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": "Dragons Wrath",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_DragonMXES.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Blessed Helpy COMPANION",
+                "addDate": "21/02/2026",
+                "limited": ["companions", "lunarNewYear2026"],
+                "abilityId": "Helping Hand",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_BlessedHelpy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Withered Moon-Rose",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_farewell",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_farewell",
                 "abilityId": "Moonlight",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Valentine_Sacred_SunKissedDrop.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Farewell_Sacred_WitheredMoonRose.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Sun-Kissed-Drop",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_valentine",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_valentine",
                 "abilityId": "Cleanup Time",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Valentine_Sacred_SunKissedDrop.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Valentine_Sacred_SunKissedDrop.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "8-Bit Spring Bonnie",
                 "addDate": "31/01/2026",
+                "lockDate": "21/02/2026",
                 "limited": "salvage",
                 "comment": "8-Bit Spring Bonnie COMMENT",
                 "abilityId": ["Amplified Fear", "Vengeance"],
@@ -251,7 +282,7 @@
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "Helpy",
+                "name": "Helpy COMPANION",
                 "addDate": "24/01/2026",
                 "limited": "companions",
                 "abilityId": "Helping Hand",
@@ -449,58 +480,89 @@
         ],
         "Mythic": [
             {
+                "name": "Crimson Ballora",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": ["Deadly Grace", "Fan of Ruin"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Mythic_CrimsonBallora.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Blackheart Bonnie",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_farewell",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_farewell",
                 "abilityId": "Amplified Fear",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Farewell_Mythic_BlackheartBonnie.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Farewell_Mythic_BlackheartBonnie.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Shortcake Foxy",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_valentine",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_valentine",
                 "abilityId": ["Circuit Breaker", "Remote Anchor"],
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Valentine_Mythic_ShortcakeFoxy.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Valentine_Mythic_ShortcakeFoxy.png",
                 "imageClass": "idk_temp_image"
             }
         ],
         "Legendary": [
             {
-                "name": "Forgotten Cupcake",
+                "name": "Bloodmoon Foxy",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": "Circuit Breaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Legendary_BloodmoonFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Jade Rabbit Bonnie",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Legendary_JadeRabbitBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Forgotten Cupcake COMPANION",
                 "addDate": "08/02/2026",
-                "limited": ["companions", "valentinesDay2025"],
-                "comment": "valentines2025_farewell",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Farewell_Legendary_ForgottenCupcake.png",
+                "lockDate": "21/02/2026",
+                "limited": ["companions", "valentinesDay2026"],
+                "comment": "valentines2026_farewell",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Farewell_Legendary_ForgottenCupcake.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Lovesick Baby",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_farewell",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_farewell",
                 "abilityId": "Ice Cream Lure",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Farewell_Legendary_LovesickBaby.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Farewell_Legendary_LovesickBaby.png",
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "Love Letter Balloon Boy",
+                "name": "Love Letter Balloon Boy COMPANION",
                 "addDate": "08/02/2026",
-                "limited": ["companions", "valentinesDay2025"],
-                "comment": "valentines2025_valentine",
+                "lockDate": "21/02/2026",
+                "limited": ["companions", "valentinesDay2026"],
+                "comment": "valentines2026_valentine",
                 "abilityId": "Hacker",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Valentine_Legendary_LoveLetterBalloonBoy.png",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Valentine_Legendary_LoveLetterBalloonBoy.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Teddy Fazbear",
                 "addDate": "08/02/2026",
-                "limited": "valentinesDay2025",
-                "comment": "valentines2025_valentine",
+                "lockDate": "21/02/2026",
+                "limited": "valentinesDay2026",
+                "comment": "valentines2026_valentine",
                 "abilityId": "Marked One",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_ValentinesDay2025_Valentine_Legendary_TeddyFazbear.png",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Valentine_Legendary_TeddyFazbear.png",
                 "imageClass": "idk_temp_image"
             },
             {
@@ -881,6 +943,14 @@
         ],
         "Epic": [
             {
+                "name": "Scarlet Chica",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Epic_ScarletChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Rockstar Foxy",
                 "addDate": "09/01/2026",
                 "Exists": "~903,800",
@@ -1130,6 +1200,15 @@
             }
         ],
         "Rare": [
+            {
+                "name": "Frosty Chica",
+                "addDate": "21/02/2026",
+                "limited": "lunarNewYear2026",
+                "abilityId": "Marked One",
+                "showGlitched": false,
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Rare_OrbitalFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Frosty Chica",
                 "addDate": "05/12/2025",
