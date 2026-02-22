@@ -567,7 +567,7 @@
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "Adventure Cupcake",
+                "name": "Adventure Cupcake COMPANION",
                 "addDate": "24/01/2026",
                 "limited": "companions",
                 "abilityId": "Sentinel",
@@ -575,7 +575,7 @@
                 "imageClass": "idk_temp_image"
             },
             {
-                "name": "Balloon Boy",
+                "name": "Balloon Boy COMPANION",
                 "addDate": "24/01/2026",
                 "limited": "companions",
                 "abilityId": "Hacker",
