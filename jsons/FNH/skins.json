@@ -240,6 +240,7 @@
                 "addDate": "21/02/2026",
                 "limited": "lunarNewYear2026",
                 "abilityId": "Dragons Wrath",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_DragonMXES.png",
                 "imageClass": "idk_temp_image"
             },
@@ -248,6 +249,7 @@
                 "addDate": "21/02/2026",
                 "limited": ["companions", "lunarNewYear2026"],
                 "abilityId": "Helping Hand",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_BlessedHelpy.png",
                 "imageClass": "idk_temp_image"
             },
@@ -278,6 +280,7 @@
                 "limited": "salvage",
                 "comment": "8-Bit Spring Bonnie COMMENT",
                 "abilityId": ["Amplified Fear", "Vengeance"],
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Salvage_Sacred_8bitSpringBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -484,6 +487,7 @@
                 "addDate": "21/02/2026",
                 "limited": "lunarNewYear2026",
                 "abilityId": ["Deadly Grace", "Fan of Ruin"],
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Mythic_CrimsonBallora.png",
                 "imageClass": "idk_temp_image"
             },
@@ -514,6 +518,7 @@
                 "addDate": "21/02/2026",
                 "limited": "lunarNewYear2026",
                 "abilityId": "Circuit Breaker",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Legendary_BloodmoonFoxy.png",
                 "imageClass": "idk_temp_image"
             },
@@ -522,6 +527,7 @@
                 "addDate": "21/02/2026",
                 "limited": "lunarNewYear2026",
                 "abilityId": "Amplified Fear",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Legendary_JadeRabbitBonnie.png",
                 "imageClass": "idk_temp_image"
             },
@@ -947,6 +953,7 @@
                 "addDate": "21/02/2026",
                 "limited": "lunarNewYear2026",
                 "abilityId": "Sugar Crash",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Epic_ScarletChica.png",
                 "imageClass": "idk_temp_image"
             },
