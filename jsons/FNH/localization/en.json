@@ -473,7 +473,8 @@
       "[GLITCHED] Toggle": "[GLITCHED] Toggle",
       "only_from_case": "Could only be obtained from the event case.",
       "valentines2025_valentine": "Could only be obtained from the event case, from \"Valentine Letter\".",
-      "valentines2025_farewell": "Could only be obtained from the event case, from \"Farewell Letter\"."
+      "valentines2025_farewell": "Could only be obtained from the event case, from \"Farewell Letter\".",
+      "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
       "Valentine's Day 2026": "Valentine's Day 2026",

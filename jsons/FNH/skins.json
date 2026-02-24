@@ -243,6 +243,7 @@
                 "Exists": "~50",
                 "ExistsGlitched": "~5",
                 "limited": "lunarNewYear2026",
+                "comment": "lunarNewYear2026_sacredShrine",
                 "abilityId": "Dragons Wrath",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_DragonMXES.png",
                 "imageClass": "idk_temp_image"
@@ -251,6 +252,7 @@
                 "name": "Blessed Helpy COMPANION",
                 "addDate": "21/02/2026",
                 "limited": ["companions", "lunarNewYear2026"],
+                "comment": "lunarNewYear2026_sacredShrine",
                 "abilityId": "Helping Hand",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_BlessedHelpy.png",
                 "imageClass": "idk_temp_image"
