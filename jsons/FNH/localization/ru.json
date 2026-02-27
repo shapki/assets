@@ -706,7 +706,8 @@
       "lockDate": "Дата удаления",
       "gamemodes": "Режимы",
       "gamemode": "Режим",
-      "map": "Карта"
+      "map": "Карта",
+      "mapNotFound": "Карта не найдена"
     },
     "mapList": {
       "LizziesFunland": "Страна Веселья Лиззи",

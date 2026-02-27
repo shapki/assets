@@ -705,7 +705,8 @@
       "lockDate": "Delete Date",
       "gamemodes": "Gamemodes",
       "gamemode": "Gamemode",
-      "map": "Map"
+      "map": "Map",
+      "mapNotFound": "MapNotFound"
     },
     "mapList": {
       "LizziesFunland": "Lizzie's Funland",

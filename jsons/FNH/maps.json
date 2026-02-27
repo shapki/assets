@@ -56,7 +56,7 @@
         "PizzeriaVentilation": {
             "addDate": "09/01/2026",
             "lockDate": "21/02/2026",
-            "gamemodes": "VentilationProblems"
+            "gamemodes": ["VentilationProblems"]
         },
         "GatorGolf": {
             "addDate": "24/01/2026",
