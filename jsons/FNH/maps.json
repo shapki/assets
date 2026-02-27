@@ -1,0 +1,74 @@
+{
+    "mapsData": {
+        "LizziesFunland": {
+            "addDate": "24/04/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "FazbearsPizzeria": {
+            "addDate": "24/04/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "Warehouse87": {
+            "addDate": "24/04/2025",
+            "gamemodes": ["1v4"]
+        },
+        "AftonsHouse": {
+            "addDate": "11/05/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "CampFazbear": {
+            "addDate": "24/05/2025",
+            "gamemodes": ["1v4"]
+        },
+        "NightmareProductions": {
+            "addDate": "06/06/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "FazFunPier": {
+            "addDate": "20/06/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "DriveInTheatre": {
+            "addDate": "04/07/2025",
+            "gamemodes": ["1v4"]
+        },
+        "SisterLocation": {
+            "addDate": "19/07/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "Pizzaplex": {
+            "addDate": "17/08/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "FreddysManor": {
+            "addDate": "03/10/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "CawthonResidence": {
+            "addDate": "01/11/2025",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "SantasWorkshop": {
+            "addDate": "05/12/2025",
+            "lockDate": "09/01/2026",
+            "gamemodes": ["1v4"]
+        },
+        "PizzeriaVentilation": {
+            "addDate": "09/01/2026",
+            "lockDate": "21/02/2026",
+            "gamemodes": "VentilationProblems"
+        },
+        "GatorGolf": {
+            "addDate": "24/01/2026",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "FazbearsFright": {
+            "addDate": "07/02/2026",
+            "gamemodes": ["1v4", "2v8"]
+        },
+        "MoonlightGarden": {
+            "addDate": "21/02/2026",
+            "gamemodes": ["1v4", "2v8"]
+        }
+    }
+}

@@ -942,7 +942,7 @@
             },
             {
                 "name": "Mangle",
-                "addDate": "10/05/2025",
+                "addDate": "11/05/2025",
                 "Exists": "~278,245",
                 "ExistsGlitched": "~2,820",
                 "abilityId": "Mangled",
@@ -951,6 +951,7 @@
             },
             {
                 "name": "Springtrap",
+                "addDate": "24/04/2025",
                 "Exists": "~292,515",
                 "ExistsGlitched": "~3,035",
                 "abilityId": "Springlocked",
@@ -959,6 +960,7 @@
             },
             {
                 "name": "Shadow Foxy",
+                "addDate": "24/04/2025",
                 "Exists": "~284,160",
                 "ExistsGlitched": "~2,850",
                 "abilityId": "Circuit Breaker",
@@ -967,6 +969,7 @@
             },
             {
                 "name": "Shadow Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~279,960",
                 "ExistsGlitched": "~2,915",
                 "abilityId": "Amplified Fear",
@@ -975,6 +978,7 @@
             },
             {
                 "name": "Shadow Chica",
+                "addDate": "24/04/2025",
                 "Exists": "~286,430",
                 "ExistsGlitched": "~2,925",
                 "abilityId": "Sugar Crash",
@@ -983,6 +987,7 @@
             },
             {
                 "name": "Shadow Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~279,550",
                 "ExistsGlitched": "~2,860",
                 "abilityId": "Marked One",
@@ -1205,7 +1210,7 @@
             },
             {
                 "name": "Endo 02",
-                "addDate": "10/05/2025",
+                "addDate": "11/05/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,595",
                 "abilityId": "Short Circuit",
@@ -1214,6 +1219,7 @@
             },
             {
                 "name": "Marionette",
+                "addDate": "24/04/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,800",
                 "abilityId": "Silent Steps",
@@ -1222,6 +1228,7 @@
             },
             {
                 "name": "Withered Foxy",
+                "addDate": "24/04/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,415",
                 "abilityId": "Circuit Breaker",
@@ -1230,6 +1237,7 @@
             },
             {
                 "name": "Withered Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,445",
                 "abilityId": "Amplified Fear",
@@ -1238,6 +1246,7 @@
             },
             {
                 "name": "Withered Chica",
+                "addDate": "24/04/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,690",
                 "abilityId": "Sugar Crash",
@@ -1246,6 +1255,7 @@
             },
             {
                 "name": "Withered Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~2,2M",
                 "ExistsGlitched": "~22,020",
                 "abilityId": "Marked One",
@@ -1336,7 +1346,7 @@
             },
             {
                 "name": "Endo 01",
-                "addDate": "10/05/2025",
+                "addDate": "11/05/2025",
                 "Exists": "~6,1M",
                 "ExistsGlitched": "~63,019",
                 "abilityId": "Short Circuit",
@@ -1345,6 +1355,7 @@
             },
             {
                 "name": "Toy Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~6,3M",
                 "ExistsGlitched": "~63,015",
                 "abilityId": "Amplified Fear",
@@ -1353,6 +1364,7 @@
             },
             {
                 "name": "Toy Chica",
+                "addDate": "24/04/2025",
                 "Exists": "~6,2M",
                 "ExistsGlitched": "~62,600",
                 "abilityId": "Sugar Crash",
@@ -1361,6 +1373,7 @@
             },
             {
                 "name": "Toy Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~6,3M",
                 "ExistsGlitched": "~64,330",
                 "abilityId": "Marked One",
@@ -1369,6 +1382,7 @@
             },
             {
                 "name": "Golden Foxy",
+                "addDate": "24/04/2025",
                 "Exists": "~6,2M",
                 "ExistsGlitched": "~62,545",
                 "abilityId": "Circuit Breaker",
@@ -1377,6 +1391,7 @@
             },
             {
                 "name": "Golden Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~6,2M",
                 "ExistsGlitched": "~62,880",
                 "abilityId": "Amplified Fear",
@@ -1385,6 +1400,7 @@
             },
             {
                 "name": "Golden Chica",
+                "addDate": "24/04/2025",
                 "Exists": "~6,3M",
                 "ExistsGlitched": "~63,670",
                 "abilityId": "Sugar Crash",
@@ -1393,6 +1409,7 @@
             },
             {
                 "name": "Golden Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~6,3M",
                 "ExistsGlitched": "~63,620",
                 "abilityId": "Marked One",
@@ -1485,6 +1502,7 @@
             },
             {
                 "name": "Soul Foxy",
+                "addDate": "24/04/2025",
                 "Exists": "~12,3M",
                 "ExistsGlitched": "~124,320",
                 "abilityId": "Circuit Breaker",
@@ -1493,6 +1511,7 @@
             },
             {
                 "name": "Soul Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~12,5M",
                 "ExistsGlitched": "~126,555",
                 "abilityId": "Amplified Fear",
@@ -1501,6 +1520,7 @@
             },
             {
                 "name": "Soul Chica",
+                "addDate": "24/04/2025",
                 "Exists": "~12,3M",
                 "ExistsGlitched": "~123,585",
                 "abilityId": "Sugar Crash",
@@ -1509,6 +1529,7 @@
             },
             {
                 "name": "Soul Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~12,4M",
                 "ExistsGlitched": "~124,900",
                 "abilityId": "Marked One",
@@ -1517,6 +1538,7 @@
             },
             {
                 "name": "Foxy",
+                "addDate": "24/04/2025",
                 "Exists": "~12,4M",
                 "ExistsGlitched": "~124,415",
                 "abilityId": "Circuit Breaker",
@@ -1525,6 +1547,7 @@
             },
             {
                 "name": "Bonnie",
+                "addDate": "24/04/2025",
                 "Exists": "~12,4M",
                 "ExistsGlitched": "~124,555",
                 "abilityId": "Amplified Fear",
@@ -1629,6 +1652,7 @@
             },
             {
                 "name": "Chica",
+                "addDate": "24/04/2025",
                 "Exists": "23,3M",
                 "ExistsGlitched": "~236,725",
                 "abilityId": "Sugar Crash",
@@ -1637,6 +1661,7 @@
             },
             {
                 "name": "Freddy",
+                "addDate": "24/04/2025",
                 "Exists": "~22,1M",
                 "ExistsGlitched": "~239,455",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Common_Freddy.png",

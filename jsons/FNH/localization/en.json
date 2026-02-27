@@ -699,6 +699,52 @@
       "Freddy": "Freddy"
     }
   },
+  "Maps": {
+    "misc": {
+      "addDate": "Add Date",
+      "lockDate": "Delete Date",
+      "gamemodes": "Gamemodes",
+      "gamemode": "Gamemode",
+      "map": "Map"
+    },
+    "mapList": {
+      "LizziesFunland": "Lizzie's Funland",
+      "FazbearsPizzeria": "Fazbear's Pizzeria",
+      "Warehouse87": "Warehouse 87",
+      "AftonsHouse": "Afton's House",
+      "CampFazbear": "Camp Fazbear",
+      "NightmareProductions": "Nightmare Productions",
+      "FazFunPier": "FazFun Pier",
+      "DriveInTheatre": "Drive-In Theatre",
+      "SisterLocation": "Sister Location",
+      "Pizzaplex": "Pizzaplex",
+      "FreddysManor": "Freddy's Manor",
+      "CawthonResidence": "Cawthon Residence",
+      "SantasWorkshop": "Santa's Workshop",
+      "PizzeriaVentilation": "Pizzeria Ventilation",
+      "GatorGolf": "Gator Golf",
+      "FazbearsFright": "Fazbear's Fright",
+      "MoonlightGarden": "Moonlight Garden"
+    }
+  },
+  "Gamemodes": {
+    "Standard": "Standard",
+    "Standard_desc": "Play casually and earn rewards!",
+    "ProServer": "Pro Server",
+    "ProServer_desc": "Face off agains skilled players and earn bigger rewards! Level 35+ only!",
+    "2v8Chaos": "2v8 Chaos",
+    "2v8Chaos_desc": "Double the players, double the reward limits, and double the chaos",
+    "1v1": "1v1",
+    "1v1_desc": "Engage in an intense 1v1 with a random player. Won't affect streaks! Abilities and Skills are disabled!",
+    "Infected": "Infected",
+    "Infected_desc": "Escape or turn infected",
+    "VentilationProblems": "Ventilation Problems",
+    "VentilationProblems_desc": "Escape",
+    "2v8ChaosPro": "2v8 Chaos Pro",
+    "2v8ChaosPro_desc": "Face off agains skilled players and earn bigger rewards! Level 35+ only!",
+    "Deadlock": "Deadlock",
+    "Deadlock_desc": "1 Animatronic and 4 Survivors on each team"
+  },
   "Updates": {
     "misc": {
       "noUpdates": "No updates available",
@@ -707,6 +753,20 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "27/02/2026 18:55": {
+      "title": "Wiki Update",
+      "desc": "Map info and skin fixes",
+      "sections": {
+        "maps": {
+          "name": "MAPS ON WIKI",
+          "desc": "All maps now have details on when they're added/removed etc."
+        },
+        "skins": {
+          "name": "SKIN FIXES",
+          "desc": "- Added the date for animatronics that've been there since the start\n- Fixed the addition date for Mangle, Endo 01 and Endo 02"
+        }
+      }
     },
     "22/02/2026 01:50": {
       "title": "\"21/02\" Lunar New Year Update",
