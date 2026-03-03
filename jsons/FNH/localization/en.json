@@ -365,7 +365,7 @@
     "Clawed Attack": {
       "name": "Clawed Attack",
       "desc": "The Animatronic's piercing claw sets a bleedout timer and a bloodtrail. The survivor has 1 minute to heal or they go knocked.",
-      "lvl100": "Attacked survivor will be knocked in 8 seconds."
+      "lvl100": "Attacked survivor will be knocked in 10 seconds."
     },
     "Bayou Breach": {
       "name": "Bayou Breach",
