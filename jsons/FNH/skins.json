@@ -52,6 +52,7 @@
                 "name": "Lucky Charm Endo 01",
                 "addDate": "07/03/2026",
                 "abilityId": "Short Circuit",
+                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LuckyCharmEndo01.png",
                 "imageClass": "idk_temp_image"
             },
