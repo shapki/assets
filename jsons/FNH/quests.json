@@ -82,7 +82,7 @@
                 ]
             },
             {
-                "id": "heal_15",
+                "id": "heal_20",
                 "target": 20,
                 "rewards": [
                     { "type": "coins", "amount": 1000 },
