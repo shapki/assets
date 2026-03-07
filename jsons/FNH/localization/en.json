@@ -477,6 +477,8 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
+      "St. Patric's Day 2026": "St. Patric's Day 2026",
+      "Lunar New Year 2026": "Lunar New Year 2026",
       "Valentine's Day 2026": "Valentine's Day 2026",
       "Salvage": "Salvage",
       "Companions": "Companions",
@@ -500,6 +502,7 @@
       "Common": "Common"
     },
     "exclusive": {
+      "Lucky Charm Endo 01": "Lucky Charm Endo 01",
       "Kitsune Lolbit": "Kitsune Lolbit",
       "Kitsune Lolbit COMMENT": "With every hundredth, there's a 1% chance a [GLITCHED] version'll appear.",
       "Loveshot Mangle": "Loveshot Mangle",
@@ -524,8 +527,9 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Chica's Magic Rainbow COMPANION": "Chica's Magic Rainbow",
       "Dragon MXES": "Dragon MXES",
-      "Blessed Helpy COMPANION": "Blessed Helpy COMPANION",
+      "Blessed Helpy COMPANION": "Blessed Helpy",
       "Withered Moon-Rose": "Withered Moon-Rose",
       "Sun-Kissed-Drop": "Sun-Kissed-Drop",
       "8-Bit Spring Bonnie": "8-Bit Spring Bonnie",
@@ -556,6 +560,8 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Leprechaun Foxy": "Leprechaun Foxy",
+      "Irish Fredbear": "Irish Fredbear",
       "Crimson Ballora": "Crimson Ballora",
       "Blackheart Bonnie": "Blackheart Bonnie",
       "Shortcake Foxy": "Shortcake Foxy"
@@ -754,6 +760,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "07/03/2026 09:35": {
+      "title": "\"07/03\" St. Patric's Day Update",
+      "desc": "New skins, companion and Skills have been reworked into Classes",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nLucky Charm Endo 01\n\n- MYTHIC:\nIrish Fredbear\nLeprechaun Foxy"
+        },
+        "new-companion": {
+          "name": "NEW COMPANION",
+          "desc": "- SACRED:\nChica's Magic Rainbow\nAbility: Shortens capture time"
+        },
+        "classes": {
+          "name": "CLASSES",
+          "desc": "Classes are now displayed instead of Skills. It's literally just an interface change\nIt'll be implemented on the wiki later"
+        }
+      }
     },
     "27/02/2026 18:55": {
       "title": "Wiki Update",

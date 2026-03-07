@@ -42,12 +42,23 @@
             ],
             "lunarNewYear2026": [
                 "Lunar New Year 2026"
+            ],
+            "stPatricksDay2026": [
+                "St. Patric's Day 2026"
             ]
         },
         "exclusive": [
             {
+                "name": "Lucky Charm Endo 01",
+                "addDate": "07/03/2026",
+                "abilityId": "Short Circuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LuckyCharmEndo01.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Kitsune Lolbit",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "comment": "Kitsune Lolbit COMMENT",
                 "abilityId": "Please Stand By",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_KitsuneLolbit.png",
@@ -238,8 +249,17 @@
         ],
         "Sacred": [
             {
+                "name": "Chica's Magic Rainbow COMPANION",
+                "addDate": "07/03/2026",
+                "limited": ["companions", "stPatricksDay2026"],
+                "abilityId": "Shortens capture time",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Sacred_ChicasMagicRainbow.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Dragon MXES",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~50",
                 "ExistsGlitched": "~5",
                 "limited": "lunarNewYear2026",
@@ -251,6 +271,7 @@
             {
                 "name": "Blessed Helpy COMPANION",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "limited": ["companions", "lunarNewYear2026"],
                 "comment": "lunarNewYear2026_sacredShrine",
                 "abilityId": "Helping Hand",
@@ -492,8 +513,25 @@
         ],
         "Mythic": [
             {
+                "name": "Leprechaun Foxy",
+                "addDate": "07/03/2026",
+                "limited": "stPatricksDay2026",
+                "abilityId": "Companion Bear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Mythic_LeprechaunFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Irish Fredbear",
+                "addDate": "07/03/2026",
+                "limited": "stPatricksDay2026",
+                "abilityId": "Companion Bear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Mythic_IrishFredbear.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Crimson Ballora",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~580",
                 "ExistsGlitched": "~15",
                 "limited": "lunarNewYear2026",
@@ -530,6 +568,7 @@
             {
                 "name": "Bloodmoon Foxy",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~6,480",
                 "ExistsGlitched": "~80",
                 "limited": "lunarNewYear2026",
@@ -540,6 +579,7 @@
             {
                 "name": "Jade Rabbit Bonnie",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~2,060",
                 "ExistsGlitched": "~20",
                 "limited": "lunarNewYear2026",
@@ -999,6 +1039,7 @@
             {
                 "name": "Scarlet Chica",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~31,805",
                 "ExistsGlitched": "~345",
                 "limited": "lunarNewYear2026",
@@ -1267,6 +1308,7 @@
             {
                 "name": "Orbital Freddy",
                 "addDate": "21/02/2026",
+                "lockDate": "07/03/2026",
                 "Exists": "~129,830",
                 "ExistsGlitched": "~1,295",
                 "limited": "lunarNewYear2026",
