@@ -252,7 +252,7 @@
                 "name": "Chica's Magic Rainbow COMPANION",
                 "addDate": "07/03/2026",
                 "limited": ["companions", "stPatricksDay2026"],
-                "abilityId": "Shortens capture time",
+                "abilityId": "Rainbow Shield",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Sacred_ChicasMagicRainbow.png",
                 "imageClass": "idk_temp_image"
             },
