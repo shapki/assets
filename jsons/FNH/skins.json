@@ -337,7 +337,7 @@
                 "ExistsGlitched": "1",
                 "limited": "fnaf6",
                 "comment": "Lava Ennard COMMENT",
-                "abilityId": "Limb Reaper",
+                "abilityId": "Limb Ripper",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Fnaf6_Sacred_LavaEnnard.png",
                 "imageClass": "idk_temp_image"
             },
@@ -458,7 +458,7 @@
                 "Exists": "~8,995",
                 "ExistsGlitched": "~80",
                 "limited": "fnafSL",
-                "abilityId": "Limb Reaper",
+                "abilityId": "Limb Ripper",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Sacred_Ennard.png",
                 "imageClass": "idk_temp_image"
             },

@@ -271,8 +271,8 @@
       "desc": "Twirls around during sprints, dealing low damage (20) around itself with each spin, but the spring has a 300% longer cooldown.",
       "lvl100": "Cooldown is reduced to 250%."
     },
-    "Limb Reaper": {
-      "name": "Limb Reaper",
+    "Limb Ripper": {
+      "name": "Limb Ripper",
       "desc": "Hitting a survivor will cause them to lose a limb that will either reduce movement speed or hacking speed. Survivors can retrieve their limbs.",
       "lvl100": "25% chance to get two limbs at once.\nAlso a chance to get a second limb appears."
     },
@@ -373,7 +373,8 @@
     },
     "Shooting Star": {
       "name": "Shooting Star",
-      "desc": "The animatronic is able to dash forward 3 times."
+      "desc": "The animatronic is able to dash forward 3 times.",
+      "lvl100": "Shorten cooldown"
     },
     "Rabbit's Calling": {
       "name": "Rabbit's Calling",
@@ -394,6 +395,14 @@
     "Dragons Wrath": {
       "name": "Dragons Wrath",
       "desc": "Hitting survivors fuels the Animatronic's fury, allowing them to eventually unleash their wrath. Once charged, animatronic rains down fireballs on key locations like terminals and ballpits."
+    },
+    "Data Breach": {
+      "name": "Data Breach",
+      "desc": "Increases terminal regression by an additional percentage. Stacks with standard regression."
+    },
+    "Shadow's Grasp": {
+      "name": "Shadow's Grasp",
+      "desc": "After capturing a survivor, your terror radius is completely removed for a short duration."
     }
   },
   "Quests": {
@@ -750,7 +759,9 @@
     "2v8ChaosPro": "2v8 Chaos Pro",
     "2v8ChaosPro_desc": "Face off agains skilled players and earn bigger rewards! Level 35+ only!",
     "Deadlock": "Deadlock",
-    "Deadlock_desc": "1 Animatronic and 4 Survivors on each team"
+    "Deadlock_desc": "1 Animatronic and 4 Survivors on each team",
+    "PropHunt": "Prop Hunt",
+    "PropHunt_desc": "BEBEBE"
   },
   "Updates": {
     "misc": {
@@ -760,6 +771,16 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "14/03/2026 13:00": {
+      "title": "Wiki Update",
+      "desc": "Minor Changes",
+      "sections": {
+        "fixes": {
+          "name": "CHANGE LOG",
+          "desc": "- Fixed the \"Limb Ripper\" ability name in English\n- Updated animatronic ability images\n- Updated survivor class images\n- Added missing skin images\n- Other minor changes..."
+        }
+      }
     },
     "07/03/2026 09:35": {
       "title": "\"06/03\" St. Patric's Day Update",
@@ -879,7 +900,7 @@
         },
         "abilities-changes": {
           "name": "CHANGES TO ABILITIES",
-          "desc": "- Ignited doesn't allow survivors within the radius crawl\n\n- Ability upgrades have been added at animatronic level 100:\nSpringlocked\nCompanion Bear\nPlease Stand By\nDigital Reality\nSilent Steps\nIce Cream Lure\nBon Bon Bite\nMangled\nShort Circuit\nScorchpath\nRemote Anchor\nVengeance\nSilent Angel\nMarked One\nSugar Crash\nLimb Reaper\nAmplified Fear\nCircuit Breaker\nDeadly Grace\nBlackout Breaker\nAmplified Terror\nToxic Crash\nThe Joy Of Creation\nIgnited One"
+          "desc": "- Ignited doesn't allow survivors within the radius crawl\n\n- Ability upgrades have been added at animatronic level 100:\nSpringlocked\nCompanion Bear\nPlease Stand By\nDigital Reality\nSilent Steps\nIce Cream Lure\nBon Bon Bite\nMangled\nShort Circuit\nScorchpath\nRemote Anchor\nVengeance\nSilent Angel\nMarked One\nSugar Crash\nLimb Ripper\nAmplified Fear\nCircuit Breaker\nDeadly Grace\nBlackout Breaker\nAmplified Terror\nToxic Crash\nThe Joy Of Creation\nIgnited One"
         },
         "new-abilities": {
           "name": "NEW ABILITIES",
