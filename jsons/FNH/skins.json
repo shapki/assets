@@ -256,7 +256,7 @@
                 "Exists": "~305",
                 "ExistsGlitched": "~5",
                 "limited": ["companions", "stPatricksDay2026"],
-                "abilityId": "Rainbow Shield",
+                "abilityId": "Rainbow Shield COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Sacred_ChicasMagicRainbow.png",
                 "imageClass": "companion_image"
             },
@@ -605,6 +605,7 @@
                 "ExistsGlitched": "2,519",
                 "limited": ["companions", "valentinesDay2026"],
                 "comment": "valentines2026_farewell",
+                "abilityId": "Sentinel COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Farewell_Legendary_ForgottenCupcake.png",
                 "imageClass": "companion_image"
             },
@@ -628,7 +629,7 @@
                 "ExistsGlitched": "2,470",
                 "limited": ["companions", "valentinesDay2026"],
                 "comment": "valentines2026_valentine",
-                "abilityId": "Hacker",
+                "abilityId": "Hacker COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_valentinesDay2026_Valentine_Legendary_LoveLetterBalloonBoy.png",
                 "imageClass": "companion_image"
             },
@@ -650,7 +651,7 @@
                 "Exists": "~81,170",
                 "ExistsGlitched": "~845",
                 "limited": "companions",
-                "abilityId": "Sentinel",
+                "abilityId": "Sentinel COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Legendary_AdventureCupcake.png",
                 "imageClass": "companion_image"
             },
@@ -660,7 +661,7 @@
                 "Exists": "~109,600",
                 "ExistsGlitched": "~1,170",
                 "limited": "companions",
-                "abilityId": "Hacker",
+                "abilityId": "Hacker COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Legendary_BalloonBoy.png",
                 "imageClass": "companion_image"
             },

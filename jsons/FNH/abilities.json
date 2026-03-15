@@ -216,6 +216,22 @@
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_RabbitsCalling.png",
             "lvl 50+": true
         },
+        "Hacker COMPANION": {
+            "color1": false,
+            "icon": false
+        },
+        "Sentinel COMPANION": {
+            "color1": false,
+            "icon": false
+        },
+        "Helping Hand COMPANION": {
+            "color1": false,
+            "icon": false
+        },
+        "Rainbow Shield COMPANION": {
+            "color1": false,
+            "icon": false
+        },
         "Moonlight": {
             "color1": "#b633f8",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Moonlight.png",

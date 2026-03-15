@@ -380,6 +380,22 @@
       "name": "Rabbit's Calling",
       "desc": "The animatronic passively disorients survivors around them."
     },
+    "Hacker COMPANION": {
+      "name": "Hacker",
+      "desc": "Balloon Boy increases terminal hacking speed."
+    },
+    "Sentinel COMPANION": {
+      "name": "Sentinel",
+      "desc": "The cupcake alerts you when an animatronic is nearby."
+    },
+    "Helping Hand COMPANION": {
+      "name": "Helping Hand",
+      "desc": "Helpy will heal the survivor occasionally."
+    },
+    "Rainbow Shield COMPANION": {
+      "name": "Rainbow Shield",
+      "desc": "Chica's Magic Rainbow makes your capture time take longer."
+    },
     "Moonlight": {
       "name": "Moonlight",
       "desc": "You can't outrun it... The Animatronic places its hat down, slowing survivors nearby."
