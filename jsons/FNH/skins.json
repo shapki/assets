@@ -280,7 +280,7 @@
                 "ExistsGlitched": "23",
                 "limited": ["companions", "lunarNewYear2026"],
                 "comment": "lunarNewYear2026_sacredShrine",
-                "abilityId": "Helping Hand",
+                "abilityId": "Helping Hand COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_lunarNewYear2026_Sacred_BlessedHelpy.png",
                 "imageClass": "companion_image"
             },
@@ -326,7 +326,7 @@
                 "Exists": "~8,895",
                 "ExistsGlitched": "~80",
                 "limited": "companions",
-                "abilityId": "Helping Hand",
+                "abilityId": "Helping Hand COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Companions_Sacred_Helpy.png",
                 "imageClass": "companion_image"
             },
