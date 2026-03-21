@@ -228,10 +228,6 @@
             "color1": false,
             "icon": false
         },
-        "Rainbow Shield COMPANION": {
-            "color1": false,
-            "icon": false
-        },
         "Moonlight": {
             "color1": "#b633f8",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Moonlight.png",
@@ -253,13 +249,26 @@
             "lvl 50+": true
         },
         "Data Breach": {
-            "color1": "#FFD700",
+            "color1": "#616161",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_DataBreach.png",
-            "lvl 50+": true
+            "levels": true
         },
         "Shadow's Grasp": {
-            "color1": "#FFD700",
+            "color1": "#616161",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ShadowsGrasp.png",
+            "levels": true
+        },
+        "Rainbow Shield COMPANION": {
+            "color1": false,
+            "icon": false
+        },
+        "Save Them COMPANION": {
+            "color1": false,
+            "icon": false
+        },
+        "It's Me": {
+            "color1": "#FFD700",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ItsMe.png",
             "lvl 50+": true
         }
     }

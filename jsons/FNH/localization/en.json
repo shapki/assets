@@ -392,10 +392,6 @@
       "name": "Helping Hand",
       "desc": "Helpy will heal the survivor occasionally."
     },
-    "Rainbow Shield COMPANION": {
-      "name": "Rainbow Shield",
-      "desc": "Chica's Magic Rainbow makes your capture time take longer."
-    },
     "Moonlight": {
       "name": "Moonlight",
       "desc": "You can't outrun it... The Animatronic places its hat down, slowing survivors nearby."
@@ -419,6 +415,18 @@
     "Shadow's Grasp": {
       "name": "Shadow's Grasp",
       "desc": "After capturing a survivor, your terror radius is completely removed for a short duration."
+    },
+    "Rainbow Shield COMPANION": {
+      "name": "Rainbow Shield",
+      "desc": "Chica's Magic Rainbow makes your capture time take longer."
+    },
+    "Save Them COMPANION": {
+      "name": "Save Them",
+      "desc": "Increases escape speed while being carried."
+    },
+    "It's Me": {
+      "name": "It's Me",
+      "desc": "Swarm survivors with \"IT'S ME\", then a trigger a jumpscare that deals damage. Survivors can avoid it by hiding in lockers."
     }
   },
   "Quests": {
@@ -502,6 +510,7 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
+      "goldenEra2026": "Золотая Эра 2026",
       "St. Patric's Day 2026": "St. Patric's Day 2026",
       "Lunar New Year 2026": "Lunar New Year 2026",
       "Valentine's Day 2026": "Valentine's Day 2026",
@@ -526,7 +535,12 @@
       "Uncommon": "Uncommon",
       "Common": "Common"
     },
+    "secret": {
+      "Golden Fredbear": "Golden Fredbear",
+      "Golden Springtrap": "Golden Springtrap"
+    },
     "exclusive": {
+      "Sprinting Fredbear": "Sprinting Fredbear",
       "Lucky Charm Endo 01": "Lucky Charm Endo 01",
       "Kitsune Lolbit": "Kitsune Lolbit",
       "Kitsune Lolbit COMMENT": "With every hundredth, there's a 1% chance a [GLITCHED] version'll appear.",
@@ -586,6 +600,9 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Spring Bonnie": "Spring Bonnie",
+      "Ghost Child COMPANION": "Ghost Child",
+      "Golden Fredbear": "Golden Fredbear",
       "Leprechaun Foxy": "Leprechaun Foxy",
       "Irish Fredbear": "Irish Fredbear",
       "Crimson Ballora": "Crimson Ballora",
@@ -778,7 +795,7 @@
     "Deadlock": "Deadlock",
     "Deadlock_desc": "1 Animatronic and 4 Survivors on each team",
     "PropHunt": "Prop Hunt",
-    "PropHunt_desc": "BEBEBE"
+    "PropHunt_desc": "1 Animatornic and 9 Props, hide as Prop or end up an Animatronic"
   },
   "Updates": {
     "misc": {
@@ -788,6 +805,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "21/03/2026 13:25": {
+      "title": "\"21/03\" Golden Era Update",
+      "desc": "New gamemode, companion, abilities, skins",
+      "sections": {
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Data Breach and Shadow's Grasp\nAvailable for all animatronics\n\n- It's Me\nGolden Fredbear"
+        },
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nSprinting Fredbear\n\n- SECRET:\nGolden Fredbear\n\n- MYTHIC:\nSpring Bonnie"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "- NEW MYTHIC COMPANION:\nCrying Child\nIncreases escape speed while being carried.\n\n- NEW GAMEMODE:\nProp Hunt"
+        }
+      }
     },
     "14/03/2026 13:00": {
       "title": "Wiki Update",

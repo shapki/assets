@@ -45,12 +45,40 @@
             ],
             "stPatricksDay2026": [
                 "St. Patric's Day 2026"
+            ],
+            "goldenEra2026": [
+                "Golden Era 2026"
             ]
         },
+        "Secret": [
+            {
+                "name": "Golden Fredbear",
+                "addDate": "21/03/2026",
+                "limited": "goldenEra2026",
+                "abilityId": "It's Me",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Rare_GoldenFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Golden Springtrap",
+                "addDate": "24/04/2025",
+                "abilityId": "Springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Secret_GoldenSpringtrap.png",
+                "imageClass": "idk_temp_image"
+            }
+        ],
         "exclusive": [
+            {
+                "name": "Sprinting Fredbear",
+                "addDate": "21/03/2026",
+                "abilityId": "Companion Bear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_SprintingFredbear.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Lucky Charm Endo 01",
                 "addDate": "07/03/2026",
+                "lockDate": "21/03/2026",
                 "abilityId": "Short Circuit",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_LuckyCharmEndo01.png",
                 "imageClass": "idk_temp_image"
@@ -253,6 +281,7 @@
             {
                 "name": "Chica's Magic Rainbow COMPANION",
                 "addDate": "07/03/2026",
+                "lockDate": "21/03/2026",
                 "Exists": "~305",
                 "ExistsGlitched": "~5",
                 "limited": ["companions", "stPatricksDay2026"],
@@ -523,8 +552,25 @@
         ],
         "Mythic": [
             {
+                "name": "Spring Bonnie",
+                "addDate": "21/03/2026",
+                "limited": "goldenEra2026",
+                "abilityId": ["Vengeance", "Amplified Fear"],
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_goldednEra2026_Mythic_SpringBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ghost Child COMPANION",
+                "addDate": "21/03/2026",
+                "limited": ["companions", "goldenEra2026"],
+                "abilityId": "Save Them COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_goldenEra2026_Mythic_GhostChild.png",
+                "imageClass": "companion_image"
+            },
+            {
                 "name": "Leprechaun Foxy",
                 "addDate": "07/03/2026",
+                "lockDate": "21/03/2026",
                 "limited": "stPatricksDay2026",
                 "abilityId": "Circuit Breaker",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Mythic_LeprechaunFoxy.png",
@@ -533,6 +579,7 @@
             {
                 "name": "Irish Fredbear",
                 "addDate": "07/03/2026",
+                "lockDate": "21/03/2026",
                 "limited": "stPatricksDay2026",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_stPatricksDay2026_Mythic_IrishFredbear.png",
