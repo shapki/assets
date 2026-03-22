@@ -426,7 +426,8 @@
     },
     "It's Me": {
       "name": "It's Me",
-      "desc": "Swarm survivors with \"IT'S ME\", then a trigger a jumpscare that deals damage. Survivors can avoid it by hiding in lockers."
+      "desc": "Swarm survivors with \"IT'S ME\", then a trigger a jumpscare that deals damage. Survivors can avoid it by hiding in lockers.",
+      "lvl100": "Jumpscare deals 50 damage."
     }
   },
   "Quests": {
