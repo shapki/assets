@@ -268,7 +268,7 @@
         },
         "It's Me": {
             "color1": "#FFD700",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ItsMe.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_ItsMe_Custom.png",
             "lvl 50+": true
         }
     }
