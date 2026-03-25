@@ -331,7 +331,7 @@
                     { "type": "coins", "amount": 2000 },
                     { "type": "remnants", "amount": 20 },
                     { "type": "xp", "amount": 4000 },
-                    { "type": "cake-luck", "amount": 120 }
+                    { "type": "cake-luck", "amount": 1 }
                 ]
             },
             {
