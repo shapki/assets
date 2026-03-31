@@ -923,7 +923,7 @@
       "desc": "Changes in skins:\n- Updated \"Exists\"\n- Added \"FNAF SL\" category\n- Burntrap and MXES are now in the \"FNAF SB\" category"
     },
     "25/01/2026 01:30": {
-      "title": "\"24/01\" FNAF SB Update",
+      "title": "\"24/01\" FNAF SB Update Part 1",
       "desc": "New map, new skins, new abilities and companions!",
       "sections": {
         "new-map": {
@@ -993,7 +993,7 @@
       }
     },
     "25/12/2025 02:00": {
-      "title": "\"24/12\" Small Update",
+      "title": "\"24/12\" Christmas Update Part 2",
       "desc": "New skin, minor changes to skins, minor changes to quests.",
       "sections": {
         "skins": {
@@ -1013,7 +1013,7 @@
       }
     },
     "05/12/2025 23:59": {
-      "title": "\"05/12\" Christmas Update",
+      "title": "\"05/12\" Christmas Update Part 1",
       "desc": "New skins, new ability and new map.",
       "sections": {
         "skins": {
@@ -1045,7 +1045,7 @@
       }
     },
     "16/11/2025 11:00": {
-      "title": "\"15/11\" Update",
+      "title": "\"15/11\" QOL Update",
       "desc": "Small changes.",
       "sections": {
         "skins": {
