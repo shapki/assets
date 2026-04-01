@@ -542,6 +542,7 @@
       "Golden Springtrap": "Golden Springtrap"
     },
     "exclusive": {
+      "Hungry Freddy": "Hungry Freddy",
       "Sprinting Fredbear": "Sprinting Fredbear",
       "Lucky Charm Endo 01": "Lucky Charm Endo 01",
       "Kitsune Lolbit": "Kitsune Lolbit",
@@ -808,6 +809,16 @@
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
     },
+    "01/04/2026 10:00": {
+      "title": "\"04/04\" 1st of April Update",
+      "desc": "New exclusive 1 day skin",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKIN",
+          "desc": "- EXCLUSIVE:\nHungry Freddy"
+        }
+      }
+    },
     "21/03/2026 13:25": {
       "title": "\"21/03\" Golden Era Update",
       "desc": "New gamemode, companion, abilities, skins",
@@ -993,7 +1004,7 @@
       }
     },
     "25/12/2025 02:00": {
-      "title": "\"24/12\" Christmas Update Part 2",
+      "title": "\"24/12\" Small Update",
       "desc": "New skin, minor changes to skins, minor changes to quests.",
       "sections": {
         "skins": {
@@ -1013,7 +1024,7 @@
       }
     },
     "05/12/2025 23:59": {
-      "title": "\"05/12\" Christmas Update Part 1",
+      "title": "\"05/12\" Christmas Update",
       "desc": "New skins, new ability and new map.",
       "sections": {
         "skins": {
