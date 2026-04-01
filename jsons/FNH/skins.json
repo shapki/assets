@@ -73,6 +73,7 @@
             {
                 "name": "Hungry Freddy",
                 "addDate": "01/04/2026",
+                "comment": "Hungry Freddy COMMENT",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_HungryFreddy.png",
                 "imageClass": "idk_temp_image"
