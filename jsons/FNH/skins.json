@@ -73,6 +73,7 @@
             {
                 "name": "Hungry Freddy",
                 "addDate": "01/04/2026",
+                "lockDate": "02/04/2026",
                 "comment": "Hungry Freddy COMMENT",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_HungryFreddy.png",
@@ -81,7 +82,6 @@
             {
                 "name": "Sprinting Fredbear",
                 "addDate": "21/03/2026",
-                "lockDate": "01/04/2026",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_SprintingFredbear.png",
                 "imageClass": "idk_temp_image"
