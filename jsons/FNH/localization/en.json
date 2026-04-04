@@ -428,6 +428,10 @@
       "name": "It's Me",
       "desc": "Swarm survivors with \"IT'S ME\", then a trigger a jumpscare that deals damage. Survivors can avoid it by hiding in lockers.",
       "lvl100": "Jumpscare deals 50 damage."
+    },
+    "Nowhere To Hide": {
+      "name": "Nowhere To Hide",
+      "desc": "When discovering a hidden survivor in a locker, animatronic speed is increased by 5% for 3/5/7 seconds. Cooldown of 45 seconds."
     }
   },
   "Quests": {
@@ -511,7 +515,8 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
-      "Golden Era 2026": "Золотая Эра 2026",
+      "Easter 2026": "Easter 2026",
+      "Golden Era 2026": "Golden Era 2026",
       "St. Patric's Day 2026": "St. Patric's Day 2026",
       "Lunar New Year 2026": "Lunar New Year 2026",
       "Valentine's Day 2026": "Valentine's Day 2026",
@@ -538,10 +543,12 @@
       "Common": "Common"
     },
     "secret": {
+      "Bloomtrap": "Bloomtrap",
       "Golden Fredbear": "Golden Fredbear",
       "Golden Springtrap": "Golden Springtrap"
     },
     "exclusive": {
+      "Chick Chica": "Chick Chica",
       "Hungry Freddy": "Hungry Freddy",
       "Hungry Freddy COMMENT": "Was available only on 04/01 [one day].\n\nArt by @so5alt, 3D model by @devfoxes",
       "Sprinting Fredbear": "Sprinting Fredbear",
@@ -570,6 +577,8 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Blooming Ennard": "Blooming Ennard",
+      "Mad Hatter Vanny": "Mad Hatter Vanny",
       "Chica's Magic Rainbow COMPANION": "Chica's Magic Rainbow",
       "Dragon MXES": "Dragon MXES",
       "Dragon MXES comment": "Suggested via suggestions (author) @residentpookster.\n\nIt's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine.",
@@ -614,6 +623,10 @@
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
+      "Gilded Marionette": "Gilded Marionette",
+      "Spring Reaper Foxy": "Spring Reaper Foxy",
+      "Chocolate Bonnie": "Chocolate Bonnie",
+      "Chocolate Chica": "Chocolate Chica",
       "Bloodmoon Foxy": "Bloodmoon Foxy",
       "Jade Rabbit Bonnie": "Jade Rabbit Bonnie",
       "Forgotten Cupcake COMPANION": "Forgotten Cupcake",
@@ -810,8 +823,26 @@
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
     },
+    "05/04/2026 02:07": {
+      "title": "\"04/04\" Easter Update",
+      "desc": "New map, skins, ability",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKIN",
+          "desc": "- SECRET:\nBloomtrap\n\n- EXCLUSIVE:\nChick Chica\n\n- SACRED:\nBlooming Ennard\nMad Hatter Vanny\n\n- MYTHIC:\nGilded Marionette\nSpring Reaper Foxy\n\n- LEGENDARY:\nChocolate Bonnie\nChocolate Chica"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITY",
+          "desc": "- Nowhere To Hide\nAvailable for all animatronics"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "- NEW MAP:\nBunny Grove"
+        }
+      }
+    },
     "01/04/2026 10:00": {
-      "title": "\"04/04\" 1st of April Update",
+      "title": "\"01/04\" 1st of April Update",
       "desc": "New exclusive 1 day skin",
       "sections": {
         "new-skins": {

@@ -48,9 +48,20 @@
             ],
             "goldenEra2026": [
                 "Golden Era 2026"
+            ],
+            "easter2026": [
+                "Easter 2026"
             ]
         },
         "Secret": [
+            {
+                "name": "Bloomtrap",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Secret_Bloomtrap.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Golden Fredbear",
                 "addDate": "21/03/2026",
@@ -71,6 +82,13 @@
         ],
         "Exclusive": [
             {
+                "name": "Chick Chica",
+                "addDate": "04/04/2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_ChickChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Hungry Freddy",
                 "addDate": "01/04/2026",
                 "lockDate": "02/04/2026",
@@ -82,6 +100,7 @@
             {
                 "name": "Sprinting Fredbear",
                 "addDate": "21/03/2026",
+                "lockDate": "04/04/2026",
                 "abilityId": "Companion Bear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_SprintingFredbear.png",
                 "imageClass": "idk_temp_image"
@@ -289,6 +308,22 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "Blooming Ennard",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Limb Ripper",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Sacred_BloomingEnnard.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Mad Hatter Vanny",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Rabbit's Calling",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Sacred_MadHatterVanny.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Chica's Magic Rainbow COMPANION",
                 "addDate": "07/03/2026",
@@ -563,6 +598,22 @@
         ],
         "Mythic": [
             {
+                "name": "Gilded Marionette",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Silent Steps",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Mythic_GildedMarionette.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Spring Reaper Foxy",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Circuit Breaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Mythic_SpringReaperFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Spring Bonnie",
                 "addDate": "21/03/2026",
                 "limited": "goldenEra2026",
@@ -633,6 +684,22 @@
             }
         ],
         "Legendary": [
+            {
+                "name": "Chocolate Bonnie",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Legendary_ChocolateBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Chick Chica",
+                "addDate": "04/04/2026",
+                "limited": "easter2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Legendary_ChocolateChica.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Bloodmoon Foxy",
                 "addDate": "21/02/2026",

@@ -69,6 +69,10 @@
         "MoonlightGarden": {
             "addDate": "21/02/2026",
             "gamemodes": ["1v4", "2v8"]
+        },
+        "Bunny Grove": {
+            "addDate": "04/04/2026",
+            "gamemodes": ["1v4", "2v8"]
         }
     }
 }
