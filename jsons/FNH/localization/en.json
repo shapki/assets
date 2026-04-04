@@ -432,6 +432,10 @@
     "Nowhere To Hide": {
       "name": "Nowhere To Hide",
       "desc": "When discovering a hidden survivor in a locker, animatronic speed is increased by 5% for 3/5/7 seconds. Cooldown of 45 seconds."
+    },
+    "Gardener's Grasp": {
+      "name": "Gardener's Grasp",
+      "desc": "Animatronics next successful hit blinds the survivor for 5 seconds, shrouding their vision in darkness. Cooldown of 45 seconds."
     }
   },
   "Quests": {
@@ -825,15 +829,15 @@
     },
     "05/04/2026 02:07": {
       "title": "\"04/04\" Easter Update",
-      "desc": "New map, skins, ability",
+      "desc": "New map, skins, abilities",
       "sections": {
         "new-skins": {
           "name": "NEW SKIN",
           "desc": "- SECRET:\nBloomtrap\n\n- EXCLUSIVE:\nChick Chica\n\n- SACRED:\nBlooming Ennard\nMad Hatter Vanny\n\n- MYTHIC:\nGilded Marionette\nSpring Reaper Foxy\n\n- LEGENDARY:\nChocolate Bonnie\nChocolate Chica"
         },
         "new-abilities": {
-          "name": "NEW ABILITY",
-          "desc": "- Nowhere To Hide\nAvailable for all animatronics"
+          "name": "NEW ABILITIES",
+          "desc": "- Nowhere To Hide\nAvailable for all animatronics\n\n- Gardener's Grasp\nBloomtrap"
         },
         "other": {
           "name": "OTHER",

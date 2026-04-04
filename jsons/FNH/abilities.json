@@ -275,6 +275,11 @@
             "color1": "#616161",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_NowhereToHide.png",
             "levels": true
+        },
+        "Gardener's Grasp": {
+            "color1": "#204F1D",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_GardenersGrasp.png",
+            "lvl 50+": true
         }
     }
 }

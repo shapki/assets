@@ -58,7 +58,7 @@
                 "name": "Bloomtrap",
                 "addDate": "04/04/2026",
                 "limited": "easter2026",
-                "abilityId": "Springlocked",
+                "abilityId": ["Springlocked", "Gardener's Grasp"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Secret_Bloomtrap.png",
                 "imageClass": "idk_temp_image"
             },
