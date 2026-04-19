@@ -280,6 +280,35 @@
             "color1": "#204F1D",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_GardenersGrasp.png",
             "lvl 50+": true
+        },
+        "Tiger's Prey": {
+            "color1": "#9A88C1",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_TigersPrey.png",
+            "lvl 50+": true
+        },
+        "Familiar Face": {
+            "color1": "#A03232",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_FamiliarFace.png",
+            "lvl 50+": true
+        },
+        "Snap Pull": {
+            "color1": "#dd7631",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_SnapPull.png",
+            "lvl 50+": true
+        },
+        "Overcharge": {
+            "color1": "#2CE9C9",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Overcharge.png",
+            "lvl 50+": true
+        },
+        "Mascot Masquerade": {
+            "color1": "#7E4E30",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MascotMasquerade.png",
+            "lvl 50+": true
+        },
+        "Handy Guide COMPANION": {
+            "color1": false,
+            "icon": false
         }
     }
 }

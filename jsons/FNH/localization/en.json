@@ -436,6 +436,30 @@
     "Gardener's Grasp": {
       "name": "Gardener's Grasp",
       "desc": "Animatronics next successful hit blinds the survivor for 5 seconds, shrouding their vision in darkness. Cooldown of 45 seconds."
+    },
+    "Tiger's Prey": {
+      "name": "Tiger's Prey",
+      "desc": "If a survivor stands still for 15 seconds outside of terminal use, they are revealed with a golden outline. Closing in on a revealed survivor silences animatronics footsteps and chase audio for a silent ambush."
+    },
+    "Familiar Face": {
+      "name": "Familiar Face",
+      "desc": "Animatronic transforms into a survivor for 30 seconds (120s cooldown). Touching a survivor deals damage and turns animatronic back into their Mimic form."
+    },
+    "Snap Pull": {
+      "name": "Snap Pull",
+      "desc": "Jackie fires her arms at a survivor and pulls herself to them. 30 seconds cooldown."
+    },
+    "Overcharge": {
+      "name": "Overcharge",
+      "desc": "Animatronic can electrify 2-3 terminals per match. Survivors who attempt to use an electrified terminal are briefly stunned."
+    },
+    "Mascot Masquerade": {
+      "name": "Mascot Masquerade",
+      "desc": "Three frozen empty suits of animatronics current skin are placed around the map. Use the ability button to open the suit list and instantly teleport into one, leaving a new frozen suit behind. Switching has a 120 seconds cooldown."
+    },
+    "Handy Guide COMPANION": {
+      "name": "Handy Guide",
+      "desc": "Every 90 seconds the animatronic(s) are revealed to you for 5 seconds."
     }
   },
   "Quests": {
@@ -519,6 +543,7 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
+      "Secret Of The Mimic": "Secret Of The Mimic",
       "Easter 2026": "Easter 2026",
       "Golden Era 2026": "Golden Era 2026",
       "St. Patric's Day 2026": "St. Patric's Day 2026",
@@ -547,11 +572,13 @@
       "Common": "Common"
     },
     "secret": {
+      "White Tiger": "White Tiger",
       "Bloomtrap": "Bloomtrap",
       "Golden Fredbear": "Golden Fredbear",
       "Golden Springtrap": "Golden Springtrap"
     },
     "exclusive": {
+      "Trickster Puppet": "Trickster Puppet",
       "Chick Chica": "Chick Chica",
       "Hungry Freddy": "Hungry Freddy",
       "Hungry Freddy COMMENT": "Was available only on 04/01 [one day].\n\nArt by @so5alt, 3D model by @devfoxes",
@@ -581,6 +608,7 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Mimic": "Mimic",
       "Blooming Ennard": "Blooming Ennard",
       "Mad Hatter Vanny": "Mad Hatter Vanny",
       "Chica's Magic Rainbow COMPANION": "Chica's Magic Rainbow",
@@ -617,6 +645,11 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Jackie": "Jackie",
+      "Nurse Dollie": "Nurse Dollie",
+      "Party Time Chica": "Party Time Chica",
+      "Mr Helpful COMPANION": "Mr Helpful",
+      "Mrs Helpful COMPANION": "Mrs Helpful",
       "Spring Bonnie": "Spring Bonnie",
       "Ghost Child COMPANION": "Ghost Child",
       "Golden Fredbear": "Golden Fredbear",
@@ -627,6 +660,8 @@
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
+      "Birthday Puppy": "Birthday Puppy",
+      "Jest": "Jest",
       "Gilded Marionette": "Gilded Marionette",
       "Spring Reaper Foxy": "Spring Reaper Foxy",
       "Chocolate Bonnie": "Chocolate Bonnie",
@@ -682,6 +717,8 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Sharpay": "Sharpay",
+      "Swing Bee": "Swing Bee",
       "Scarlet Chica": "Scarlet Chica",
       "Rockstar Foxy": "Rockstar Foxy",
       "Rockstar Bonnie": "Rockstar Bonnie",
@@ -827,12 +864,30 @@
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
     },
+    "19/04/2026 10:50": {
+      "title": "\"19/04\" Secret Of The Mimic Update Pt. 1",
+      "desc": "New map, skins, abilities, companions",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- SECRET:\nWhite Tiger\n\n- EXCLUSIVE:\nTrickster Puppet\n\n- SACRED:\nMimic\n\n- MYTHIC:\nJackie\nNurse Dollie\nParty Time Chica\n\n- LEGENDARY:\nBirthday Puppy\nJest\n\n- EPIC:\nSharpay\nSwing Bee"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- Tiger's Prey:\nWhite Tiger\n\n- Familiar Face:\nMimic\n\n- Snap Pull:\nJackie\n\n- Overcharge:\nNurse Dollie\n\n- Mascot Masquerade:\nBirthday Puppy\nJest\nSharpay\nSwing Bee"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "- NEW MYTHIC COMPANIONS:\nMr Helpful & Mrs Helpful\n| Ability: Handy Guide\nEvery 90 seconds, the animatronic(s) are revealed to you for 5 seconds."
+        }
+      }
+    },
     "05/04/2026 02:07": {
       "title": "\"04/04\" Easter Update",
       "desc": "New map, skins, abilities",
       "sections": {
         "new-skins": {
-          "name": "NEW SKIN",
+          "name": "NEW SKINS",
           "desc": "- SECRET:\nBloomtrap\n\n- EXCLUSIVE:\nChick Chica\n\n- SACRED:\nBlooming Ennard\nMad Hatter Vanny\n\n- MYTHIC:\nGilded Marionette\nSpring Reaper Foxy\n\n- LEGENDARY:\nChocolate Bonnie\nChocolate Chica"
         },
         "new-abilities": {
