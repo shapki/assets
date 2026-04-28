@@ -573,9 +573,13 @@
     },
     "secret": {
       "White Tiger": "White Tiger",
+      "White Tiger COMMENT": "To get it, you had to find 5 digits on the 2v8 \"Murray's Costume Manor\" map and enter them in a specific order into the terminal.\nAfter escaping, this skin was awarded.",
       "Bloomtrap": "Bloomtrap",
+      "Bloomtrap COMMENT": "To get it, you had to collect 4 egg parts (1 part per match) and in the 5th match with the assembled egg, pass 3 pedestals, activate them, and return the egg to its place. The chance of getting it was 10%.",
       "Golden Fredbear": "Golden Fredbear",
-      "Golden Springtrap": "Golden Springtrap"
+      "Golden Fredbear COMMENT": "To get it, you need to summon 4 parts (to activate the hidden quest) and complete the hidden quest within an hour.",
+      "Golden Springtrap": "Golden Springtrap",
+      "Golden Springtrap COMMENT": "Unreleased skin"
     },
     "exclusive": {
       "Trickster Puppet": "Trickster Puppet",
@@ -863,6 +867,20 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "29/04/2026 00:55": {
+      "title": "\"29/04\" Secret Of The Mimic Update Pt. 2",
+      "desc": "New map, skin release",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKIN",
+          "desc": "- SECRET:\nWhite Tiger"
+        },
+        "new-abilities": {
+          "name": "NEW MAP",
+          "desc": "- Murray's Costume Manor"
+        }
+      }
     },
     "19/04/2026 10:50": {
       "title": "\"19/04\" Secret Of The Mimic Update Pt. 1",

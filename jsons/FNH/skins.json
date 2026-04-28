@@ -60,6 +60,7 @@
             {
                 "name": "White Tiger",
                 "addDate": "19/04/2026",
+                "comment": "White Tiger COMMENT",
                 "limited": "secretOfTheMimic2026",
                 "abilityId": "Tiger's Prey",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_secretOfTheMimic2026_Secret_WhiteTiger.png",
@@ -69,6 +70,7 @@
                 "name": "Bloomtrap",
                 "addDate": "04/04/2026",
                 "lockDate": "19/04/2026",
+                "comment": "Bloomtrap COMMENT",
                 "limited": "easter2026",
                 "abilityId": ["Springlocked", "Gardener's Grasp"],
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Secret_Bloomtrap.png",
@@ -77,15 +79,16 @@
             {
                 "name": "Golden Fredbear",
                 "addDate": "21/03/2026",
+                "comment": "Golden Fredbear COMMENT",
                 "limited": "goldenEra2026",
                 "abilityId": "It's Me",
-                "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_goldenEra2026_Secret_GoldenFredbear.png",
                 "imageClass": "idk_temp_image"
             },
             {
                 "name": "Golden Springtrap",
                 "addDate": "24/04/2025",
+                "comment": "Golden Springtrap COMMENT",
                 "abilityId": "Springlocked",
                 "showGlitched": false,
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Secret_GoldenSpringtrap.png",

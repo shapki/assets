@@ -73,6 +73,10 @@
         "Bunny Grove": {
             "addDate": "04/04/2026",
             "gamemodes": ["1v4", "2v8"]
+        },
+        "Murray's Costume Manor": {
+            "addDate": "29/04/2026",
+            "gamemodes": ["1v4", "2v8"]
         }
     }
 }
