@@ -97,6 +97,13 @@
         ],
         "Exclusive": [
             {
+                "name": "Birthday Bash Bonnie",
+                "addDate": "16/05/2026",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BirthdayBashBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Trickster Puppet",
                 "addDate": "19/04/2026",
                 "abilityId": "Silent Steps",
@@ -331,6 +338,22 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "Sun",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Cleanup Time",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Sacred_Sun.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Moon",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Moonlight",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Sacred_Moon.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Mimic",
                 "addDate": "19/04/2026",
@@ -631,6 +654,22 @@
         ],
         "Mythic": [
             {
+                "name": "Glamrock Freddy",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Marked One",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Mythic_GlamrockFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Glamrock Bonnie",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Amplified Fear",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Mythic_GlamrockBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Jackie",
                 "addDate": "19/04/2026",
                 "limited": "secretOfTheMimic2026",
@@ -760,6 +799,14 @@
         ],
         "Legendary": [
             {
+                "name": "Music Man COMPANION",
+                "addDate": "16/05/2026",
+                "limited": ["companions", "fnafSB"],
+                "abilityId": "Stealthy Crawl COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_fnafSB_Legendary_MusicMan.png",
+                "imageClass": "companion_image"
+            },
+            {
                 "name": "Birthday Puppy",
                 "addDate": "19/04/2026",
                 "limited": "secretOfTheMimic2026",
@@ -782,15 +829,6 @@
                 "limited": "easter2026",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Legendary_ChocolateBonnie.png",
-                "imageClass": "idk_temp_image"
-            },
-            {
-                "name": "Chick Chica",
-                "addDate": "04/04/2026",
-                "lockDate": "19/04/2026",
-                "limited": "easter2026",
-                "abilityId": "Sugar Crash",
-                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_easter2026_Legendary_ChocolateChica.png",
                 "imageClass": "idk_temp_image"
             },
             {
@@ -1266,6 +1304,14 @@
         ],
         "Epic": [
             {
+                "name": "Glamrock Security Puppet",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Silent Steps",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Epic_GlamrockSecurityPuppet.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Sharpay",
                 "addDate": "19/04/2026",
                 "limited": "secretOfTheMimic2026",
@@ -1551,6 +1597,14 @@
         ],
         "Rare": [
             {
+                "name": "Glamrock Mr. Hippo",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Once Upon A Time",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Rare_GlamrockMrHippo.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Orbital Freddy",
                 "addDate": "21/02/2026",
                 "lockDate": "07/03/2026",
@@ -1705,6 +1759,14 @@
             }
         ],
         "Uncommon": [
+            {
+                "name": "Map Bot",
+                "addDate": "16/05/2026",
+                "limited": "fnafSB",
+                "abilityId": "Take a Map",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_FnafSB_Uncommon_MapBot.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Freddy 2026",
                 "addDate": "01/01/2026",

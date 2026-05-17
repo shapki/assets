@@ -309,6 +309,15 @@
         "Handy Guide COMPANION": {
             "color1": false,
             "icon": false
+        },
+        "Take a Map": {
+            "color1": "bebebe",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_TakeAMap.png",
+            "lvl 50+": true
+        },
+        "Stealthy Crawl COMPANION": {
+            "color1": false,
+            "icon": false
         }
     }
 }

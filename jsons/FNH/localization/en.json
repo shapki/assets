@@ -460,6 +460,14 @@
     "Handy Guide COMPANION": {
       "name": "Handy Guide",
       "desc": "Every 90 seconds the animatronic(s) are revealed to you for 5 seconds."
+    },
+    "Take a Map": {
+      "name": "Take a Map",
+      "desc": "Map Bot 'offers' the nearest 2 survivors a map, filling their screen with pop-up, texts and jumpscares that they must click on to get rid of."
+    },
+    "Stealthy Crawl COMPANION": {
+      "name": "Stealthy Crawl",
+      "desc": "Music Man provides a speed boost to players while crawling, but slightly reduces regular walking speed."
     }
   },
   "Quests": {
@@ -582,6 +590,7 @@
       "Golden Springtrap COMMENT": "Unreleased skin"
     },
     "exclusive": {
+      "Birthday Bash Bonnie": "Birthday Bash Bonnie",
       "Trickster Puppet": "Trickster Puppet",
       "Chick Chica": "Chick Chica",
       "Hungry Freddy": "Hungry Freddy",
@@ -612,6 +621,8 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Sun": "Sun",
+      "Moon": "Moon",
       "Mimic": "Mimic",
       "Blooming Ennard": "Blooming Ennard",
       "Mad Hatter Vanny": "Mad Hatter Vanny",
@@ -649,6 +660,8 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Glamrock Freddy": "Glamrock Freddy",
+      "Glamrock Bonnie": "Glamrock Bonnie",
       "Jackie": "Jackie",
       "Nurse Dollie": "Nurse Dollie",
       "Party Time Chica": "Party Time Chica",
@@ -664,6 +677,7 @@
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
+      "Music Man COMPANION": "Music Man",
       "Birthday Puppy": "Birthday Puppy",
       "Jest": "Jest",
       "Gilded Marionette": "Gilded Marionette",
@@ -721,6 +735,7 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Glamrock Security Puppet": "Glamrock Security Puppet",
       "Sharpay": "Sharpay",
       "Swing Bee": "Swing Bee",
       "Scarlet Chica": "Scarlet Chica",
@@ -753,6 +768,7 @@
       "Withered Freddy": "Withered Freddy"
     },
     "rare": {
+      "Glamrock Mr. Hippo": "Glamrock Mr. Hippo",
       "Orbital Freddy": "Orbital Freddy",
       "Frosty Chica": "Frosty Chica",
       "Invader Bonnie": "Invader Bonnie",
@@ -773,6 +789,7 @@
       "Golden Freddy": "Golden Freddy"
     },
     "uncommon": {
+      "Map Bot": "Map Bot",
       "Freddy 2026": "Freddy 2026",
       "Freddy 2026 COMMENT": "Within 24 hours, there was a 50% chance every hour that this skin would drop\n(and a small chance for the [GLITCHED] version).\nLuck Cupcakes were apply, and the skin itself could be obtained even during a match.",
       "Freddy Claus": "Freddy Claus",
@@ -836,7 +853,9 @@
       "PizzeriaVentilation": "Pizzeria Ventilation",
       "GatorGolf": "Gator Golf",
       "FazbearsFright": "Fazbear's Fright",
-      "MoonlightGarden": "Moonlight Garden"
+      "MoonlightGarden": "Moonlight Garden",
+      "Bunny Grove": "Bunny Grove",
+      "Murray'sCostumeManor": "Murray's Costume Manor"
     }
   },
   "Gamemodes": {
@@ -867,6 +886,24 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "17/05/2026 12:05": {
+      "title": "\"16/05\" FNAF SB Update Pt. 3",
+      "desc": "New skins, companion, ability, ",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nBirthday Bash Bonnie\n\n- SACRED:\nSun\nMoon\n\n- MYTHIC:\nGlamrock Freddy\nGlamrock Bonnie\n\n- EPIC:\nGlamrock Security Puppet\n\n- RARE:\nGlamrock Mr. Hippo\n\n- UNCOMMON:\nMap Bot"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITY",
+          "desc": "- Take a Map:\nMap Bot"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "NEW COMPANION:\n- Music Man\n| LEGENDARY\n| Ability: Stealthy Crawl\n| Music Man provides a speed boost to players while crawling, but slightly reduces regular walking speed."
+        }
+      }
     },
     "29/04/2026 00:55": {
       "title": "\"29/04\" Secret Of The Mimic Update Pt. 2",
