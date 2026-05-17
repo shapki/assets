@@ -768,7 +768,7 @@
       "Withered Freddy": "Withered Freddy"
     },
     "rare": {
-      "Glamrock Mr. Hippo": "Glamrock Mr. Hippo",
+      "Glamrock Mr Hippo": "Glamrock Mr Hippo",
       "Orbital Freddy": "Orbital Freddy",
       "Frosty Chica": "Frosty Chica",
       "Invader Bonnie": "Invader Bonnie",
@@ -893,7 +893,7 @@
       "sections": {
         "new-skins": {
           "name": "NEW SKINS",
-          "desc": "- EXCLUSIVE:\nBirthday Bash Bonnie\n\n- SACRED:\nSun\nMoon\n\n- MYTHIC:\nGlamrock Freddy\nGlamrock Bonnie\n\n- EPIC:\nGlamrock Security Puppet\n\n- RARE:\nGlamrock Mr. Hippo\n\n- UNCOMMON:\nMap Bot"
+          "desc": "- EXCLUSIVE:\nBirthday Bash Bonnie\n\n- SACRED:\nSun\nMoon\n\n- MYTHIC:\nGlamrock Freddy\nGlamrock Bonnie\n\n- EPIC:\nGlamrock Security Puppet\n\n- RARE:\nGlamrock Mr Hippo\n\n- UNCOMMON:\nMap Bot"
         },
         "new-abilities": {
           "name": "NEW ABILITY",
