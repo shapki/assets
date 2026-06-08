@@ -54,6 +54,9 @@
             ],
             "secretOfTheMimic2026": [
                 "Secret Of The Mimic"
+            ],
+            "theWaltenFiles": [
+                "The Walten Files"
             ]
         },
         "Secret": [
@@ -97,8 +100,16 @@
         ],
         "Exclusive": [
             {
+                "name": "The Mangle",
+                "addDate": "07/06/2026",
+                "abilityId": "Mangled",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_TheMangle.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Birthday Bash Bonnie",
                 "addDate": "16/05/2026",
+                "lockDate": "07/06/2026",
                 "abilityId": "Amplified Fear",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_BirthdayBashBonnie.png",
                 "imageClass": "idk_temp_image"
@@ -106,6 +117,7 @@
             {
                 "name": "Trickster Puppet",
                 "addDate": "19/04/2026",
+                "lockDate": "16/05/2026",
                 "abilityId": "Silent Steps",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_TricksterPuppet.png",
                 "imageClass": "idk_temp_image"
@@ -338,6 +350,14 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "The Pumpkin Rabbit",
+                "addDate": "07/06/2026",
+                "limited": "theWaltenFiles",
+                "abilityId": "All In Your Head",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Sacred_ThePumpkinRabbit.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Sun",
                 "addDate": "16/05/2026",
@@ -654,6 +674,22 @@
         ],
         "Mythic": [
             {
+                "name": "Bon",
+                "addDate": "07/06/2026",
+                "limited": "theWaltenFiles",
+                "abilityId": "Metal Thomb",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Mythic_Bon.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Banny",
+                "addDate": "07/06/2026",
+                "limited": "theWaltenFiles",
+                "abilityId": "Banshee",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Mythic_Banny.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Glamrock Freddy",
                 "addDate": "16/05/2026",
                 "limited": "fnafSB",
@@ -798,6 +834,22 @@
             }
         ],
         "Legendary": [
+            {
+                "name": "Sha",
+                "addDate": "07/06/2026",
+                "limited": "theWaltenFiles",
+                "abilityId": "Banshee",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Legendary_Sha.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Boozoo",
+                "addDate": "07/06/2026",
+                "limited": "theWaltenFiles",
+                "abilityId": "Hat Trick",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Legendary_Boozoo.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Music Man COMPANION",
                 "addDate": "16/05/2026",

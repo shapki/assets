@@ -468,6 +468,26 @@
     "Stealthy Crawl COMPANION": {
       "name": "Stealthy Crawl",
       "desc": "Music Man provides a speed boost to players while crawling, but slightly reduces regular walking speed."
+    },
+    "All In Your Head": {
+      "name": "All In Your Head",
+      "desc": "Animatronic spawns an AI duplicate that wanders the map, attacks one survivor, then disappears"
+    },
+    "Metal Tomb": {
+      "name": "Metal Tomb",
+      "desc": "Animatronic can place carried survivors into inactive suits for slower captures that grant permanent stackable speed boosts"
+    },
+    "Showstopper": {
+      "name": "Showstopper",
+      "desc": "Animatronic scrambles all terminal progress values by shuffling their current progress around the map"
+    },
+    "Banshee": {
+      "name": "Banshee",
+      "desc": "Animatronic emits screams that blind and deafen nearby survivors, with stronger effects at closer rang"
+    },
+    "Hat Trick": {
+      "name": "Hat Trick",
+      "desc": "Animatronic places a plush bunny trap that teleports a survivor to the animatronic when stepped on"
     }
   },
   "Quests": {
@@ -551,6 +571,7 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
+      "The Walten Files": "The Walten Files",
       "Secret Of The Mimic": "Secret Of The Mimic",
       "Easter 2026": "Easter 2026",
       "Golden Era 2026": "Golden Era 2026",
@@ -590,6 +611,7 @@
       "Golden Springtrap COMMENT": "Unreleased skin"
     },
     "exclusive": {
+      "The Mangle": "The Mangle",
       "Birthday Bash Bonnie": "Birthday Bash Bonnie",
       "Trickster Puppet": "Trickster Puppet",
       "Chick Chica": "Chick Chica",
@@ -621,6 +643,7 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "The Pumpkin Rabbit": "The Pumpkin Rabbit",
       "Sun": "Sun",
       "Moon": "Moon",
       "Mimic": "Mimic",
@@ -660,6 +683,8 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Bon": "Bon",
+      "Banny": "Banny",
       "Glamrock Freddy": "Glamrock Freddy",
       "Glamrock Bonnie": "Glamrock Bonnie",
       "Jackie": "Jackie",
@@ -677,6 +702,8 @@
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
+      "Sha": "Sha",
+      "Boozoo": "Boozoo",
       "Music Man COMPANION": "Music Man",
       "Birthday Puppy": "Birthday Puppy",
       "Jest": "Jest",
@@ -887,9 +914,27 @@
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
     },
+    "07/06/2026 14:12": {
+      "title": "\"07/06\" The Walten Files Update",
+      "desc": "New skins, abilities",
+      "sections": {
+        "new-skins": {
+          "name": "NEW SKINS",
+          "desc": "- EXCLUSIVE:\nThe Mangle\n\n- SACRED:\nThe Pumpkin Rabbit\n\n- MYTHIC:\nBon\nBanny\n\n- LEGENDARY:\nSha\nBoozoo"
+        },
+        "new-abilities": {
+          "name": "NEW ABILITIES",
+          "desc": "- All In Your Head:\nThe Pumpkin Rabbit\n\n- Metal Tomb:\nBon\n\n- Showstopper:\nBanny\n\n- Banshee:\nSha\n\n- Hat Trick:\nBoozoo"
+        },
+        "other": {
+          "name": "OTHER",
+          "desc": "Most of my custom icons was used for abilities!! YAY :D"
+        }
+      }
+    },
     "17/05/2026 12:05": {
       "title": "\"16/05\" FNAF SB Update Pt. 2",
-      "desc": "New skins, companion, ability, ",
+      "desc": "New skins, companion, ability",
       "sections": {
         "new-skins": {
           "name": "NEW SKINS",

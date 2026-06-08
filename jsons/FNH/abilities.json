@@ -318,6 +318,31 @@
         "Stealthy Crawl COMPANION": {
             "color1": false,
             "icon": false
+        },
+        "All In Your Head": {
+            "color1": "#DC781E",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_AllInYourHead.png",
+            "lvl 50+": true
+        },
+        "Metal Tomb": {
+            "color1": "#6E6E82",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MetalTomb.png",
+            "lvl 50+": true
+        },
+        "Showstopper": {
+            "color1": "#FFC83C",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Showstopper.png",
+            "lvl 50+": true
+        },
+        "Banshee": {
+            "color1": "#B43CC8",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_Banshee.png",
+            "lvl 50+": true
+        },
+        "Hat Trick": {
+            "color1": "#8C46C8",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_HatTrick.png",
+            "lvl 50+": true
         }
     }
 }
