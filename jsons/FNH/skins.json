@@ -57,9 +57,20 @@
             ],
             "theWaltenFiles": [
                 "The Walten Files"
+            ],
+            "summer2026": [
+                "Summer 2026"
             ]
         },
         "Secret": [
+            {
+                "name": "Bubble Guy",
+                "addDate": "29/06/2026",
+                "limited": "summer2026",
+                "abilityId": "Vengeance",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Secret_BubbleGuy.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "White Tiger",
                 "addDate": "19/04/2026",
@@ -100,8 +111,16 @@
         ],
         "Exclusive": [
             {
+                "name": "Monarch Baby",
+                "addDate": "29/06/2026",
+                "abilityId": "Ice Cream Lure",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_MonarchBaby.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "The Mangle",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "abilityId": "Mangled",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_TheMangle.png",
                 "imageClass": "idk_temp_image"
@@ -351,8 +370,17 @@
         ],
         "Sacred": [
             {
+                "name": "Shipwrecked Foxy",
+                "addDate": "29/06/2026",
+                "limited": "summer2026",
+                "abilityId": "Circuit Breaker",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Sacred_ShipwreckedFoxy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "The Pumpkin Rabbit",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "limited": "theWaltenFiles",
                 "abilityId": "All In Your Head",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Sacred_ThePumpkinRabbit.png",
@@ -674,8 +702,25 @@
         ],
         "Mythic": [
             {
+                "name": "Sunny Lolbit",
+                "addDate": "29/06/2026",
+                "limited": "summer2026",
+                "abilityId": "Please Stand By",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Mythic_SunnyLolbit.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Ladybug Helpy COMPANION",
+                "addDate": "29/06/2026",
+                "limited": ["companions", "summer2026"],
+                "abilityId": "Helping Hand COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Mythic_LadybugHelpy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Bon",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "limited": "theWaltenFiles",
                 "abilityId": "Metal Tomb",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Mythic_Bon.png",
@@ -684,6 +729,7 @@
             {
                 "name": "Banny",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "limited": "theWaltenFiles",
                 "abilityId": "Banshee",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Mythic_Banny.png",
@@ -835,8 +881,17 @@
         ],
         "Legendary": [
             {
+                "name": "AquaTech Roxanne",
+                "addDate": "29/06/2026",
+                "limited": "summer2026",
+                "abilityId": "Shooting Star",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Legendary_AquaTechRoxanne.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Sha",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "limited": "theWaltenFiles",
                 "abilityId": "Banshee",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Legendary_Sha.png",
@@ -845,6 +900,7 @@
             {
                 "name": "Boozoo",
                 "addDate": "07/06/2026",
+                "lockDate": "29/06/2026",
                 "limited": "theWaltenFiles",
                 "abilityId": "Hat Trick",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_WaltenFiles_Legendary_Boozoo.png",
@@ -1356,6 +1412,14 @@
         ],
         "Epic": [
             {
+                "name": "Sea Bonnie COMPANION",
+                "addDate": "29/05/2026",
+                "limited": ["companions", "summer2026"],
+                "abilityId": "Echolocation COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Epic_SeaBonnie.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Glamrock Security Puppet",
                 "addDate": "16/05/2026",
                 "limited": "fnafSB",
@@ -1648,6 +1712,14 @@
             }
         ],
         "Rare": [
+            {
+                "name": "Tropical Glamrock Chica",
+                "addDate": "29/05/2026",
+                "limited": "summer2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Rare_TropicalGlamrockChica.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Glamrock Mr Hippo",
                 "addDate": "16/05/2026",
@@ -1957,6 +2029,14 @@
             }
         ],
         "Common": [
+            {
+                "name": "Unlucky Freddy",
+                "addDate": "29/12/2025",
+                "limited": "summer2026",
+                "abilityId": "Marked One",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Common_UnluckyFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Elf Bonnie",
                 "addDate": "05/12/2025",

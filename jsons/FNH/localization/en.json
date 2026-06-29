@@ -571,6 +571,7 @@
       "lunarNewYear2026_sacredShrine": "It's only been possible to get it from the SACRED SHRINE\nYou've had to collect 12 medallions (terminal hack/survivor capture) and exchange them for 1 use of the Shrine."
     },
     "events_rarities": {
+      "Summer 2026": "Summer 2026",
       "The Walten Files": "The Walten Files",
       "Secret Of The Mimic": "Secret Of The Mimic",
       "Easter 2026": "Easter 2026",
@@ -601,6 +602,7 @@
       "Common": "Common"
     },
     "secret": {
+      "Bubble Guy": "Bubble Guy",
       "White Tiger": "White Tiger",
       "White Tiger COMMENT": "To get it, you had to find 5 digits on the 2v8 \"Murray's Costume Manor\" map and enter them in a specific order into the terminal.\nAfter escaping, this skin was awarded.",
       "Bloomtrap": "Bloomtrap",
@@ -611,6 +613,7 @@
       "Golden Springtrap COMMENT": "Unreleased skin"
     },
     "exclusive": {
+      "Monarch Baby": "Monarch Baby",
       "The Mangle": "The Mangle",
       "Birthday Bash Bonnie": "Birthday Bash Bonnie",
       "Trickster Puppet": "Trickster Puppet",
@@ -643,6 +646,7 @@
       "Bling Freddy": "Bling Freddy"
     },
     "sacred": {
+      "Shipwrecked Foxy": "Shipwrecked Foxy",
       "The Pumpkin Rabbit": "The Pumpkin Rabbit",
       "Sun": "Sun",
       "Moon": "Moon",
@@ -683,6 +687,8 @@
       "Purple Guy": "Purple Guy"
     },
     "mythic": {
+      "Sunny Lolbit": "Sunny Lolbit",
+      "Ladybug Helpy COMPANION": "Ladybug Helpy",
       "Bon": "Bon",
       "Banny": "Banny",
       "Glamrock Freddy": "Glamrock Freddy",
@@ -702,6 +708,7 @@
       "Shortcake Foxy": "Shortcake Foxy"
     },
     "legendary": {
+      "AquaTech Roxanne": "AquaTech Roxanne",
       "Sha": "Sha",
       "Boozoo": "Boozoo",
       "Music Man COMPANION": "Music Man",
@@ -762,6 +769,7 @@
       "Shadow Freddy": "Shadow Freddy"
     },
     "epic": {
+      "Sea Bonnie COMPANION": "Sea Bonnie",
       "Glamrock Security Puppet": "Glamrock Security Puppet",
       "Sharpay": "Sharpay",
       "Swing Bee": "Swing Bee",
@@ -795,6 +803,7 @@
       "Withered Freddy": "Withered Freddy"
     },
     "rare": {
+      "Tropical Glamrock Chica": "Tropical Glamrock Chica",
       "Glamrock Mr Hippo": "Glamrock Mr Hippo",
       "Orbital Freddy": "Orbital Freddy",
       "Frosty Chica": "Frosty Chica",
@@ -816,6 +825,7 @@
       "Golden Freddy": "Golden Freddy"
     },
     "uncommon": {
+      "Unlucky Freddy": "Unlucky Freddy",
       "Map Bot": "Map Bot",
       "Freddy 2026": "Freddy 2026",
       "Freddy 2026 COMMENT": "Within 24 hours, there was a 50% chance every hour that this skin would drop\n(and a small chance for the [GLITCHED] version).\nLuck Cupcakes were apply, and the skin itself could be obtained even during a match.",
@@ -913,6 +923,16 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "29/06/2026 20:52": {
+      "title": "\"29/06\" Summer Update",
+      "desc": "Summer content",
+        "sections": {
+        "warning": {
+          "name": "I'M SORRY",
+          "desc" : "I'm tired of duplicating updates here and on fandom, so they will be only there. Also, I removed the list of skins and maps from README."
+        }
+      }
     },
     "08/06/2026 14:12": {
       "title": "\"07/06\" The Walten Files Update",

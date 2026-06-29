@@ -343,6 +343,10 @@
             "color1": "#8C46C8",
             "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_HatTrick.png",
             "lvl 50+": true
+        },
+        "Echolocation COMPANION": {
+            "color1": false,
+            "icon": false
         }
     }
 }
