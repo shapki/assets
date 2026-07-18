@@ -64,8 +64,17 @@
         },
         "Secret": [
             {
+                "name": "Sandy Sailor Glitchtrap",
+                "addDate": "29/06/2026",
+                "limited": "summer2026",
+                "abilityId": "Malhare Takeover",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Secret_SandySailorGlitchtrap.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Bubble Guy",
                 "addDate": "29/06/2026",
+                "lockDate": "18/07/2026",
                 "limited": "summer2026",
                 "abilityId": "Vengeance",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Secret_BubbleGuy.png",
@@ -111,8 +120,16 @@
         ],
         "Exclusive": [
             {
+                "name": "Ice Cream Guy",
+                "addDate": "18/07/2026",
+                "abilityId": "Vengeance",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_IceCreamGuy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Monarch Baby",
                 "addDate": "29/06/2026",
+                "lockDate": "18/07/2026",
                 "abilityId": "Ice Cream Lure",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Exclusive_MonarchBaby.png",
                 "imageClass": "idk_temp_image"
@@ -369,6 +386,14 @@
             }
         ],
         "Sacred": [
+            {
+                "name": "Queen of Serpents",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Mangled",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Sacred_QueenOfSerpents.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "Shipwrecked Foxy",
                 "addDate": "29/06/2026",
@@ -702,6 +727,22 @@
         ],
         "Mythic": [
             {
+                "name": "Mermaid Ballora",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Deadly Grace",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Mythic_MermaidBallora.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Beachtime Handpuppet Freddy COMPANION",
+                "addDate": "18/07/2026",
+                "limited": ["companions", "summer2026"],
+                "abilityId": "It's Showtime! COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Mythic_BeachtimeHandpuppetFreddy.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Sunny Lolbit",
                 "addDate": "29/06/2026",
                 "limited": "summer2026",
@@ -880,6 +921,14 @@
             }
         ],
         "Legendary": [
+            {
+                "name": "S'mores Springtrap",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Springlocked",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Legendary_SmoresSpringtrap.png",
+                "imageClass": "idk_temp_image"
+            },
             {
                 "name": "AquaTech Roxanne",
                 "addDate": "29/06/2026",
@@ -1412,8 +1461,24 @@
         ],
         "Epic": [
             {
+                "name": "Flamethrower Endo-01",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Short Circuit",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Epic_FlamethrowerEndo01.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
+                "name": "Carl COMPANION",
+                "addDate": "18/07/2026",
+                "limited": ["companions", "summer2026"],
+                "abilityId": "Sentinel COMPANION",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Epic_Carl.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Sea Bonnie COMPANION",
-                "addDate": "29/05/2026",
+                "addDate": "29/06/2026",
                 "limited": ["companions", "summer2026"],
                 "abilityId": "Echolocation COMPANION",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Epic_SeaBonnie.png",
@@ -1714,7 +1779,7 @@
         "Rare": [
             {
                 "name": "Tropical Glamrock Chica",
-                "addDate": "29/05/2026",
+                "addDate": "29/06/2026",
                 "limited": "summer2026",
                 "abilityId": "Sugar Crash",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Rare_TropicalGlamrockChica.png",
@@ -1884,6 +1949,14 @@
         ],
         "Uncommon": [
             {
+                "name": "Breezy Toy Chica",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Uncommon_BreezyToyChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Map Bot",
                 "addDate": "16/05/2026",
                 "limited": "fnafSB",
@@ -2030,8 +2103,16 @@
         ],
         "Common": [
             {
+                "name": "Lemonade Glass Chica",
+                "addDate": "18/07/2026",
+                "limited": "summer2026",
+                "abilityId": "Sugar Crash",
+                "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Common_LemonadeGlassChica.png",
+                "imageClass": "idk_temp_image"
+            },
+            {
                 "name": "Unlucky Freddy",
-                "addDate": "29/12/2025",
+                "addDate": "29/06/2026",
                 "limited": "summer2026",
                 "abilityId": "Marked One",
                 "image": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/Skins/Img_FiveNightsHunted_Skins_Summer2026_Common_UnluckyFreddy.png",

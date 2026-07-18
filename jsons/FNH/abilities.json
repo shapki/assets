@@ -347,6 +347,15 @@
         "Echolocation COMPANION": {
             "color1": false,
             "icon": false
+        },
+        "Malhare Takeover": {
+            "color1": "#E80CB5",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MalhareTakeover.png",
+            "lvl 50+": true
+        },
+        "It's Showtime! COMPANION": {
+            "color1": false,
+            "icon": false
         }
     }
 }
