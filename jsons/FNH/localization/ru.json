@@ -611,7 +611,9 @@
     },
     "secret": {
       "Sandy Sailor Glitchtrap": "Песчаный матрос Глитчтрап",
+      "Sandy Sailor Glitchtrap COMMENT": "(автор) @so5alt.",
       "Bubble Guy": "Пузырьковый Чувак",
+      "Bubble Guy COMMENT": "(автор) @abs0lut3_d1sast3r.",
       "White Tiger": "Белый Тигр",
       "White Tiger COMMENT": "Для получения требовалось найти 5 цифр на 2v8 версии карты \"Мастерская Костюмов Мюррея\" и ввести их в определённом порядке в терминал.\nПосле побега выдавался этот скин.",
       "Bloomtrap": "Блумтрап",
@@ -624,10 +626,15 @@
     "exclusive": {
       "Ice Cream Guy": "Парень-Мороженное",
       "Monarch Baby": "Монарх Бэйби",
+      "Monarch Baby COMMENT": "(автор) @niamhlovescats_.",
       "The Mangle": "Старая Мангл",
+      "The Mangle COMMENT": "(автор) @so5alt.",
       "Birthday Bash Bonnie": "Именинник Бонни",
+      "Birthday Bash Bonnie COMMENT": "(автор) @riflebass.",
       "Trickster Puppet": "Марионетка-Шут",
+      "Trickster Puppet COMMENT": "(автор) @cupcakesillies.",
       "Chick Chica": "Цыпа Чика",
+      "Chick Chica COMMENT": "(автор) @riflebass.",
       "Hungry Freddy": "Голодный Фредди",
       "Hungry Freddy COMMENT": "Был доступен только 01/04 [один день].\n\nАрт @so5alt, 3Д модель @devfoxes",
       "Sprinting Fredbear": "Шустрый Фредбер",
@@ -635,10 +642,12 @@
       "Kitsune Lolbit": "Кицунэ Лолбит",
       "Kitsune Lolbit COMMENT": "С каждой сотой был 1% шанс, что попадётся [ГЛИТЧ] версия.",
       "Loveshot Mangle": "Лавшот Мангл",
+      "Loveshot Mangle COMMENT": "(автор) @riflebass.",
       "Glamrock Foxy": "Глэмрок Фокси",
       "Lava Marionette": "Лавовая Марионетка",
       "Lava Marionette COMMENT": "Предложил через предложку (автор) @panzerkampfwagon.\n\n[ГЛИТЧ] версию получил только автор.",
       "Glam Chica": "Глэм Чика",
+      "Glam Chica COMMENT": "(автор ремодели) @riflebass.",
       "Krampus Burntrap": "Крампус Бёрнтрап",
       "Krampus Burntrap COMMENT": "Предложил через предложку (автор) @itsthedangerranger.\n\n[ГЛИТЧ] версию получил автор и победители в раздаче в Discord.",
       "Baker Freddy": "Пекарь Фредди",
@@ -657,6 +666,7 @@
     },
     "sacred": {
       "Queen of Serpents": "Королева Змей",
+      "Queen of Serpents COMMENT": "(автор) @riflebass.",
       "Shipwrecked Foxy": "Разбившийся Фокси",
       "The Pumpkin Rabbit": "Тыквенный Кролик",
       "Sun": "Солнце",
@@ -699,7 +709,9 @@
     },
     "mythic": {
       "Mermaid Ballora": "Баллора-Русалка",
+      "Mermaid Ballora COMMENT": "(автор) @onlylea.",
       "Beachtime Handpuppet Freddy COMPANION": "Пляжный Фредди-Кукла",
+      "Beachtime Handpuppet Freddy COMMENT": "(автор) @cupcakesillies.",
       "Sunny Lolbit": "Солнечная Лолбит",
       "Ladybug Helpy COMPANION": "Божья Коровка Хелпи",
       "Bon": "Бон",
@@ -712,6 +724,7 @@
       "Mr Helpful COMPANION": "Мистер Выручалкин",
       "Mrs Helpful COMPANION": "Миссис Выручалкин",
       "Gilded Marionette": "Позолоченная Марионетка",
+      "Gilded Marionette COMMENT": "(автор) @so5alt.",
       "Spring Reaper Foxy": "Весенний Жнец Фокси",
       "Spring Bonnie": "Спринг Бонни",
       "Ghost Child COMPANION": "Призрачный Ребёнок",
@@ -724,13 +737,16 @@
     },
     "legendary": {
       "S'mores Springtrap": "Зефирный Спрингтрап",
-      "AquaTech Roxanne": "Аква-Тех Роксанна",
+      "S'mores Springtrap COMMENT": "(автор) @riflebass.",
+      "AquaTech Roxanne": "АкваТех Роксанна",
+      "AquaTech Roxanne COMMENT": "(автор) @so5alt.",
       "Sha": "Ша",
       "Boozoo": "Буузуу",
       "Music Man COMPANION": "Муз-чел",
       "Birthday Puppy": "Празничный Щенок",
       "Jest": "Джест",
       "Chocolate Bonnie": "Шоколадный Бонни",
+      "Chocolate Bonnie COMMENT": "(автор) @so5alt.",
       "Chocolate Chica": "Шоколадная Чика",
       "Bloodmoon Foxy": "Кроволунный Фокси",
       "Jade Rabbit Bonnie": "Нефритовый Кролик Бонни",
@@ -785,6 +801,7 @@
     "epic": {
       "Flamethrower Endo-01": "Огнемётный Эндо-01",
       "Carl COMPANION": "Карл",
+      "Carl COMPANION COMMENT": "(автор) @riflebass.",
       "Sea Bonnie COMPANION": "Морской Бонни",
       "Glamrock Security Puppet": "Глэмрок Страж-Марионетка",
       "Sharpay": "Шарпи",
@@ -842,6 +859,7 @@
     },
     "uncommon": {
       "Breezy Toy Chica": "Летняя Игрушечная Чика",
+      "Breezy Toy Chica COMMENT": "(автор) @riflebass.",
       "Map Bot": "Карта-Бот",
       "Freddy 2026": "Фредди 2026",
       "Freddy 2026 COMMENT": "В течении 24 часов каждый час был шанс 50%, что выпадет этот скин\n(и маленький шанс, что [ГЛИТЧ] версия).\nКексы Удачи действовали, а сам скин можно было получить даже во время матча.",
@@ -941,6 +959,16 @@
       "pageTitle": "📝 Журнал Обновлений",
       "error": "Ошика загрузки обновлений. Попробуйте позже.",
       "sectionPlaceholder": "📝 Секция"
+    },
+    "18/07/2026 20:45": {
+      "title": "Небольшое обновление \"21/07\" Откат на R6",
+      "desc": "Откат базы моделей игроков на R6",
+      "sections": {
+        "warning": {
+          "name": "ИЗВИНИТЕ",
+          "desc" : "Я устал дублировать обновления сюда и на fandom, поэтому они будут только там. Также я убрал перечень скинов и карт из README."
+        }
+      }
     },
     "18/07/2026 18:58": {
       "title": "Летнее Обновление \"18/07\" Часть 2",
