@@ -348,9 +348,9 @@
             "color1": false,
             "icon": false
         },
-        "Malhare Takeover": {
+        "Malware Takeover": {
             "color1": "#E80CB5",
-            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MalhareTakeover.png",
+            "icon": "https://cdn.jsdelivr.net/gh/shapki/assets@main/imgs/FNH/GameIcons/Ic_FiveNightsHunted_Game_Ability_MalwareTakeover.png",
             "lvl 50+": true
         },
         "It's Showtime! COMPANION": {
