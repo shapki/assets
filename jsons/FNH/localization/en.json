@@ -624,6 +624,8 @@
       "Golden Springtrap COMMENT": "Unreleased skin"
     },
     "exclusive": {
+      "Lucky Freddy": "Lucky Freddy",
+      "Lucky Freddy COMMENT": "(author) @charliix3",
       "Ice Cream Guy": "Ice Cream Guy",
       "Monarch Baby": "Monarch Baby",
       "Monarch Baby COMMENT": "(author) @niamhlovescats_.",
@@ -959,6 +961,16 @@
       "pageTitle": "📝 Update Log",
       "error": "Failed to load updates. Please try again later.",
       "sectionPlaceholder": "📝 Section"
+    },
+    "01/08/2026 20:17": {
+      "title": "\"01/08\" Small Update - Bug fixes",
+      "desc": "Bug fixes, QOL-stuff",
+      "sections": {
+        "warning": {
+          "name": "I'M SORRY",
+          "desc" : "I'm tired of duplicating updates here and on fandom, so they will be only there. Also, I removed the list of skins and maps from README."
+        }
+      }
     },
     "18/07/2026 20:45": {
       "title": "\"21/07\" Small Update - Reverting back to R6",
