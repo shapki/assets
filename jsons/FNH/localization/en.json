@@ -475,7 +475,7 @@
     },
     "Metal Tomb": {
       "name": "Metal Tomb",
-      "desc": "Animatronic can place carried survivors into inactive suits for slower captures that grant permanent stackable speed boosts"
+      "desc": "2-3 inactive animatronic suits are placed around the map. While carrying a downed survivor, Bon can place them inside a suit instead of a ballpit. Capture is slightly slower, but each suit capture grants Bon a permanent, stackable speed boost. Suits can only be used once each per round"
     },
     "Showstopper": {
       "name": "Showstopper",
